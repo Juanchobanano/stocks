@@ -1,0 +1,33 @@
+# Long-Short Equity Algorithm — Dependencies
+# Install with: pip install -r requirements.txt
+
+# Data
+yfinance>=0.2.28
+requests>=2.31.0
+
+# Numerics / ML
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+cvxpy>=1.4.0
+
+# FinBERT sentiment (pipeline/sentiment.py)
+# torch version depends on your hardware — see https://pytorch.org/get-started
+transformers>=4.35.0
+torch>=2.0.0
+
+# HTML parsing (universe fetcher)
+lxml>=4.9.0
+
+# Interactive Brokers (requires TWS or IB Gateway running locally)
+ib_insync>=0.9.86
+
+numpy
+pandas
+scipy
+scikit-learn
+pykalman
+PyWavelets
+matplotlib
+seaborn
