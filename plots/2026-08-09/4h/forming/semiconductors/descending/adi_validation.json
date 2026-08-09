@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "Price shows a strong downtrend from late June through late July, bottoming around 355 in early August, then a modest bounce into the last few candles (~370-385) with lower volatility. This looks more like a downtrend flattening/basing near the lows rather than a descending triangle - there's no clear flat support line with 3+ equal touches, and no consistent lower-high resistance line converging into it. The recent candles are actually rising slightly (Aug 1-5), which argues against a descending triangle setup. Only 2 ambiguous touches on each side at best, and the right-edge action looks like a bounce/consolidation rather than a compressing wedge. I disagree with the algorithm's flag - the structure lacks the clean two-sided containment needed for a credible triangle.",
+  "validated_at": "2026-08-09T22:11:07.074382+00:00"
+}

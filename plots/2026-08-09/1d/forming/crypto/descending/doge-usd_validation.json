@@ -1,0 +1,13 @@
+{
+  "symbol": "DOGE-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart (Jul-Aug) shows price flattening out around 0.068-0.075 after a long downtrend, but this looks more like a consolidation/basing range with roughly horizontal support and resistance rather than a converging descending triangle. There's no clear series of lower highs compressing toward a flat support line - both boundaries appear roughly flat/parallel rather than converging. The candles from mid-July onward show very low volatility and tight range, resembling a flag or rectangle rather than a triangle apex forming. I don't see a credible descending trendline connecting lower highs into the recent price action; the highs in early July (~0.078) and late July (~0.073) are close but not forming a clean converging structure with a flat bottom. This looks more like exhaustion/basing after a downtrend than an active triangle breakout setup.",
+  "validated_at": "2026-08-09T22:12:25.195029+00:00"
+}

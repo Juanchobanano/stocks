@@ -1,0 +1,84 @@
+name: Triangle Scanner
+
+on:
+  schedule:
+    # Daily — 1d + 3h + 4h after US market close data settles (~8 AM UTC)
+    - cron: '3 8 * * *'
+    # Monthly — 1mo on the 1st
+    - cron: '7 9 1 * *'
+  workflow_dispatch:
+    inputs:
+      intervals:
+        description: 'Intervals to scan (space-separated: 1h 1d 3h 4h 1mo)'
+        required: false
+        default: '1d'
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write   # needed to push commits back
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Pick intervals
+        id: intervals
+        run: |
+          # Determine which interval(s) to scan based on the trigger:
+          #   workflow_dispatch → use the input value
+          #   monthly cron (1st, 9:07 UTC)  → 1mo
+          #   daily cron   (8:03 UTC)      → 1d, 3h, 4h
+
+          if [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+            INTERVALS="${{ inputs.intervals }}"
+          elif [ "$(date -u +%d)" = "01" ] && [ "$(date -u +%H)" = "09" ]; then
+            INTERVALS="1mo"
+          else
+            INTERVALS="1d 3h 4h"
+          fi
+
+          echo "intervals=$INTERVALS" >> "$GITHUB_OUTPUT"
+          echo "Scanning intervals: $INTERVALS"
+
+      - name: Run scanner
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          for interval in ${{ steps.intervals.outputs.intervals }}; do
+            echo "=== $interval ==="
+            python scan_triangles.py --interval "$interval" --validate --no-cache
+            echo ""
+          done
+
+      - name: Generate dashboard
+        run: python generate_dashboard.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add plots/ docs/
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            new=$(git diff --cached --diff-filter=A --name-only | wc -l | tr -d ' ')
+            mod=$(git diff --cached --diff-filter=M --name-only | wc -l | tr -d ' ')
+            git commit -m "scanner: ${new} new, ${mod} updated [automated]"
+            git push
+          fi

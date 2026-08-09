@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows price in a tight, flat, low-volatility range (~0.0655-0.0680) with no clear rising lower trendline or converging structure - it's more of a sideways consolidation/rectangle than a triangle. There's no series of higher lows to support an ascending triangle; lows are roughly flat (0.0655-0.0665) rather than climbing. The upper boundary is also flat (~0.0675-0.0680), not descending. This looks like range-bound consolidation after a downtrend from the July highs, not a converging triangle. I disagree with the algorithm's ascending triangle call since the defining feature (rising support line) is not visually present - both boundaries appear roughly horizontal/parallel rather than converging.",
+  "validated_at": "2026-08-09T22:10:44.629127+00:00"
+}

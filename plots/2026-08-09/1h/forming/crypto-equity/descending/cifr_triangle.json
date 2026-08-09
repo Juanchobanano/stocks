@@ -1,0 +1,101 @@
+{
+  "symbol": "CIFR",
+  "sector": "crypto-equity",
+  "beta": 3.6,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-22",
+      "end": "2026-06-29",
+      "duration_days": 7,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 26.73,
+        "stop_loss": 23.14,
+        "take_profit_half": 28.66,
+        "take_profit_full": 30.59,
+        "height": 3.86
+      },
+      "volume_trend": {
+        "slope": 44031.52,
+        "trend": "rising",
+        "r_squared": 0.0572
+      },
+      "points": {
+        "A": [
+          "2026-06-22",
+          30.14
+        ],
+        "B": [
+          "2026-06-25",
+          24.42
+        ],
+        "C": [
+          "2026-06-25",
+          28.05
+        ],
+        "D": [
+          "2026-06-26",
+          23.8
+        ],
+        "E": [
+          "2026-06-29",
+          26.88
+        ],
+        "F": [
+          "2026-06-29",
+          24.63
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": false,
+      "direction": "LONG",
+      "start": "2026-07-23",
+      "end": "2026-08-06",
+      "duration_days": 14,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 24.88,
+        "stop_loss": 17.6,
+        "take_profit_half": 29.7,
+        "take_profit_full": 34.52,
+        "height": 9.64
+      },
+      "volume_trend": {
+        "slope": 36405.55,
+        "trend": "rising",
+        "r_squared": 0.0454
+      },
+      "points": {
+        "A": [
+          "2026-07-23",
+          26.84
+        ],
+        "B": [
+          "2026-07-29",
+          17.442
+        ],
+        "C": [
+          "2026-08-03",
+          25.21
+        ],
+        "D": [
+          "2026-08-06",
+          17.7
+        ],
+        "E": [
+          "2026-08-06",
+          17.7
+        ],
+        "F": [
+          "2026-08-06",
+          18.68
+        ]
+      }
+    }
+  ]
+}

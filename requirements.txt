@@ -31,3 +31,6 @@ pykalman
 PyWavelets
 matplotlib
 seaborn
+
+# VLM validation (triangle pattern scanner)
+# uses requests (already listed above)

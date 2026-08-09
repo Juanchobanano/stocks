@@ -1,0 +1,54 @@
+{
+  "symbol": "DASH",
+  "sector": "internet",
+  "beta": 1.35,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-07",
+      "end": "2026-07-20",
+      "duration_days": 13,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 192.89,
+        "stop_loss": 181.37,
+        "take_profit_half": 201.09,
+        "take_profit_full": 209.3,
+        "height": 16.41
+      },
+      "volume_trend": {
+        "slope": -2654.24,
+        "trend": "declining",
+        "r_squared": 0.0729
+      },
+      "points": {
+        "A": [
+          "2026-07-07",
+          199.05
+        ],
+        "B": [
+          "2026-07-08",
+          182.485
+        ],
+        "C": [
+          "2026-07-16",
+          194.23
+        ],
+        "D": [
+          "2026-07-17",
+          181.6803
+        ],
+        "E": [
+          "2026-07-20",
+          191.55
+        ],
+        "F": [
+          "2026-07-20",
+          189.635
+        ]
+      }
+    }
+  ]
+}

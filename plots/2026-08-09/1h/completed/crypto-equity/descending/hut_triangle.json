@@ -1,0 +1,101 @@
+{
+  "symbol": "HUT",
+  "sector": "crypto-equity",
+  "beta": 2.58,
+  "triangles": [
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-06-09",
+      "end": "2026-06-23",
+      "duration_days": 14,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 110.93,
+        "stop_loss": 127.22,
+        "take_profit_half": 99.76,
+        "take_profit_full": 88.59,
+        "height": 22.34
+      },
+      "volume_trend": {
+        "slope": -564.11,
+        "trend": "flat",
+        "r_squared": 0.0019
+      },
+      "points": {
+        "A": [
+          "2026-06-09",
+          124.9799
+        ],
+        "B": [
+          "2026-06-10",
+          104.2501
+        ],
+        "C": [
+          "2026-06-17",
+          126.28
+        ],
+        "D": [
+          "2026-06-23",
+          111.11
+        ],
+        "E": [
+          "2026-06-23",
+          124.25
+        ],
+        "F": [
+          "2026-06-23",
+          123.96
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-29",
+      "end": "2026-07-14",
+      "duration_days": 15,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 107.03,
+        "stop_loss": 95.67,
+        "take_profit_half": 123.8,
+        "take_profit_full": 140.57,
+        "height": 33.54
+      },
+      "volume_trend": {
+        "slope": -4764.13,
+        "trend": "declining",
+        "r_squared": 0.0783
+      },
+      "points": {
+        "A": [
+          "2026-06-29",
+          126.4585
+        ],
+        "B": [
+          "2026-07-02",
+          94.0183
+        ],
+        "C": [
+          "2026-07-09",
+          112.39
+        ],
+        "D": [
+          "2026-07-13",
+          95.825
+        ],
+        "E": [
+          "2026-07-14",
+          104.0
+        ],
+        "F": [
+          "2026-07-14",
+          97.305
+        ]
+      }
+    }
+  ]
+}

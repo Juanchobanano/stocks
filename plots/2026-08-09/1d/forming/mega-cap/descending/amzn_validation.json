@@ -1,0 +1,13 @@
+{
+  "symbol": "AMZN",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp V-shaped recovery from ~227 low in late July to a strong rally peak near 286 in early August, followed by a small pullback/consolidation of only 3-4 candles (280\u2192272). This is far too brief and lacks the multiple touch points on both a flat support and a descending resistance line needed to qualify as a descending triangle. There's no clear horizontal support being tested repeatedly, nor a series of lower highs converging into it - just one sharp impulsive move up and a minor retracement. This looks more like a breakout/pullback continuation setup than a triangle consolidation. The algorithm likely mistook the tight recent candles for triangle compression, but there aren't enough distinct swing highs/lows to draw two converging trendlines with conviction.",
+  "validated_at": "2026-08-09T22:12:54.193672+00:00"
+}

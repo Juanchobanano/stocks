@@ -1,0 +1,101 @@
+{
+  "symbol": "MARA",
+  "sector": "crypto-equity",
+  "beta": 3.1,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-22",
+      "end": "2026-07-02",
+      "duration_days": 9,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 13.95,
+        "stop_loss": 13.19,
+        "take_profit_half": 15.76,
+        "take_profit_full": 17.58,
+        "height": 3.63
+      },
+      "volume_trend": {
+        "slope": -12142.93,
+        "trend": "flat",
+        "r_squared": 0.0034
+      },
+      "points": {
+        "A": [
+          "2026-06-22",
+          16.43
+        ],
+        "B": [
+          "2026-06-25",
+          12.954
+        ],
+        "C": [
+          "2026-06-26",
+          14.99
+        ],
+        "D": [
+          "2026-07-01",
+          13.18
+        ],
+        "E": [
+          "2026-07-02",
+          14.0899
+        ],
+        "F": [
+          "2026-07-02",
+          13.3248
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": false,
+      "direction": "LONG",
+      "start": "2026-07-30",
+      "end": "2026-08-06",
+      "duration_days": 7,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 11.85,
+        "stop_loss": 10.79,
+        "take_profit_half": 12.33,
+        "take_profit_full": 12.81,
+        "height": 0.96
+      },
+      "volume_trend": {
+        "slope": -99065.66,
+        "trend": "declining",
+        "r_squared": 0.1336
+      },
+      "points": {
+        "A": [
+          "2026-07-30",
+          12.03
+        ],
+        "B": [
+          "2026-08-03",
+          10.96
+        ],
+        "C": [
+          "2026-08-04",
+          11.91
+        ],
+        "D": [
+          "2026-08-06",
+          10.8
+        ],
+        "E": [
+          "2026-08-06",
+          10.8
+        ],
+        "F": [
+          "2026-08-06",
+          11.015
+        ]
+      }
+    }
+  ]
+}

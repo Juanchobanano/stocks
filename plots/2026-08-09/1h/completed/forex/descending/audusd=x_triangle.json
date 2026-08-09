@@ -1,0 +1,148 @@
+{
+  "symbol": "AUDUSD=X",
+  "sector": "forex",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-25",
+      "end": "2026-06-29",
+      "duration_days": 3,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 0.69,
+        "stop_loss": 0.69,
+        "take_profit_half": 0.69,
+        "take_profit_full": 0.7,
+        "height": 0.01
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-06-25",
+          0.6929
+        ],
+        "B": [
+          "2026-06-26",
+          0.6879
+        ],
+        "C": [
+          "2026-06-26",
+          0.6919
+        ],
+        "D": [
+          "2026-06-29",
+          0.6884
+        ],
+        "E": [
+          "2026-06-29",
+          0.6906
+        ],
+        "F": [
+          "2026-06-29",
+          0.6906
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-30",
+      "end": "2026-07-02",
+      "duration_days": 1,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 0.69,
+        "stop_loss": 0.69,
+        "take_profit_half": 0.69,
+        "take_profit_full": 0.7,
+        "height": 0.0
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-06-30",
+          0.6931
+        ],
+        "B": [
+          "2026-07-01",
+          0.6886
+        ],
+        "C": [
+          "2026-07-01",
+          0.6917
+        ],
+        "D": [
+          "2026-07-02",
+          0.6887
+        ],
+        "E": [
+          "2026-07-02",
+          0.6903
+        ],
+        "F": [
+          "2026-07-02",
+          0.6897
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-23",
+      "end": "2026-07-28",
+      "duration_days": 5,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 0.7,
+        "stop_loss": 0.7,
+        "take_profit_half": 0.7,
+        "take_profit_full": 0.71,
+        "height": 0.01
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-07-23",
+          0.7023
+        ],
+        "B": [
+          "2026-07-23",
+          0.6965
+        ],
+        "C": [
+          "2026-07-27",
+          0.7014
+        ],
+        "D": [
+          "2026-07-28",
+          0.6966
+        ],
+        "E": [
+          "2026-07-28",
+          0.6989
+        ],
+        "F": [
+          "2026-07-28",
+          0.6985
+        ]
+      }
+    }
+  ]
+}

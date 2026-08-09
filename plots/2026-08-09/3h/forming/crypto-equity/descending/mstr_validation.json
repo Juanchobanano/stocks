@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "From mid-July through early August, price is oscillating in a fairly flat, range-bound channel between roughly 90 and 103, with no clear convergence. Highs are not consistently declining (Jul 20-22 highs around 102-103 are similar to earlier Jul 12-15 highs), and lows are not consistently rising (Jul 24 dips to ~91, similar to earlier lows near 90-92). This looks more like sideways consolidation/noise than a descending triangle with a well-defined flat support and falling resistance. The algorithm's descending triangle call isn't well supported since the 'lower support line' isn't flat/tested cleanly and the upper boundary isn't clearly converging downward into an apex near the right edge. I don't see a credible, tight triangle formation with clear multiple touches converging near the current price action.",
+  "validated_at": "2026-08-09T22:10:00.479049+00:00"
+}

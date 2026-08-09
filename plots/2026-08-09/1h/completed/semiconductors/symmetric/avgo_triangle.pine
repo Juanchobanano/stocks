@@ -1,0 +1,67 @@
+//@version=5
+// AVGO — Symmetric Triangle △  (SYMMETRIC (both) setup)
+// Pattern:  converging lines A→C and B→D
+// Status:   COMPLETED
+// Direction: SYMMETRIC
+indicator("AVGO Triangle", overlay=true, max_lines_count=500, max_labels_count=500)
+
+// ── Pivot timestamps ──────────────────────────────────────────
+tA = timestamp(2026, 7, 9, 0, 0)
+tB = timestamp(2026, 7, 17, 0, 0)
+tC = timestamp(2026, 7, 22, 0, 0)
+tD = timestamp(2026, 7, 27, 0, 0)
+
+// ── Pivot prices ──────────────────────────────────────────────
+pA = 407.52
+pB = 357.80
+pC = 398.58
+pD = 373.50
+pF = 380.76
+
+// ── Trendline endpoints at current bar ────────────────────────
+pUpperEnd = 387.70
+pLowerEnd = 395.77
+
+// ── TRENDLINES — from first pivot to current bar ──────────────
+if barstate.islast
+    // Upper: first high → current bar
+    line.new(tA, pA, last_bar_time, pUpperEnd, xloc=xloc.bar_time,
+             color=color.white, width=4)
+    // Lower: first low → current bar
+    line.new(tB, pB, last_bar_time, pLowerEnd, xloc=xloc.bar_time,
+             color=color.new(#ffff00, 0), width=4)
+
+// ── HORIZONTAL TRADE LEVELS ───────────────────────────────────
+hline(459.40, "TP full  +16.1%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(427.61, "TP half  +8.0%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(395.81, "Entry  395.81",    color.white,             hline.style_solid,  4)
+hline(377.25, "Stop  -4.7%",     color.new(#ffff00, 20),  hline.style_dashed, 4)
+
+// ── SHORT trade levels ────────────────────────────────────────
+hline(313.02, "TP full S  +16.9%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(344.81, "TP half S  +8.4%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(376.61, "Entry S  376.61",    color.white,             hline.style_solid,  4)
+hline(395.17, "Stop S  -4.9%",     color.new(#ffff00, 20),  hline.style_dashed, 4)
+
+// ── POINT LABELS ───────────────────────────────────────────────
+if barstate.islast
+    c = color.new(color.white, 80)
+    // Highs — label below
+    label.new(tA, pA, "A", xloc=xloc.bar_time, color=c, textcolor=color.white, style=label.style_label_down, size=size.normal)
+    label.new(tC, pC, "C", xloc=xloc.bar_time, color=c, textcolor=color.white, style=label.style_label_down, size=size.normal)
+    // Lows — label above
+    label.new(tB, pB, "B", xloc=xloc.bar_time, color=c, textcolor=color.white, style=label.style_label_up,   size=size.normal)
+    label.new(tD, pD, "D", xloc=xloc.bar_time, color=c, textcolor=color.white, style=label.style_label_up,   size=size.normal)
+    label.new(tD, pD, "E", xloc=xloc.bar_time, color=c, textcolor=color.white, style=label.style_label_up,   size=size.normal)
+    label.new(tD, pF, "F", xloc=xloc.bar_time, color=c, textcolor=color.white, style=label.style_label_up,   size=size.normal)
+
+// ── RIGHT-EDGE LEVEL LABELS ────────────────────────────────────
+if barstate.islast
+    label.new(bar_index + 2, 459.40, "TP full  459.40  (+16.1%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 427.61, "TP half  427.61  (+8.0%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 395.81 * 1.025, "Entry L  395.81", color=color.new(color.white, 90), textcolor=color.new(color.white, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 377.25 * 1.025, "Stop L  377.25  (-4.7%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 10, 395.17 * 0.970, "Stop S  395.17  (-4.9%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 10, 376.61 * 0.970, "Entry S  376.61", color=color.new(color.white, 90), textcolor=color.new(color.white, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 10, 344.81, "TP half S  344.81  (+8.4%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 10, 313.02, "TP full S  313.02  (+16.9%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)

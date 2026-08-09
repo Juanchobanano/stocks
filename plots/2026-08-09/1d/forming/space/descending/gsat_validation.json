@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right edge shows a strong breakout candle from ~81 to ~84.5, followed by a small pullback/consolidation over just 3-4 candles at the highs (83-84.5). This is far too few candles to establish a valid descending triangle with multiple touchpoints on converging trendlines. There's no clear flat support with lower highs converging - instead this looks like a sharp impulsive rally followed by brief consolidation/flag, not a triangle. The broader chart shows a downtrend from late May to late July bottoming around 79, then a sharp reversal spike upward - this is more consistent with a breakout/reversal than a triangle apex forming. I disagree with the algorithm's descending triangle flag; there aren't two clear touches on both upper and lower trendlines converging near the right edge.",
+  "validated_at": "2026-08-09T22:13:42.010727+00:00"
+}

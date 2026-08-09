@@ -1,0 +1,54 @@
+{
+  "symbol": "DELL",
+  "sector": "hardware",
+  "beta": 2.34,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-24",
+      "end": "2026-07-06",
+      "duration_days": 12,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 439.26,
+        "stop_loss": 386.18,
+        "take_profit_half": 472.95,
+        "take_profit_full": 506.64,
+        "height": 67.37
+      },
+      "volume_trend": {
+        "slope": -2799.14,
+        "trend": "flat",
+        "r_squared": 0.0035
+      },
+      "points": {
+        "A": [
+          "2026-06-24",
+          440.38
+        ],
+        "B": [
+          "2026-06-29",
+          378.66
+        ],
+        "C": [
+          "2026-07-01",
+          438.52
+        ],
+        "D": [
+          "2026-07-02",
+          386.01
+        ],
+        "E": [
+          "2026-07-06",
+          429.74
+        ],
+        "F": [
+          "2026-07-06",
+          417.72
+        ]
+      }
+    }
+  ]
+}

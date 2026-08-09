@@ -1,0 +1,101 @@
+{
+  "symbol": "SNAP",
+  "sector": "internet",
+  "beta": 2.43,
+  "triangles": [
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-06-22",
+      "end": "2026-07-10",
+      "duration_days": 18,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 4.51,
+        "stop_loss": 4.91,
+        "take_profit_half": 4.21,
+        "take_profit_full": 3.9,
+        "height": 0.61
+      },
+      "volume_trend": {
+        "slope": -28262.98,
+        "trend": "declining",
+        "r_squared": 0.0648
+      },
+      "points": {
+        "A": [
+          "2026-06-22",
+          4.81
+        ],
+        "B": [
+          "2026-06-25",
+          4.28
+        ],
+        "C": [
+          "2026-07-02",
+          4.87
+        ],
+        "D": [
+          "2026-07-09",
+          4.5
+        ],
+        "E": [
+          "2026-07-10",
+          4.87
+        ],
+        "F": [
+          "2026-07-10",
+          4.755
+        ]
+      }
+    },
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-07-06",
+      "end": "2026-07-15",
+      "duration_days": 9,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 4.58,
+        "stop_loss": 4.87,
+        "take_profit_half": 4.36,
+        "take_profit_full": 4.14,
+        "height": 0.45
+      },
+      "volume_trend": {
+        "slope": -14656.36,
+        "trend": "flat",
+        "r_squared": 0.0213
+      },
+      "points": {
+        "A": [
+          "2026-07-06",
+          4.875
+        ],
+        "B": [
+          "2026-07-09",
+          4.5
+        ],
+        "C": [
+          "2026-07-10",
+          4.87
+        ],
+        "D": [
+          "2026-07-14",
+          4.57
+        ],
+        "E": [
+          "2026-07-15",
+          4.88
+        ],
+        "F": [
+          "2026-07-15",
+          4.825
+        ]
+      }
+    }
+  ]
+}

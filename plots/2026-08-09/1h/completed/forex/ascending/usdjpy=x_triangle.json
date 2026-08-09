@@ -1,0 +1,289 @@
+{
+  "symbol": "USDJPY=X",
+  "sector": "forex",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-08",
+      "end": "2026-07-09",
+      "duration_days": 1,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 162.41,
+        "stop_loss": 162.25,
+        "take_profit_half": 162.65,
+        "take_profit_full": 162.9,
+        "height": 0.48
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-07-08",
+          162.708
+        ],
+        "B": [
+          "2026-07-09",
+          162.24
+        ],
+        "C": [
+          "2026-07-09",
+          162.51
+        ],
+        "D": [
+          "2026-07-09",
+          162.25
+        ],
+        "E": [
+          "2026-07-09",
+          162.429
+        ],
+        "F": [
+          "2026-07-09",
+          162.351
+        ]
+      }
+    },
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-07-09",
+      "end": "2026-07-15",
+      "duration_days": 5,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 162.04,
+        "stop_loss": 162.55,
+        "take_profit_half": 161.36,
+        "take_profit_full": 160.68,
+        "height": 1.36
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-07-09",
+          162.429
+        ],
+        "B": [
+          "2026-07-10",
+          161.276
+        ],
+        "C": [
+          "2026-07-13",
+          162.488
+        ],
+        "D": [
+          "2026-07-15",
+          161.957
+        ],
+        "E": [
+          "2026-07-15",
+          162.423
+        ],
+        "F": [
+          "2026-07-15",
+          162.328
+        ]
+      }
+    },
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-07-13",
+      "end": "2026-07-20",
+      "duration_days": 6,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 162.21,
+        "stop_loss": 162.58,
+        "take_profit_half": 161.7,
+        "take_profit_full": 161.18,
+        "height": 1.03
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-07-13",
+          162.488
+        ],
+        "B": [
+          "2026-07-14",
+          161.588
+        ],
+        "C": [
+          "2026-07-16",
+          162.546
+        ],
+        "D": [
+          "2026-07-17",
+          162.111
+        ],
+        "E": [
+          "2026-07-20",
+          162.548
+        ],
+        "F": [
+          "2026-07-20",
+          162.512
+        ]
+      }
+    },
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-07-17",
+      "end": "2026-07-20",
+      "duration_days": 3,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 162.19,
+        "stop_loss": 162.61,
+        "take_profit_half": 162.01,
+        "take_profit_full": 161.82,
+        "height": 0.38
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-07-17",
+          162.475
+        ],
+        "B": [
+          "2026-07-17",
+          162.111
+        ],
+        "C": [
+          "2026-07-20",
+          162.548
+        ],
+        "D": [
+          "2026-07-20",
+          162.188
+        ],
+        "E": [
+          "2026-07-20",
+          162.6
+        ],
+        "F": [
+          "2026-07-20",
+          162.516
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-28",
+      "end": "2026-07-30",
+      "duration_days": 1,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 163.89,
+        "stop_loss": 163.17,
+        "take_profit_half": 164.2,
+        "take_profit_full": 164.51,
+        "height": 0.61
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-07-28",
+          163.949
+        ],
+        "B": [
+          "2026-07-29",
+          163.272
+        ],
+        "C": [
+          "2026-07-29",
+          163.904
+        ],
+        "D": [
+          "2026-07-30",
+          163.202
+        ],
+        "E": [
+          "2026-07-30",
+          163.739
+        ],
+        "F": [
+          "2026-07-30",
+          163.732
+        ]
+      }
+    },
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-08-04",
+      "end": "2026-08-05",
+      "duration_days": 1,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 157.31,
+        "stop_loss": 157.84,
+        "take_profit_half": 156.93,
+        "take_profit_full": 156.54,
+        "height": 0.77
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-08-04",
+          157.958
+        ],
+        "B": [
+          "2026-08-04",
+          157.205
+        ],
+        "C": [
+          "2026-08-05",
+          157.875
+        ],
+        "D": [
+          "2026-08-05",
+          157.304
+        ],
+        "E": [
+          "2026-08-05",
+          157.814
+        ],
+        "F": [
+          "2026-08-05",
+          157.727
+        ]
+      }
+    }
+  ]
+}

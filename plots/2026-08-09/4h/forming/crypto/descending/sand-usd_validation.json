@@ -1,0 +1,13 @@
+{
+  "symbol": "SAND-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "The overall chart shows a persistent downtrend from ~0.052 to ~0.041 with a large volume spike around Jul 29 causing a brief spike up and reversion. Near the right edge (late Jul 30 - Aug 6), price is consolidating in a tight, mostly flat range between ~0.0405 and ~0.0435, but this looks more like a rectangular/sideways consolidation than a converging triangle - highs and lows are both roughly flat rather than one line converging into the other. There's no clear descending upper trendline (lower highs) - the recent highs (Aug 2-3) are similar to or slightly higher than earlier highs (Jul 30), and lows are also flat rather than rising. This doesn't show the narrowing wedge shape needed for a descending triangle; it looks more like a flat consolidation/base after a downtrend. I disagree with the algorithm's descending triangle call - the resistance line isn't clearly declining, and there isn't strong evidence of compression converging toward an apex on the right edge.",
+  "validated_at": "2026-08-09T22:10:38.235278+00:00"
+}

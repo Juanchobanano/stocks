@@ -1,0 +1,54 @@
+{
+  "symbol": "TXN",
+  "sector": "semiconductors",
+  "beta": 2.46,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-14",
+      "end": "2026-07-27",
+      "duration_days": 13,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 290.66,
+        "stop_loss": 275.63,
+        "take_profit_half": 305.5,
+        "take_profit_full": 320.34,
+        "height": 29.68
+      },
+      "volume_trend": {
+        "slope": 8841.57,
+        "trend": "rising",
+        "r_squared": 0.1193
+      },
+      "points": {
+        "A": [
+          "2026-07-14",
+          310.565
+        ],
+        "B": [
+          "2026-07-17",
+          279.235
+        ],
+        "C": [
+          "2026-07-22",
+          296.25
+        ],
+        "D": [
+          "2026-07-24",
+          276.4
+        ],
+        "E": [
+          "2026-07-27",
+          284.255
+        ],
+        "F": [
+          "2026-07-27",
+          277.17
+        ]
+      }
+    }
+  ]
+}

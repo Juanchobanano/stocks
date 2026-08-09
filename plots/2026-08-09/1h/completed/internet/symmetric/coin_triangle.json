@@ -1,0 +1,58 @@
+{
+  "symbol": "COIN",
+  "sector": "internet",
+  "beta": 1.6,
+  "triangles": [
+    {
+      "pattern": "Symmetric",
+      "complete": true,
+      "direction": "SYMMETRIC",
+      "start": "2026-06-22",
+      "end": "2026-07-10",
+      "duration_days": 18,
+      "trade_levels": {
+        "direction": "SYMMETRIC",
+        "entry": 170.75,
+        "stop_loss": 156.28,
+        "take_profit_half": 193.3,
+        "take_profit_full": 215.85,
+        "height": 45.1,
+        "entry_short": 155.83,
+        "stop_loss_short": 170.3,
+        "take_profit_half_short": 133.28,
+        "take_profit_full_short": 110.73
+      },
+      "volume_trend": {
+        "slope": -4853.61,
+        "trend": "declining",
+        "r_squared": 0.0404
+      },
+      "points": {
+        "A": [
+          "2026-06-22",
+          176.48
+        ],
+        "B": [
+          "2026-06-26",
+          139.18
+        ],
+        "C": [
+          "2026-07-06",
+          171.67
+        ],
+        "D": [
+          "2026-07-09",
+          154.78
+        ],
+        "E": [
+          "2026-07-10",
+          167.98
+        ],
+        "F": [
+          "2026-07-10",
+          162.13
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "symbol": "ENPH",
+  "sector": "clean-energy",
+  "beta": 3.18,
+  "triangles": [
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-07-06",
+      "end": "2026-07-15",
+      "duration_days": 8,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 43.1,
+        "stop_loss": 46.45,
+        "take_profit_half": 40.05,
+        "take_profit_full": 37.0,
+        "height": 6.1
+      },
+      "volume_trend": {
+        "slope": -6705.84,
+        "trend": "declining",
+        "r_squared": 0.1433
+      },
+      "points": {
+        "A": [
+          "2026-07-06",
+          46.13
+        ],
+        "B": [
+          "2026-07-08",
+          40.93
+        ],
+        "C": [
+          "2026-07-09",
+          46.23
+        ],
+        "D": [
+          "2026-07-13",
+          42.25
+        ],
+        "E": [
+          "2026-07-15",
+          46.59
+        ],
+        "F": [
+          "2026-07-15",
+          44.2382
+        ]
+      }
+    }
+  ]
+}
