@@ -8,6 +8,6 @@
   "pattern_agree": false,
   "presence_confidence": 72,
   "pattern_quality": null,
-  "validation_notes": "The right-side price action from late July into early August shows a sharp drop to ~525 then a bounce, followed by choppy sideways action around 585-650 with no clear convergence. There's no consistent flat support line - lows are irregular (dip to 525, then higher lows near 585-590), and highs are also inconsistent (bounce to 650, pullback, minor bounce). This looks more like consolidation/chop after a downtrend rather than a well-defined descending triangle with a flat support and clear lower highs. I don't see at least two clean, well-spaced touches on a flat bottom trendline paired with a clearly descending upper trendline converging toward an apex. The algorithm's flag seems to be picking up on general downward drift plus recent basing, but the touch points are too loose/scattered to call this a credible triangle.",
-  "validated_at": "2026-08-10T00:29:16.444803+00:00"
+  "validation_notes": "The right side of the chart shows a sharp decline in late July into early August (drop to ~525) followed by a bounce, then choppy consolidation around 585-600 with no clear convergence of highs and lows. There's no flat support line being tested multiple times, nor a clearly descending resistance line - the recent candles just show sideways chop after a volatile downswing. This looks more like consolidation/basing after a selloff rather than a defined descending triangle. I don't see at least two clean touches on both a flat lower boundary and a descending upper boundary converging toward an apex near the current price action.",
+  "validated_at": "2026-08-10T09:44:59.612077+00:00"
 }

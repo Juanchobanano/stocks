@@ -7,46 +7,46 @@
       "pattern": "Descending",
       "complete": true,
       "direction": "LONG",
-      "start": "2026-07-04",
-      "end": "2026-07-14",
-      "duration_days": 10,
+      "start": "2026-07-10",
+      "end": "2026-07-18",
+      "duration_days": 7,
       "trade_levels": {
         "direction": "LONG",
-        "entry": 0.09,
+        "entry": 0.08,
         "stop_loss": 0.08,
         "take_profit_half": 0.09,
         "take_profit_full": 0.09,
         "height": 0.01
       },
       "volume_trend": {
-        "slope": -6355.71,
-        "trend": "declining",
-        "r_squared": 0.0334
+        "slope": 3519.19,
+        "trend": "rising",
+        "r_squared": 0.0107
       },
       "points": {
         "A": [
-          "2026-07-04",
-          0.0926
+          "2026-07-10",
+          0.0876
         ],
         "B": [
-          "2026-07-08",
-          0.0835
+          "2026-07-13",
+          0.0819
         ],
         "C": [
-          "2026-07-11",
-          0.0873
-        ],
-        "D": [
-          "2026-07-13",
-          0.0828
-        ],
-        "E": [
           "2026-07-14",
           0.0859
         ],
+        "D": [
+          "2026-07-17",
+          0.0814
+        ],
+        "E": [
+          "2026-07-18",
+          0.0837
+        ],
         "F": [
-          "2026-07-14",
-          0.085
+          "2026-07-18",
+          0.0828
         ]
       }
     }

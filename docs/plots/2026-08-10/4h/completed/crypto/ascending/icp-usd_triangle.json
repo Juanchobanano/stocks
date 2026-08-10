@@ -19,9 +19,9 @@
         "height": 0.28
       },
       "volume_trend": {
-        "slope": -21372.95,
+        "slope": -21877.47,
         "trend": "declining",
-        "r_squared": 0.0176
+        "r_squared": 0.0184
       },
       "points": {
         "A": [
@@ -66,9 +66,9 @@
         "height": 0.2
       },
       "volume_trend": {
-        "slope": 25743.11,
+        "slope": 25936.65,
         "trend": "rising",
-        "r_squared": 0.0269
+        "r_squared": 0.0273
       },
       "points": {
         "A": [
@@ -89,7 +89,7 @@
         ],
         "E": [
           "2026-07-06",
-          2.27
+          2.269
         ],
         "F": [
           "2026-07-06",

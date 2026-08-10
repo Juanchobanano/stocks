@@ -19,9 +19,9 @@
         "height": 0.14
       },
       "volume_trend": {
-        "slope": -5625.47,
+        "slope": -5544.83,
         "trend": "declining",
-        "r_squared": 0.0115
+        "r_squared": 0.0112
       },
       "points": {
         "A": [
@@ -66,9 +66,9 @@
         "height": 0.07
       },
       "volume_trend": {
-        "slope": 5396.28,
+        "slope": 5272.22,
         "trend": "rising",
-        "r_squared": 0.0112
+        "r_squared": 0.0107
       },
       "points": {
         "A": [
@@ -108,14 +108,14 @@
         "direction": "LONG",
         "entry": 1.6,
         "stop_loss": 1.51,
-        "take_profit_half": 1.65,
-        "take_profit_full": 1.7,
+        "take_profit_half": 1.64,
+        "take_profit_full": 1.69,
         "height": 0.1
       },
       "volume_trend": {
-        "slope": -9578.0,
+        "slope": -6352.51,
         "trend": "declining",
-        "r_squared": 0.0424
+        "r_squared": 0.0248
       },
       "points": {
         "A": [

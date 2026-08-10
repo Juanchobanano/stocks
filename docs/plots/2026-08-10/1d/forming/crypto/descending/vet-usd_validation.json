@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 75,
+  "presence_confidence": 78,
   "pattern_quality": null,
-  "validation_notes": "The right side of the chart (late June through August) shows price consolidating in a tight, roughly flat range between ~0.0045 and ~0.0050 with no clear converging trendlines - both highs and lows are essentially flat, not narrowing. This looks more like a flat consolidation/rectangle after a steep downtrend than a descending triangle. A descending triangle requires a clearly falling upper resistance line with a flat support; here the upper boundary isn't making consistently lower highs, it's oscillating sideways. I disagree with the algorithm's flag - there's insufficient evidence of converging trendlines, just range-bound chop at the bottom of a prior downtrend.",
-  "validated_at": "2026-08-10T00:28:49.810944+00:00"
+  "validation_notes": "The right side of the chart (late June through August) shows price consolidating in a tight, flat range roughly between 0.0045 and 0.0050 with no clear convergence \u2014 both highs and lows are essentially flat, not narrowing. This looks more like a flat/rectangular consolidation than a descending triangle, which requires a distinctly falling upper trendline (lower highs) against a flat support. Prior to that, from May to late June there was a strong, steady downtrend with lower highs and lower lows, but that's a clean downtrend/channel, not a converging triangle - the lows are not flattening out over that stretch. The algorithm likely mistook the flat post-decline consolidation for a triangle, but there's insufficient evidence of a sloped resistance line converging toward a flat support with 2+ credible touches each. Overall the recent price action lacks the compression/apex structure needed for a valid descending triangle.",
+  "validated_at": "2026-08-10T09:44:28.827803+00:00"
 }

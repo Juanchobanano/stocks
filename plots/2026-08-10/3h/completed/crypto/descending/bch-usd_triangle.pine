@@ -13,14 +13,14 @@ tD = timestamp(2026, 7, 28, 0, 0)
 
 // ── Pivot prices ──────────────────────────────────────────────
 pA = 226.82
-pB = 208.12
+pB = 208.05
 pC = 219.78
 pD = 208.98
 pF = 214.31
 
 // ── Trendline endpoints at current bar ────────────────────────
 pUpperEnd = 207.61
-pLowerEnd = 210.68
+pLowerEnd = 210.82
 
 // ── TRENDLINES — from first pivot to current bar ──────────────
 if barstate.islast
@@ -32,10 +32,10 @@ if barstate.islast
              color=color.new(#ffff00, 0), width=4)
 
 // ── HORIZONTAL TRADE LEVELS ───────────────────────────────────
-hline(237.51, "TP full  +8.7%",  color.new(#ffff00, 20), hline.style_dashed, 4)
-hline(227.96, "TP half  +4.4%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(237.61, "TP full  +8.8%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(228.01, "TP half  +4.4%",  color.new(#ffff00, 20), hline.style_dashed, 4)
 hline(218.40, "Entry  218.40",    color.white,             hline.style_solid,  4)
-hline(208.88, "Stop  -4.4%",     color.new(#ffff00, 20),  hline.style_dashed, 4)
+hline(208.89, "Stop  -4.4%",     color.new(#ffff00, 20),  hline.style_dashed, 4)
 
 // ── POINT LABELS ───────────────────────────────────────────────
 if barstate.islast
@@ -51,7 +51,7 @@ if barstate.islast
 
 // ── RIGHT-EDGE LEVEL LABELS ────────────────────────────────────
 if barstate.islast
-    label.new(bar_index + 2, 237.51, "TP full  237.51  (+8.7%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
-    label.new(bar_index + 2, 227.96, "TP half  227.96  (+4.4%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 237.61, "TP full  237.61  (+8.8%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 228.01, "TP half  228.01  (+4.4%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
     label.new(bar_index + 2, 218.40, "Entry L  218.40", color=color.new(color.white, 90), textcolor=color.new(color.white, 0), style=label.style_none, size=size.large)
-    label.new(bar_index + 2, 208.88, "Stop L  208.88  (-4.4%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 208.89, "Stop L  208.89  (-4.4%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)

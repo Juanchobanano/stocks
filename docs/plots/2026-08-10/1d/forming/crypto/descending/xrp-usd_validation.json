@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 75,
+  "presence_confidence": 78,
   "pattern_quality": null,
-  "validation_notes": "The right-side price action (Jun-Aug) is a tight, roughly flat consolidation between ~1.00-1.15, not a converging triangle. Both the highs and lows are essentially flat/horizontal rather than one line sloping down into a narrowing apex - this looks more like a rectangular/range-bound consolidation than a descending triangle. There's no clear series of lower highs compressing toward a flat support; instead price has been oscillating sideways in a narrow band for ~7 weeks with similar highs and lows throughout. The algorithm likely mistook the overall downtrend from Jan-Jun (which does show a big descending staircase) as triangle convergence, but that's a broad downtrend, not a symmetric narrowing pattern with clear trendline touches converging to an apex on the right edge. I don't see 2+ genuine touches on a falling resistance line converging with a flat support line near the current right edge.",
-  "validated_at": "2026-08-10T00:28:22.316272+00:00"
+  "validation_notes": "The right side of the chart (roughly June through August) shows price trading in a fairly tight, flat range between about 1.02 and 1.20, but this looks more like a sideways consolidation/rectangle than a converging triangle. Highs are not making a clear series of lower highs - they bounce around 1.10-1.20 somewhat randomly - and the lows are also roughly flat rather than rising or falling in a consistent trendline. There isn't a clean two-line convergence toward an apex; instead price is just oscillating in a horizontal band with declining volume. The algorithm's 'descending triangle' call would require a clearly falling upper resistance line, which isn't evident here - the recent highs (mid-June, early-July, late-July) are roughly similar in level rather than descending. This looks more like consolidation/basing after a downtrend than an active triangle breakout setup, so I disagree with the algorithmic flag.",
+  "validated_at": "2026-08-10T09:44:02.399468+00:00"
 }

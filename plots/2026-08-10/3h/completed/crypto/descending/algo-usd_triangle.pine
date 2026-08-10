@@ -6,20 +6,20 @@
 indicator("ALGO-USD Triangle", overlay=true, max_lines_count=500, max_labels_count=500)
 
 // ── Pivot timestamps ──────────────────────────────────────────
-tA = timestamp(2026, 7, 4, 0, 0)
-tB = timestamp(2026, 7, 8, 0, 0)
-tC = timestamp(2026, 7, 11, 0, 0)
-tD = timestamp(2026, 7, 13, 0, 0)
+tA = timestamp(2026, 7, 10, 0, 0)
+tB = timestamp(2026, 7, 13, 0, 0)
+tC = timestamp(2026, 7, 14, 0, 0)
+tD = timestamp(2026, 7, 17, 0, 0)
 
 // ── Pivot prices ──────────────────────────────────────────────
 pA = 0.09
 pB = 0.08
 pC = 0.09
 pD = 0.08
-pF = 0.09
+pF = 0.08
 
 // ── Trendline endpoints at current bar ────────────────────────
-pUpperEnd = 0.07
+pUpperEnd = 0.08
 pLowerEnd = 0.08
 
 // ── TRENDLINES — from first pivot to current bar ──────────────
@@ -32,10 +32,10 @@ if barstate.islast
              color=color.new(#ffff00, 0), width=4)
 
 // ── HORIZONTAL TRADE LEVELS ───────────────────────────────────
-hline(0.09, "TP full  +0.0%",  color.new(#ffff00, 20), hline.style_dashed, 4)
-hline(0.09, "TP half  +0.0%",  color.new(#ffff00, 20), hline.style_dashed, 4)
-hline(0.09, "Entry  0.09",    color.white,             hline.style_solid,  4)
-hline(0.08, "Stop  -11.1%",     color.new(#ffff00, 20),  hline.style_dashed, 4)
+hline(0.09, "TP full  +12.5%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(0.09, "TP half  +12.5%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(0.08, "Entry  0.08",    color.white,             hline.style_solid,  4)
+hline(0.08, "Stop  -0.0%",     color.new(#ffff00, 20),  hline.style_dashed, 4)
 
 // ── POINT LABELS ───────────────────────────────────────────────
 if barstate.islast
@@ -51,7 +51,7 @@ if barstate.islast
 
 // ── RIGHT-EDGE LEVEL LABELS ────────────────────────────────────
 if barstate.islast
-    label.new(bar_index + 2, 0.09 * 0.970, "TP full  0.09  (+0.0%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
-    label.new(bar_index + 2, 0.09 * 1.025, "TP half  0.09  (+0.0%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
-    label.new(bar_index + 2, 0.09 * 1.025, "Entry L  0.09", color=color.new(color.white, 90), textcolor=color.new(color.white, 0), style=label.style_none, size=size.large)
-    label.new(bar_index + 2, 0.08, "Stop L  0.08  (-11.1%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 0.09 * 0.970, "TP full  0.09  (+12.5%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 0.09 * 1.025, "TP half  0.09  (+12.5%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 0.08 * 0.970, "Entry L  0.08", color=color.new(color.white, 90), textcolor=color.new(color.white, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 0.08 * 1.025, "Stop L  0.08  (-0.0%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)

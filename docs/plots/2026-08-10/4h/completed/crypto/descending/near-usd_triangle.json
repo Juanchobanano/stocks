@@ -12,25 +12,25 @@
       "duration_days": 17,
       "trade_levels": {
         "direction": "SHORT",
-        "entry": 1.9,
-        "stop_loss": 2.1,
-        "take_profit_half": 1.75,
-        "take_profit_full": 1.59,
+        "entry": 1.89,
+        "stop_loss": 2.11,
+        "take_profit_half": 1.74,
+        "take_profit_full": 1.6,
         "height": 0.3
       },
       "volume_trend": {
-        "slope": -12911.66,
+        "slope": -15275.02,
         "trend": "flat",
-        "r_squared": 0.0006
+        "r_squared": 0.0013
       },
       "points": {
         "A": [
           "2026-07-03",
-          2.115
+          2.114
         ],
         "B": [
           "2026-07-08",
-          1.84
+          1.841
         ],
         "C": [
           "2026-07-15",
@@ -38,7 +38,7 @@
         ],
         "D": [
           "2026-07-17",
-          1.882
+          1.88
         ],
         "E": [
           "2026-07-21",
@@ -63,12 +63,12 @@
         "stop_loss": 1.84,
         "take_profit_half": 2.15,
         "take_profit_full": 2.26,
-        "height": 0.21
+        "height": 0.22
       },
       "volume_trend": {
-        "slope": -13303.28,
+        "slope": -15699.6,
         "trend": "flat",
-        "r_squared": 0.0007
+        "r_squared": 0.001
       },
       "points": {
         "A": [
@@ -77,7 +77,7 @@
         ],
         "B": [
           "2026-07-17",
-          1.882
+          1.88
         ],
         "C": [
           "2026-07-21",

@@ -19,9 +19,9 @@
         "height": 0.0
       },
       "volume_trend": {
-        "slope": -3917.21,
+        "slope": -3572.01,
         "trend": "declining",
-        "r_squared": 0.0077
+        "r_squared": 0.0065
       },
       "points": {
         "A": [
@@ -66,9 +66,9 @@
         "height": 0.0
       },
       "volume_trend": {
-        "slope": -2399.15,
+        "slope": -2357.75,
         "trend": "declining",
-        "r_squared": 0.03
+        "r_squared": 0.0288
       },
       "points": {
         "A": [

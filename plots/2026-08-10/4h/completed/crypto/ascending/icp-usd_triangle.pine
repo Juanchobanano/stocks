@@ -19,8 +19,8 @@ pD = 2.13
 pF = 2.22
 
 // ── Trendline endpoints at current bar ────────────────────────
-pUpperEnd = 2.68
-pLowerEnd = 2.57
+pUpperEnd = 2.69
+pLowerEnd = 2.58
 
 // ── TRENDLINES — from first pivot to current bar ──────────────
 if barstate.islast

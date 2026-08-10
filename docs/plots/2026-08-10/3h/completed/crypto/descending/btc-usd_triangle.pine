@@ -12,15 +12,15 @@ tC = timestamp(2026, 7, 31, 0, 0)
 tD = timestamp(2026, 7, 31, 0, 0)
 
 // ── Pivot prices ──────────────────────────────────────────────
-pA = 65642.93
+pA = 65654.87
 pB = 62711.50
 pC = 65329.57
-pD = 62390.00
-pF = 63394.92
+pD = 62390.71
+pF = 63396.20
 
 // ── Trendline endpoints at current bar ────────────────────────
-pUpperEnd = 64755.08
-pLowerEnd = 61747.00
+pUpperEnd = 64690.59
+pLowerEnd = 61749.13
 
 // ── TRENDLINES — from first pivot to current bar ──────────────
 if barstate.islast
@@ -32,10 +32,10 @@ if barstate.islast
              color=color.new(#ffff00, 0), width=4)
 
 // ── HORIZONTAL TRADE LEVELS ───────────────────────────────────
-hline(68010.89, "TP full  +4.3%",  color.new(#ffff00, 20), hline.style_dashed, 4)
-hline(66609.47, "TP half  +2.1%",  color.new(#ffff00, 20), hline.style_dashed, 4)
-hline(65208.06, "Entry  65208.06",    color.white,             hline.style_solid,  4)
-hline(62207.65, "Stop  -4.6%",     color.new(#ffff00, 20),  hline.style_dashed, 4)
+hline(68029.60, "TP full  +4.4%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(66609.24, "TP half  +2.2%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(65188.88, "Entry  65188.88",    color.white,             hline.style_solid,  4)
+hline(62208.33, "Stop  -4.6%",     color.new(#ffff00, 20),  hline.style_dashed, 4)
 
 // ── POINT LABELS ───────────────────────────────────────────────
 if barstate.islast
@@ -51,7 +51,7 @@ if barstate.islast
 
 // ── RIGHT-EDGE LEVEL LABELS ────────────────────────────────────
 if barstate.islast
-    label.new(bar_index + 2, 68010.89, "TP full  68010.89  (+4.3%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
-    label.new(bar_index + 2, 66609.47, "TP half  66609.47  (+2.1%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
-    label.new(bar_index + 2, 65208.06, "Entry L  65208.06", color=color.new(color.white, 90), textcolor=color.new(color.white, 0), style=label.style_none, size=size.large)
-    label.new(bar_index + 2, 62207.65, "Stop L  62207.65  (-4.6%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 68029.60, "TP full  68029.60  (+4.4%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 66609.24, "TP half  66609.24  (+2.2%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 65188.88, "Entry L  65188.88", color=color.new(color.white, 90), textcolor=color.new(color.white, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 62208.33, "Stop L  62208.33  (-4.6%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)

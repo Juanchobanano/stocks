@@ -20,7 +20,7 @@ pF = 1.58
 
 // ── Trendline endpoints at current bar ────────────────────────
 pUpperEnd = 1.50
-pLowerEnd = 1.45
+pLowerEnd = 1.46
 
 // ── TRENDLINES — from first pivot to current bar ──────────────
 if barstate.islast
@@ -32,8 +32,8 @@ if barstate.islast
              color=color.new(#ffff00, 0), width=4)
 
 // ── HORIZONTAL TRADE LEVELS ───────────────────────────────────
-hline(1.70, "TP full  +6.2%",  color.new(#ffff00, 20), hline.style_dashed, 4)
-hline(1.65, "TP half  +3.1%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(1.69, "TP full  +5.6%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(1.64, "TP half  +2.5%",  color.new(#ffff00, 20), hline.style_dashed, 4)
 hline(1.60, "Entry  1.60",    color.white,             hline.style_solid,  4)
 hline(1.51, "Stop  -5.6%",     color.new(#ffff00, 20),  hline.style_dashed, 4)
 
@@ -51,7 +51,7 @@ if barstate.islast
 
 // ── RIGHT-EDGE LEVEL LABELS ────────────────────────────────────
 if barstate.islast
-    label.new(bar_index + 2, 1.70, "TP full  1.70  (+6.2%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
-    label.new(bar_index + 2, 1.65, "TP half  1.65  (+3.1%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 1.69, "TP full  1.69  (+5.6%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 1.64, "TP half  1.64  (+2.5%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
     label.new(bar_index + 2, 1.60, "Entry L  1.60", color=color.new(color.white, 90), textcolor=color.new(color.white, 0), style=label.style_none, size=size.large)
     label.new(bar_index + 2, 1.51, "Stop L  1.51  (-5.6%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)

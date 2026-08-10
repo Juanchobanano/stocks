@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 85,
+  "presence_confidence": 82,
   "pattern_quality": null,
-  "validation_notes": "The right side of the chart shows a strong uptrend from ~318 to a peak near 382, followed by a sharp pullback to ~357-365. This is not a converging triangle - there's no clear flat resistance being tested multiple times, nor a rising support line with multiple touches. Instead we see an impulsive rally followed by a single sharp reversal candle and consolidation. The algorithm likely misread the rising lows during the uptrend (Jul 22-Aug 5) as an ascending triangle support line, but there's no corresponding flat resistance - price kept making higher highs until the recent reversal. The last few candles show a drop and sideways chop, not a compression pattern with defined boundaries. This looks like a trend followed by a reversal/pullback, not a triangle formation.",
-  "validated_at": "2026-08-10T00:31:56.300376+00:00"
+  "validation_notes": "The right side of the chart shows a strong uptrend from ~320 to ~382 followed by a sharp pullback to ~358-365, not a converging triangle. There's no clear flat resistance being tested multiple times, nor a well-defined rising support line with multiple touches - the recent price action is a single sharp spike up (Aug 1-4) followed by a retracement, which is more consistent with a blow-off top/reversal than an ascending triangle. The algorithm likely mistook the general uptrend structure for a triangle, but there aren't at least two clean touches on a flat upper resistance line - each 'high' near 370-382 is progressively higher, not flat, which contradicts the ascending triangle definition (flat top, rising bottom). This looks more like an impulsive rally that just topped out, not a compression pattern.",
+  "validated_at": "2026-08-10T09:48:24.539979+00:00"
 }

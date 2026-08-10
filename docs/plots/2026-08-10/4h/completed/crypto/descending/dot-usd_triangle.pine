@@ -9,18 +9,18 @@ indicator("DOT-USD Triangle", overlay=true, max_lines_count=500, max_labels_coun
 tA = timestamp(2026, 7, 6, 0, 0)
 tB = timestamp(2026, 7, 8, 0, 0)
 tC = timestamp(2026, 7, 10, 0, 0)
-tD = timestamp(2026, 7, 14, 0, 0)
+tD = timestamp(2026, 7, 13, 0, 0)
 
 // ── Pivot prices ──────────────────────────────────────────────
 pA = 0.91
 pB = 0.81
 pC = 0.89
-pD = 0.83
+pD = 0.82
 pF = 0.86
 
 // ── Trendline endpoints at current bar ────────────────────────
 pUpperEnd = 0.81
-pLowerEnd = 0.89
+pLowerEnd = 0.87
 
 // ── TRENDLINES — from first pivot to current bar ──────────────
 if barstate.islast
@@ -32,7 +32,7 @@ if barstate.islast
              color=color.new(#ffff00, 0), width=4)
 
 // ── HORIZONTAL TRADE LEVELS ───────────────────────────────────
-hline(0.98, "TP full  +11.4%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(0.97, "TP full  +10.2%",  color.new(#ffff00, 20), hline.style_dashed, 4)
 hline(0.93, "TP half  +5.7%",  color.new(#ffff00, 20), hline.style_dashed, 4)
 hline(0.88, "Entry  0.88",    color.white,             hline.style_solid,  4)
 hline(0.83, "Stop  -5.7%",     color.new(#ffff00, 20),  hline.style_dashed, 4)
@@ -51,7 +51,7 @@ if barstate.islast
 
 // ── RIGHT-EDGE LEVEL LABELS ────────────────────────────────────
 if barstate.islast
-    label.new(bar_index + 2, 0.98, "TP full  0.98  (+11.4%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 0.97, "TP full  0.97  (+10.2%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
     label.new(bar_index + 2, 0.93, "TP half  0.93  (+5.7%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
     label.new(bar_index + 2, 0.88, "Entry L  0.88", color=color.new(color.white, 90), textcolor=color.new(color.white, 0), style=label.style_none, size=size.large)
     label.new(bar_index + 2, 0.83, "Stop L  0.83  (-5.7%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)

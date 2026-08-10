@@ -19,14 +19,14 @@
         "height": 0.01
       },
       "volume_trend": {
-        "slope": -24152.55,
+        "slope": -22129.8,
         "trend": "declining",
-        "r_squared": 0.0648
+        "r_squared": 0.0631
       },
       "points": {
         "A": [
           "2026-07-03",
-          0.0793
+          0.0795
         ],
         "B": [
           "2026-07-08",
@@ -54,53 +54,6 @@
       "pattern": "Descending",
       "complete": true,
       "direction": "LONG",
-      "start": "2026-07-09",
-      "end": "2026-07-18",
-      "duration_days": 9,
-      "trade_levels": {
-        "direction": "LONG",
-        "entry": 0.07,
-        "stop_loss": 0.07,
-        "take_profit_half": 0.08,
-        "take_profit_full": 0.08,
-        "height": 0.0
-      },
-      "volume_trend": {
-        "slope": -2891.47,
-        "trend": "declining",
-        "r_squared": 0.0028
-      },
-      "points": {
-        "A": [
-          "2026-07-09",
-          0.0756
-        ],
-        "B": [
-          "2026-07-10",
-          0.0701
-        ],
-        "C": [
-          "2026-07-11",
-          0.0752
-        ],
-        "D": [
-          "2026-07-14",
-          0.0688
-        ],
-        "E": [
-          "2026-07-18",
-          0.0747
-        ],
-        "F": [
-          "2026-07-18",
-          0.073
-        ]
-      }
-    },
-    {
-      "pattern": "Descending",
-      "complete": true,
-      "direction": "LONG",
       "start": "2026-07-21",
       "end": "2026-07-29",
       "duration_days": 8,
@@ -113,9 +66,9 @@
         "height": 0.01
       },
       "volume_trend": {
-        "slope": 6059.33,
+        "slope": 5961.61,
         "trend": "rising",
-        "r_squared": 0.0455
+        "r_squared": 0.0438
       },
       "points": {
         "A": [
@@ -160,9 +113,9 @@
         "height": 0.0
       },
       "volume_trend": {
-        "slope": 2005.15,
-        "trend": "rising",
-        "r_squared": 0.0015
+        "slope": 1918.51,
+        "trend": "flat",
+        "r_squared": 0.0014
       },
       "points": {
         "A": [
@@ -207,9 +160,9 @@
         "height": 0.0
       },
       "volume_trend": {
-        "slope": -10249.22,
+        "slope": -10169.81,
         "trend": "declining",
-        "r_squared": 0.0885
+        "r_squared": 0.0882
       },
       "points": {
         "A": [

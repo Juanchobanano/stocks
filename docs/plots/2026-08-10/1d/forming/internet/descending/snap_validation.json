@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 85,
+  "presence_confidence": 82,
   "pattern_quality": null,
-  "validation_notes": "The right edge of the chart shows a sharp spike up from ~4.4 to ~5.8 followed by a pullback to ~5.2-5.5, not a converging triangle. There's no clear flat support with descending resistance - instead this looks like a breakout impulse move followed by a small consolidation/pullback of only 3-4 candles, which is too little data to establish two trendlines with multiple touch points. The broader chart shows a downtrend from April to late June, then a basing/consolidation period (late June-early Aug) that could be interpreted as choppy sideways action, but it doesn't show clear descending highs converging with flat support - highs and lows in that base period are fairly random/flat rather than converging. The recent sharp rally breaks decisively above any prior resistance, suggesting a breakout already occurred rather than an active triangle still compressing. I disagree with the algorithm's descending triangle flag as there's insufficient evidence of a well-defined lower flat support and descending upper trendline near the right edge.",
-  "validated_at": "2026-08-10T00:29:28.100406+00:00"
+  "validation_notes": "The chart shows a broad downtrend from late April through mid-June (roughly 6.3 to 4.3), followed by a basing/consolidation period through July, and then a sharp breakout spike in early August with a large green candle on high volume, followed by pullback candles. There is no clear converging structure near the right edge - instead there's a distinct low-volatility consolidation range (~4.4-4.9) that abruptly breaks upward, not a gradual narrowing of highs and lows into an apex. The recent candles after the breakout show a mild retracement, not a re-compression into a triangle. This looks more like a base-and-breakout rather than a descending triangle in formation; the algorithm likely mistook the flat consolidation base for a descending triangle, but there's no clear series of lower highs converging with flat support - the range was fairly flat on both sides, and it already broke out decisively upward.",
+  "validated_at": "2026-08-10T09:45:13.666308+00:00"
 }

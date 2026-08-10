@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 78,
+  "presence_confidence": 75,
   "pattern_quality": null,
-  "validation_notes": "Price shows a strong uptrend from mid-April through end of May, then transitions into a broad sideways range (roughly 370-460) from June through early August, followed by a fresh push higher into early August. There's no clear converging structure - highs and lows in the consolidation zone are roughly flat/choppy rather than forming a rising lower trendline against a flat top. The recent right-edge action (late July-early Aug) shows a breakout above the range with a large green candle to ~480, then pulling back - this looks more like a range breakout than an ascending triangle apex. I don't see two clean, distinct trendlines converging near the right edge; the 'higher lows' the algorithm may have flagged are just noisy consolidation swings, not a disciplined rising support line, and the upper boundary isn't well-respected either (price already pushed through it). This looks like a completed range/breakout rather than an active triangle.",
-  "validated_at": "2026-08-10T00:29:37.273903+00:00"
+  "validation_notes": "The right side of the chart shows a broad trading range roughly between 370 and 465 from early June through early August, followed by a fresh push higher into early August with a large green candle to ~480 and pullback. There isn't a clear flat resistance with rising higher lows converging toward an apex - highs and lows both oscillate in a wide range-bound/choppy fashion rather than compressing. The last few candles show expansion (wide range up to 480 then down) rather than narrowing volatility, which argues against an active triangle apex. I don't see a consistent rising trendline of higher lows paired with a flat ceiling with 3+ clean touches each - it looks more like a horizontal consolidation range with recent breakout attempt rather than a converging ascending triangle.",
+  "validated_at": "2026-08-10T09:45:22.315187+00:00"
 }

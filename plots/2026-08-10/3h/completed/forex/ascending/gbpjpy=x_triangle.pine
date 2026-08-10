@@ -15,12 +15,12 @@ tD = timestamp(2026, 7, 23, 0, 0)
 pA = 218.83
 pB = 217.51
 pC = 218.62
-pD = 217.90
+pD = 217.88
 pF = 218.45
 
 // ── Trendline endpoints at current bar ────────────────────────
 pUpperEnd = 217.95
-pLowerEnd = 219.53
+pLowerEnd = 219.44
 
 // ── TRENDLINES — from first pivot to current bar ──────────────
 if barstate.islast
@@ -32,9 +32,9 @@ if barstate.islast
              color=color.new(#ffff00, 0), width=4)
 
 // ── HORIZONTAL TRADE LEVELS ───────────────────────────────────
-hline(216.53, "TP full  +0.7%",  color.new(#ffff00, 20), hline.style_dashed, 4)
-hline(217.29, "TP half  +0.3%",  color.new(#ffff00, 20), hline.style_dashed, 4)
-hline(218.05, "Entry  218.05",    color.white,             hline.style_solid,  4)
+hline(216.51, "TP full  +0.7%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(217.27, "TP half  +0.3%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(218.03, "Entry  218.03",    color.white,             hline.style_solid,  4)
 hline(218.54, "Stop  -0.2%",     color.new(#ffff00, 20),  hline.style_dashed, 4)
 
 // ── POINT LABELS ───────────────────────────────────────────────
@@ -52,6 +52,6 @@ if barstate.islast
 // ── RIGHT-EDGE LEVEL LABELS ────────────────────────────────────
 if barstate.islast
     label.new(bar_index + 2, 218.54 * 1.025, "Stop L  218.54  (-0.2%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
-    label.new(bar_index + 2, 218.05 * 1.025, "Entry L  218.05", color=color.new(color.white, 90), textcolor=color.new(color.white, 0), style=label.style_none, size=size.large)
-    label.new(bar_index + 2, 217.29 * 1.025, "TP half  217.29  (+0.3%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
-    label.new(bar_index + 2, 216.53 * 0.970, "TP full  216.53  (+0.7%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 218.03 * 1.025, "Entry L  218.03", color=color.new(color.white, 90), textcolor=color.new(color.white, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 217.27 * 1.025, "TP half  217.27  (+0.3%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 216.51 * 0.970, "TP full  216.51  (+0.7%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)

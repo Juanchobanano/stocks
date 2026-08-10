@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 72,
+  "presence_confidence": 78,
   "pattern_quality": null,
-  "validation_notes": "The right side of the chart shows price consolidating in a fairly tight, roughly horizontal range (~0.0405-0.0440) after a strong downtrend from late July. This looks more like a flat basing/range-bound consolidation than a descending triangle - there's no clear series of lower highs converging toward a flat support line. The highs (~0.0435-0.0440) and lows (~0.0405-0.0410) are roughly parallel rather than converging, resembling a rectangle/range pattern rather than a triangle. There's also a large upper wick spike around Aug 1 that doesn't fit a clean descending trendline. I don't see a credible apex forming or clear convergence of two trendlines, so I disagree with the algorithm's descending triangle flag.",
-  "validated_at": "2026-08-10T00:30:41.340276+00:00"
+  "validation_notes": "The right side of the chart shows a sharp downtrend from ~0.0475 down to ~0.0410, followed by a period of flat, choppy consolidation around 0.0405-0.0430 with a large volume spike/wick. This looks more like a downtrend flattening into a range/base rather than a descending triangle - there's no clear series of lower highs converging toward a flat support; instead price dropped abruptly and then moved sideways with roughly equal highs and lows (a rectangle/range, not a converging wedge). I don't see at least two clean descending highs meeting a flat support with a clear apex forming - the recent candles look more like consolidation after a big drop than an active triangle squeeze. I disagree with the algorithm's descending triangle flag; the pattern is closer to a flat range or no clear triangle at all.",
+  "validated_at": "2026-08-10T09:46:51.105041+00:00"
 }

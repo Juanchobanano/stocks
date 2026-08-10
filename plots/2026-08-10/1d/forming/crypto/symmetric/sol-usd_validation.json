@@ -2,12 +2,12 @@
   "symbol": "SOL-USD",
   "algo_pattern": "Symmetric",
   "algo_direction": "SYMMETRIC",
-  "claude_found_triangle": null,
+  "claude_found_triangle": false,
   "claude_pattern": "?",
   "claude_direction": "?",
-  "pattern_agree": null,
-  "presence_confidence": null,
+  "pattern_agree": false,
+  "presence_confidence": 68,
   "pattern_quality": null,
-  "validation_notes": "",
-  "validated_at": "2026-08-10T00:28:31.571522+00:00"
+  "validation_notes": "The right side of the chart (mid-July to end) shows price oscillating in a fairly flat, narrow range between roughly 72 and 78, without a clear converging structure. Highs are not consistently declining and lows are not consistently rising - both boundaries look nearly flat/parallel rather than converging toward an apex. This looks more like a flat consolidation/range or a slight downtrend into support than a symmetric triangle. There isn't a strong visual narrowing of the range as you'd expect near a triangle apex. I disagree with the algorithm's symmetric triangle call - the pattern lacks clear convergence and the touch points on both sides are inconsistent (some higher highs, some lower lows scattered around), making it look more like sideways chop than a textbook triangle.",
+  "validated_at": "2026-08-10T09:44:09.767438+00:00"
 }

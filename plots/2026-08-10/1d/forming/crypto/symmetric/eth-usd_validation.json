@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 68,
+  "presence_confidence": 72,
   "pattern_quality": null,
-  "validation_notes": "The right-side price action (mid-June through late July) shows a recovery from ~1600 up to a range around 1800-1950, followed by a tight sideways consolidation, but this looks more like a flat/rectangular consolidation than a converging triangle. The highs (~1950) are roughly flat rather than descending, and the lows (~1830-1850) are also roughly flat rather than clearly ascending in a converging manner - there's no clear apex point being approached. Price is basically oscillating in a narrow horizontal band rather than compressing into a wedge. The algorithm's symmetric triangle call is weak because both boundary lines look nearly parallel/flat rather than converging with distinct touch points on each side. I don't see 2+ clean touches on a rising lower line and 2+ on a falling upper line converging toward an apex - it reads more as consolidation/range than a triangle.",
-  "validated_at": "2026-08-10T00:28:14.558560+00:00"
+  "validation_notes": "The right side of the chart (mid-July to end) shows price oscillating in a tight, roughly flat horizontal range between ~1830 and ~1950 with no clear convergence - both the highs and lows are essentially flat, not narrowing toward an apex. This looks more like a consolidation/rectangle after the sharp Jun-Jul recovery rally than a true converging triangle. There's no discernible rising lower trendline or falling upper trendline that would create a wedge shape; the candles are bouncing within a fairly constant band. The algorithm likely mistook this sideways chop for symmetric convergence, but the range width isn't visibly shrinking over the last ~15-20 candles. I don't see enough evidence of genuine narrowing to call this a credible triangle setup.",
+  "validated_at": "2026-08-10T09:43:54.391119+00:00"
 }

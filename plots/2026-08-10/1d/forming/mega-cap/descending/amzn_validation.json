@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 78,
+  "presence_confidence": 82,
   "pattern_quality": null,
-  "validation_notes": "The right side of the chart shows a sharp rally from ~230 to ~287 followed by a pullback over just the last 5-6 candles (280\u2192283\u2192277\u2192281\u2192272). This is far too short a sequence to establish two converging trendlines with multiple touch points - there's only one lower high and one or two closes near a similar level, not a series of lower highs and flat lows. It looks more like a strong impulsive up-move now consolidating/retracing near its high, not a descending triangle. No clear flat support base with repeated touches, and no clear declining resistance line with 2-3 touches either. I'd characterize this as a post-breakout pullback/consolidation rather than a triangle formation. The algorithm likely mistook the last few red candles as a descending triangle top, but the sample size is too small and there's no established support line.",
-  "validated_at": "2026-08-10T00:29:08.886377+00:00"
+  "validation_notes": "The right side of the chart shows a sharp rally from ~230 to ~287 followed by a pullback of only 3-4 candles (280\u2192272). This is far too brief and too steep to constitute a triangle - there's no flat support line or descending resistance with multiple touch points. It looks like a strong impulsive breakout followed by a minor retracement/consolidation, not a converging pattern. The broader chart shows a large rounded W/V shape (decline from Apr-Jun lows around 227, then recovery), but no clear converging trendlines are visible near the right edge. The algorithm's descending triangle call doesn't hold up - there are only 2-3 candles of pullback, insufficient for establishing a resistance line with lower highs, and no evidence of a flat support base being tested multiple times.",
+  "validated_at": "2026-08-10T09:44:50.947824+00:00"
 }

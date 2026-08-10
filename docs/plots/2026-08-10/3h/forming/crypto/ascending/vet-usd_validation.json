@@ -8,6 +8,6 @@
   "pattern_agree": false,
   "presence_confidence": 78,
   "pattern_quality": null,
-  "validation_notes": "The right side of the chart shows a choppy range-bound consolidation between roughly 0.00465 and 0.00475, with no clear converging trendlines. Highs are relatively flat (not descending), and lows are also flat to slightly declining (not rising), so this looks more like a rectangle/consolidation than an ascending triangle. There's no clear series of higher lows converging into a flat resistance - the recent candles (Aug 5) actually show lower lows and lower highs, which contradicts the ascending triangle setup the algorithm flagged. I don't see credible multi-touch convergence toward an apex near the right edge, so I disagree with the algorithmic flag.",
-  "validated_at": "2026-08-10T00:30:36.047039+00:00"
+  "validation_notes": "The right side of the chart shows a choppy, range-bound consolidation between roughly 0.00465 and 0.00475, but there's no clear convergence between an ascending support line and a flat/descending resistance line. Lows since Aug 3 are relatively flat (around 0.0046-0.00465) rather than rising, and highs are also flat-to-declining, more resembling a horizontal range/rectangle than a converging triangle. I don't see a credible rising trendline connecting at least two-three higher lows that would meet a flat resistance near an apex. The algorithm's 'ascending triangle' flag seems to be picking up on minor higher-low noise rather than a genuine structural pattern. Overall this looks like sideways consolidation after a downtrend, not a well-defined triangle.",
+  "validated_at": "2026-08-10T09:46:42.376200+00:00"
 }

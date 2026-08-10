@@ -6,10 +6,10 @@
 indicator("ALGO-USD Triangle", overlay=true, max_lines_count=500, max_labels_count=500)
 
 // ── Pivot timestamps ──────────────────────────────────────────
-tA = timestamp(2026, 7, 4, 0, 0)
-tB = timestamp(2026, 7, 8, 0, 0)
-tC = timestamp(2026, 7, 10, 0, 0)
-tD = timestamp(2026, 7, 13, 0, 0)
+tA = timestamp(2026, 7, 10, 0, 0)
+tB = timestamp(2026, 7, 13, 0, 0)
+tC = timestamp(2026, 7, 15, 0, 0)
+tD = timestamp(2026, 7, 17, 0, 0)
 
 // ── Pivot prices ──────────────────────────────────────────────
 pA = 0.09
@@ -19,7 +19,7 @@ pD = 0.08
 pF = 0.08
 
 // ── Trendline endpoints at current bar ────────────────────────
-pUpperEnd = 0.07
+pUpperEnd = 0.08
 pLowerEnd = 0.08
 
 // ── TRENDLINES — from first pivot to current bar ──────────────

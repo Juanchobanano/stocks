@@ -7,7 +7,7 @@ indicator("DOGE-USD Triangle", overlay=true, max_lines_count=500, max_labels_cou
 
 // ── Pivot timestamps ──────────────────────────────────────────
 tA = timestamp(2026, 7, 11, 0, 0)
-tB = timestamp(2026, 7, 14, 0, 0)
+tB = timestamp(2026, 7, 13, 0, 0)
 tC = timestamp(2026, 7, 14, 0, 0)
 tD = timestamp(2026, 7, 17, 0, 0)
 

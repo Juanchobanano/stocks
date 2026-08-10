@@ -4,37 +4,37 @@
   "beta": null,
   "triangles": [
     {
-      "pattern": "Descending",
+      "pattern": "Ascending",
       "complete": true,
-      "direction": "LONG",
-      "start": "2026-07-05",
+      "direction": "SHORT",
+      "start": "2026-07-13",
       "end": "2026-07-17",
-      "duration_days": 11,
+      "duration_days": 4,
       "trade_levels": {
-        "direction": "LONG",
-        "entry": 7.2,
-        "stop_loss": 6.86,
-        "take_profit_half": 7.44,
-        "take_profit_full": 7.67,
-        "height": 0.46
+        "direction": "SHORT",
+        "entry": 6.86,
+        "stop_loss": 7.21,
+        "take_profit_half": 6.73,
+        "take_profit_full": 6.59,
+        "height": 0.27
       },
       "volume_trend": {
-        "slope": -2881.53,
+        "slope": -27372.74,
         "trend": "declining",
-        "r_squared": 0.009
+        "r_squared": 0.1135
       },
       "points": {
         "A": [
-          "2026-07-05",
-          7.27
+          "2026-07-13",
+          7.07
         ],
         "B": [
-          "2026-07-08",
-          6.82
+          "2026-07-13",
+          6.81
         ],
         "C": [
-          "2026-07-15",
-          7.21
+          "2026-07-14",
+          7.11
         ],
         "D": [
           "2026-07-17",
@@ -66,9 +66,9 @@
         "height": 0.42
       },
       "volume_trend": {
-        "slope": 41916.95,
+        "slope": 41981.72,
         "trend": "rising",
-        "r_squared": 0.0273
+        "r_squared": 0.0276
       },
       "points": {
         "A": [

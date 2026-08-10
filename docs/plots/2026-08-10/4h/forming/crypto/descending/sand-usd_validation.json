@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 75,
+  "presence_confidence": 72,
   "pattern_quality": null,
-  "validation_notes": "The right side of the chart shows a flat, choppy consolidation around 0.0410-0.0435 with no clear converging trendlines. Highs and lows are roughly parallel/flat rather than converging - there's no descending upper trendline (highs are fairly level, not making consistent lower highs) and the lows are also flat rather than rising. This looks more like a horizontal range/consolidation than a triangle. The algorithm's descending triangle call is not well supported since a descending triangle needs a clearly falling upper resistance line with 3+ touches, which isn't visible here - the price action after the volume spike around Jul 30 is essentially sideways chop.",
-  "validated_at": "2026-08-10T00:31:38.943684+00:00"
+  "validation_notes": "The chart shows a persistent downtrend from early July (~0.052) into late July (~0.041), followed by a choppy, range-bound consolidation from Jul 28 through Aug 6 between roughly 0.041 and 0.044. This recent price action looks more like a flat, sideways rectangle/range than a converging triangle - the highs are not clearly declining (they bounce between 0.042-0.0435 repeatedly without a consistent lower-high sequence), and the lows are also fairly flat around 0.0405-0.0415 rather than rising. There's no clear apex or convergence point forming. The algorithm's descending triangle flag may be picking up on the earlier downtrend's lower highs, but the flat support/resistance near the right edge looks more like consolidation/basing than an active triangle with 2+ credible touches on both converging sides. I don't see a well-defined narrowing wedge shape near the right edge.",
+  "validated_at": "2026-08-10T09:48:01.315568+00:00"
 }

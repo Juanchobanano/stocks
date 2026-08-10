@@ -106,11 +106,11 @@
       "duration_days": 6,
       "trade_levels": {
         "direction": "SHORT",
-        "entry": 218.05,
+        "entry": 218.03,
         "stop_loss": 218.54,
-        "take_profit_half": 217.29,
-        "take_profit_full": 216.53,
-        "height": 1.53
+        "take_profit_half": 217.27,
+        "take_profit_full": 216.51,
+        "height": 1.52
       },
       "volume_trend": {
         "slope": 0.0,
@@ -132,7 +132,7 @@
         ],
         "D": [
           "2026-07-23",
-          217.9
+          217.882
         ],
         "E": [
           "2026-07-27",
