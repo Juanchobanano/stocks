@@ -51,7 +51,7 @@ def compute_betas(
 
     returns = close.pct_change(fill_method=None).dropna(how="all")
     spy_ret = returns["SPY"]
-    spy_var = spy_ret.var()
+    spy_var = float(spy_ret.var())
 
     betas: dict[str, float] = {}
     for sym in symbols:
@@ -61,7 +61,7 @@ def compute_betas(
         common = sym_ret.index.intersection(spy_ret.index)
         if len(common) < 20 or spy_var == 0:
             continue
-        cov = sym_ret.loc[common].cov(spy_ret.loc[common])
+        cov = float(sym_ret.loc[common].cov(spy_ret.loc[common]))
         betas[sym] = round(cov / spy_var, 2)
 
     print(f"{len(betas)} computed")
