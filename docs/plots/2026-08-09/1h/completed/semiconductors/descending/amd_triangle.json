@@ -1,0 +1,54 @@
+{
+  "symbol": "AMD",
+  "sector": "semiconductors",
+  "beta": 4.0,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-30",
+      "end": "2026-07-09",
+      "duration_days": 8,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 558.89,
+        "stop_loss": 498.32,
+        "take_profit_half": 596.23,
+        "take_profit_full": 633.57,
+        "height": 74.68
+      },
+      "volume_trend": {
+        "slope": 733.81,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-06-30",
+          584.73
+        ],
+        "B": [
+          "2026-07-02",
+          506.0
+        ],
+        "C": [
+          "2026-07-06",
+          572.5
+        ],
+        "D": [
+          "2026-07-07",
+          503.11
+        ],
+        "E": [
+          "2026-07-09",
+          559.49
+        ],
+        "F": [
+          "2026-07-09",
+          554.135
+        ]
+      }
+    }
+  ]
+}

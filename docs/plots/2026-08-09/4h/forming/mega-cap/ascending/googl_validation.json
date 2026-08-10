@@ -1,0 +1,13 @@
+{
+  "symbol": "GOOGL",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side shows a sharp uptrend from ~320 to a peak near 383, followed by a pullback to ~357-365 over the last few candles. This is not a triangle - there's no clear consolidation with converging trendlines, no series of higher lows against a flat resistance, and only 2-3 candles of pullback after a strong rally, which is insufficient to establish multiple touch points on both sides. The algorithm likely misread the sharp rally + minor pullback as ascending support, but there's no flat/rising resistance line being tested - price made a single high (~383) and has only pulled back once. This looks more like a normal retracement after an impulsive move than a basing/converging pattern.",
+  "validated_at": "2026-08-09T22:10:56.586542+00:00"
+}

@@ -1,0 +1,58 @@
+{
+  "symbol": "ON",
+  "sector": "semiconductors",
+  "beta": 3.61,
+  "triangles": [
+    {
+      "pattern": "Symmetric",
+      "complete": true,
+      "direction": "SYMMETRIC",
+      "start": "2026-06-25",
+      "end": "2026-07-14",
+      "duration_days": 18,
+      "trade_levels": {
+        "direction": "SYMMETRIC",
+        "entry": 97.14,
+        "stop_loss": 89.84,
+        "take_profit_half": 114.8,
+        "take_profit_full": 132.46,
+        "height": 35.31,
+        "entry_short": 89.49,
+        "stop_loss_short": 96.79,
+        "take_profit_half_short": 71.83,
+        "take_profit_full_short": 54.18
+      },
+      "volume_trend": {
+        "slope": -35372.11,
+        "trend": "declining",
+        "r_squared": 0.2481
+      },
+      "points": {
+        "A": [
+          "2026-06-25",
+          121.25
+        ],
+        "B": [
+          "2026-06-29",
+          86.47
+        ],
+        "C": [
+          "2026-07-09",
+          102.64
+        ],
+        "D": [
+          "2026-07-13",
+          90.09
+        ],
+        "E": [
+          "2026-07-14",
+          95.49
+        ],
+        "F": [
+          "2026-07-14",
+          92.8
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "symbol": "WULF",
+  "sector": "crypto-equity",
+  "beta": 3.29,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-06",
+      "end": "2026-07-15",
+      "duration_days": 9,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 24.21,
+        "stop_loss": 18.41,
+        "take_profit_half": 27.13,
+        "take_profit_full": 30.05,
+        "height": 5.84
+      },
+      "volume_trend": {
+        "slope": -89175.1,
+        "trend": "declining",
+        "r_squared": 0.088
+      },
+      "points": {
+        "A": [
+          "2026-07-06",
+          25.04
+        ],
+        "B": [
+          "2026-07-07",
+          19.09
+        ],
+        "C": [
+          "2026-07-09",
+          24.575
+        ],
+        "D": [
+          "2026-07-14",
+          18.62
+        ],
+        "E": [
+          "2026-07-15",
+          20.17
+        ],
+        "F": [
+          "2026-07-15",
+          20.115
+        ]
+      }
+    }
+  ]
+}

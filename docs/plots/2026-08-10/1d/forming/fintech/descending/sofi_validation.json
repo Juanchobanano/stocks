@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp V-shaped reversal, not a triangle. Price plunged from ~18.5 to a low near 14.9 in late July, then sharply rallied back to ~18.7 over just a few candles. There's no flat support base with multiple touches, nor a converging descending resistance line with lower highs - just one steep decline followed by one steep rally. This looks like a capitulation/reversal spike rather than a consolidating triangle. The algorithm likely mistook the pre-drop consolidation (mid-July, prices oscillating 16.5-19) combined with the recent low as a descending triangle, but there aren't clean repeated touches on both a flat support and a declining resistance line - the structure is too choppy and the recent V-bottom breaks any triangle containment. This appears to already be a breakout/reversal move rather than a pattern still compressing toward an apex.",
+  "validated_at": "2026-08-10T00:29:45.536508+00:00"
+}

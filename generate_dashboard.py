@@ -71,7 +71,7 @@ def collect_rows() -> dict[str, list[dict]]:
         sym = meta["symbol"]
         algo_pattern = tri.get("pattern", "?")
         algo_direction = tri.get("direction", "?")
-        img_rel = f"../plots/{rel}".replace("_triangle.json", "_triangle.png")
+        img_rel = f"plots/{rel}".replace("_triangle.json", "_triangle.png")
 
         val_path = Path(str(json_path).replace("_triangle.json", "_validation.json"))
         val = _load_json(val_path) if val_path.exists() else None

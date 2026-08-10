@@ -1,0 +1,54 @@
+{
+  "symbol": "AAVE-USD",
+  "sector": "crypto",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-08-01",
+      "end": "2026-08-02",
+      "duration_days": 1,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 91.38,
+        "stop_loss": 93.12,
+        "take_profit_half": 89.44,
+        "take_profit_full": 87.49,
+        "height": 3.89
+      },
+      "volume_trend": {
+        "slope": -115098.3,
+        "trend": "declining",
+        "r_squared": 0.1211
+      },
+      "points": {
+        "A": [
+          "2026-08-01",
+          92.26
+        ],
+        "B": [
+          "2026-08-01",
+          88.97
+        ],
+        "C": [
+          "2026-08-02",
+          92.71
+        ],
+        "D": [
+          "2026-08-02",
+          90.76
+        ],
+        "E": [
+          "2026-08-02",
+          93.33
+        ],
+        "F": [
+          "2026-08-02",
+          93.0
+        ]
+      }
+    }
+  ]
+}

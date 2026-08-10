@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "{\n  \"found_triangle\": false,\n  \"pattern_type\": null,\n  \"direction\": null,\n  \"presence_confidence\": 72,\n  \"pattern_quality\": null,\n  \"notes\": \"The right side of the chart shows a sharp selloff to ~15 in late July followed by a strong V-shaped recovery back to ~18, then a few candles oscillating between ~17.9 and ~18.8. This is not a converging structure \u2014 there's no series of lower highs meeting a flat support line, nor enough touch points on either side to define trendlines. It looks more like an impulsive recovery/consolidation after a volume spike (200M+ bar) rather than a gradually compressing descending triangle. Earlier in the chart (Jun-Jul) there's a rounded rise-and-f",
+  "validated_at": "2026-08-09T22:13:34.402645+00:00"
+}

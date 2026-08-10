@@ -67,6 +67,11 @@ jobs:
       - name: Generate dashboard
         run: python generate_dashboard.py
 
+      - name: Copy plots into docs (for GitHub Pages)
+        run: |
+          rm -rf docs/plots
+          cp -r plots docs/plots
+
       - name: Commit and push results
         run: |
           git config user.name "github-actions[bot]"

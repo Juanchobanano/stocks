@@ -1,0 +1,54 @@
+{
+  "symbol": "RUN",
+  "sector": "clean-energy",
+  "beta": 2.43,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-06",
+      "end": "2026-07-21",
+      "duration_days": 14,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 13.39,
+        "stop_loss": 11.38,
+        "take_profit_half": 14.45,
+        "take_profit_full": 15.52,
+        "height": 2.13
+      },
+      "volume_trend": {
+        "slope": -11042.14,
+        "trend": "declining",
+        "r_squared": 0.0712
+      },
+      "points": {
+        "A": [
+          "2026-07-06",
+          13.355
+        ],
+        "B": [
+          "2026-07-08",
+          11.255
+        ],
+        "C": [
+          "2026-07-15",
+          13.35
+        ],
+        "D": [
+          "2026-07-20",
+          11.38
+        ],
+        "E": [
+          "2026-07-21",
+          11.785
+        ],
+        "F": [
+          "2026-07-21",
+          11.5999
+        ]
+      }
+    }
+  ]
+}

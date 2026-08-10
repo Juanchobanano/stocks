@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "Price shows a strong downtrend from late June through late July, bottoming around 355-360 in early August, then a modest bounce into the last few candles (~375-385). This looks more like a downtrend reversal/basing attempt than a converging triangle. There's no clear flat support line with a descending resistance line converging toward it - the lows form a rounded bottom rather than a consistent horizontal support, and the recent candles show sideways consolidation rather than a well-defined descending upper trendline with 3+ touches. The algorithm's descending triangle call is weak; the right-edge structure looks more like consolidation/basing after a downtrend, not a clean triangle with defined convergence and an apex forming.",
+  "validated_at": "2026-08-10T00:32:04.727728+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 65,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-June through July) shows price basing in a tight, roughly flat range between ~1830 and ~1960 after a sharp decline. There's no clear convergence of trendlines - highs and lows are both roughly flat/sideways rather than converging, which looks more like a horizontal consolidation/rectangle than a symmetric triangle. There isn't a clear rising lower line or falling upper line meeting at an apex; the range width stays fairly constant across the last ~6 weeks. I don't see 3+ touch points forming clean converging diagonals, so I disagree with the algorithm's symmetric triangle call - this looks like sideways consolidation, not a compressing triangle.",
+  "validated_at": "2026-08-09T22:12:03.794707+00:00"
+}

@@ -1,0 +1,105 @@
+{
+  "symbol": "ETH-USD",
+  "sector": "crypto",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-15",
+      "end": "2026-06-17",
+      "duration_days": 1,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 1832.99,
+        "stop_loss": 1766.46,
+        "take_profit_half": 1880.84,
+        "take_profit_full": 1928.69,
+        "height": 95.7
+      },
+      "volume_trend": {
+        "slope": -13613626.51,
+        "trend": "declining",
+        "r_squared": 0.31
+      },
+      "points": {
+        "A": [
+          "2026-06-15",
+          1848.39
+        ],
+        "B": [
+          "2026-06-16",
+          1758.16
+        ],
+        "C": [
+          "2026-06-16",
+          1838.0
+        ],
+        "D": [
+          "2026-06-16",
+          1762.37
+        ],
+        "E": [
+          "2026-06-17",
+          1807.45
+        ],
+        "F": [
+          "2026-06-17",
+          1793.83
+        ]
+      }
+    },
+    {
+      "pattern": "Symmetric",
+      "complete": true,
+      "direction": "SYMMETRIC",
+      "start": "2026-08-02",
+      "end": "2026-08-04",
+      "duration_days": 1,
+      "trade_levels": {
+        "direction": "SYMMETRIC",
+        "entry": 1868.63,
+        "stop_loss": 1851.25,
+        "take_profit_half": 1910.12,
+        "take_profit_full": 1951.6,
+        "height": 82.97,
+        "entry_short": 1850.42,
+        "stop_loss_short": 1867.8,
+        "take_profit_half_short": 1808.93,
+        "take_profit_full_short": 1767.44
+      },
+      "volume_trend": {
+        "slope": -841188.32,
+        "trend": "declining",
+        "r_squared": 0.0022
+      },
+      "points": {
+        "A": [
+          "2026-08-02",
+          1896.1801
+        ],
+        "B": [
+          "2026-08-03",
+          1827.0
+        ],
+        "C": [
+          "2026-08-03",
+          1874.51
+        ],
+        "D": [
+          "2026-08-04",
+          1847.0601
+        ],
+        "E": [
+          "2026-08-04",
+          1872.6801
+        ],
+        "F": [
+          "2026-08-04",
+          1866.1899
+        ]
+      }
+    }
+  ]
+}

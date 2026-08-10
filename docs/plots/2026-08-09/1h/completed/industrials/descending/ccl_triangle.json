@@ -1,0 +1,101 @@
+{
+  "symbol": "CCL",
+  "sector": "industrials",
+  "beta": 1.9,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-24",
+      "end": "2026-07-01",
+      "duration_days": 7,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 29.46,
+        "stop_loss": 28.24,
+        "take_profit_half": 30.43,
+        "take_profit_full": 31.4,
+        "height": 1.94
+      },
+      "volume_trend": {
+        "slope": -57424.23,
+        "trend": "declining",
+        "r_squared": 0.1899
+      },
+      "points": {
+        "A": [
+          "2026-06-24",
+          30.0
+        ],
+        "B": [
+          "2026-06-25",
+          28.1301
+        ],
+        "C": [
+          "2026-06-29",
+          29.6393
+        ],
+        "D": [
+          "2026-06-30",
+          28.255
+        ],
+        "E": [
+          "2026-07-01",
+          29.425
+        ],
+        "F": [
+          "2026-07-01",
+          29.275
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-15",
+      "end": "2026-07-22",
+      "duration_days": 7,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 26.43,
+        "stop_loss": 25.72,
+        "take_profit_half": 27.08,
+        "take_profit_full": 27.72,
+        "height": 1.29
+      },
+      "volume_trend": {
+        "slope": 138.42,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-07-15",
+          27.225
+        ],
+        "B": [
+          "2026-07-17",
+          25.86
+        ],
+        "C": [
+          "2026-07-20",
+          26.77
+        ],
+        "D": [
+          "2026-07-22",
+          25.74
+        ],
+        "E": [
+          "2026-07-22",
+          26.485
+        ],
+        "F": [
+          "2026-07-22",
+          26.3521
+        ]
+      }
+    }
+  ]
+}

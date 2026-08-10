@@ -1,0 +1,58 @@
+{
+  "symbol": "AVGO",
+  "sector": "semiconductors",
+  "beta": 2.12,
+  "triangles": [
+    {
+      "pattern": "Symmetric",
+      "complete": true,
+      "direction": "SYMMETRIC",
+      "start": "2026-07-09",
+      "end": "2026-07-28",
+      "duration_days": 19,
+      "trade_levels": {
+        "direction": "SYMMETRIC",
+        "entry": 395.81,
+        "stop_loss": 377.25,
+        "take_profit_half": 427.61,
+        "take_profit_full": 459.4,
+        "height": 63.59,
+        "entry_short": 376.61,
+        "stop_loss_short": 395.17,
+        "take_profit_half_short": 344.81,
+        "take_profit_full_short": 313.02
+      },
+      "volume_trend": {
+        "slope": -2569.2,
+        "trend": "flat",
+        "r_squared": 0.0041
+      },
+      "points": {
+        "A": [
+          "2026-07-09",
+          407.52
+        ],
+        "B": [
+          "2026-07-17",
+          357.8
+        ],
+        "C": [
+          "2026-07-22",
+          398.585
+        ],
+        "D": [
+          "2026-07-27",
+          373.5
+        ],
+        "E": [
+          "2026-07-28",
+          385.8
+        ],
+        "F": [
+          "2026-07-28",
+          380.76
+        ]
+      }
+    }
+  ]
+}

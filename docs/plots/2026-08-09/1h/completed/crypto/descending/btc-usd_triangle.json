@@ -1,0 +1,101 @@
+{
+  "symbol": "BTC-USD",
+  "sector": "crypto",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-15",
+      "end": "2026-06-17",
+      "duration_days": 1,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 66605.64,
+        "stop_loss": 64965.32,
+        "take_profit_half": 67278.88,
+        "take_profit_full": 67952.12,
+        "height": 1346.48
+      },
+      "volume_trend": {
+        "slope": -16081349.2,
+        "trend": "declining",
+        "r_squared": 0.2463
+      },
+      "points": {
+        "A": [
+          "2026-06-15",
+          67254.7266
+        ],
+        "B": [
+          "2026-06-16",
+          65607.5391
+        ],
+        "C": [
+          "2026-06-16",
+          66936.6016
+        ],
+        "D": [
+          "2026-06-16",
+          65306.8281
+        ],
+        "E": [
+          "2026-06-17",
+          66072.0078
+        ],
+        "F": [
+          "2026-06-17",
+          65847.9922
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-10",
+      "end": "2026-07-13",
+      "duration_days": 2,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 64192.97,
+        "stop_loss": 63696.07,
+        "take_profit_half": 64718.02,
+        "take_profit_full": 65243.08,
+        "height": 1050.11
+      },
+      "volume_trend": {
+        "slope": 1083323.6,
+        "trend": "rising",
+        "r_squared": 0.0017
+      },
+      "points": {
+        "A": [
+          "2026-07-10",
+          64659.9883
+        ],
+        "B": [
+          "2026-07-10",
+          63621.3516
+        ],
+        "C": [
+          "2026-07-11",
+          64453.1992
+        ],
+        "D": [
+          "2026-07-12",
+          63667.2383
+        ],
+        "E": [
+          "2026-07-13",
+          64337.7383
+        ],
+        "F": [
+          "2026-07-13",
+          64024.7812
+        ]
+      }
+    }
+  ]
+}

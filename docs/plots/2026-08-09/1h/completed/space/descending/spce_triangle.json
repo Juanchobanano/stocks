@@ -1,0 +1,54 @@
+{
+  "symbol": "SPCE",
+  "sector": "space",
+  "beta": 1.47,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-17",
+      "end": "2026-07-09",
+      "duration_days": 21,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 2.79,
+        "stop_loss": 2.51,
+        "take_profit_half": 3.43,
+        "take_profit_full": 4.07,
+        "height": 1.28
+      },
+      "volume_trend": {
+        "slope": -21996.34,
+        "trend": "declining",
+        "r_squared": 0.2013
+      },
+      "points": {
+        "A": [
+          "2026-06-17",
+          3.71
+        ],
+        "B": [
+          "2026-06-26",
+          2.47
+        ],
+        "C": [
+          "2026-07-01",
+          3.11
+        ],
+        "D": [
+          "2026-07-07",
+          2.51
+        ],
+        "E": [
+          "2026-07-09",
+          2.76
+        ],
+        "F": [
+          "2026-07-09",
+          2.6999
+        ]
+      }
+    }
+  ]
+}

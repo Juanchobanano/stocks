@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad swing structure: a rally into late May (~84.5), a decline into a mid-June low (~79), a bounce, and a further decline into late July lows (~78.7), followed by a sharp gap-up breakout in early August to ~84.8 before pulling back slightly. There is no clean convergence of two trendlines near the right edge - the recent price action is a strong impulsive breakout candle followed by consolidation, not a tightening triangle. There's no flat support with descending resistance visible in the last 10-15 candles; instead price already broke out sharply upward. This looks more like a breakout/reversal move than a triangle still forming, so I disagree with the algorithm's descending triangle flag.",
+  "validated_at": "2026-08-10T00:29:52.916012+00:00"
+}

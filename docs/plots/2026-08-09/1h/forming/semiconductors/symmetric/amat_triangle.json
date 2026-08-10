@@ -1,0 +1,58 @@
+{
+  "symbol": "AMAT",
+  "sector": "semiconductors",
+  "beta": 3.89,
+  "triangles": [
+    {
+      "pattern": "Symmetric",
+      "complete": false,
+      "direction": "SYMMETRIC",
+      "start": "2026-07-23",
+      "end": "2026-08-05",
+      "duration_days": 13,
+      "trade_levels": {
+        "direction": "SYMMETRIC",
+        "entry": 558.44,
+        "stop_loss": 528.1,
+        "take_profit_half": 681.88,
+        "take_profit_full": 805.32,
+        "height": 246.88,
+        "entry_short": 525.63,
+        "stop_loss_short": 555.97,
+        "take_profit_half_short": 402.19,
+        "take_profit_full_short": 278.75
+      },
+      "volume_trend": {
+        "slope": -25.2,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-07-23",
+          576.49
+        ],
+        "B": [
+          "2026-07-29",
+          436.37
+        ],
+        "C": [
+          "2026-08-05",
+          553.86
+        ],
+        "D": [
+          "2026-08-05",
+          530.57
+        ],
+        "E": [
+          "2026-08-05",
+          530.57
+        ],
+        "F": [
+          "2026-08-05",
+          538.2365
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp decline from ~685 down to ~525, followed by a choppy recovery bouncing between roughly 560-605. This looks more like a volatile consolidation/basing pattern after a selloff rather than a descending triangle. There's no clear flat support line - lows vary (525, 555, 585) - and no consistent lower-high resistance line converging with it. The algorithm may be picking up on the recent lower highs from ~685 to ~605, but there isn't a well-defined flat bottom with multiple clean touches, and price action is too noisy/choppy to confirm a credible triangle apex forming. I don't see a convincing 2+ touch support line and 2+ touch descending resistance line converging cleanly.",
+  "validated_at": "2026-08-09T22:13:00.848298+00:00"
+}

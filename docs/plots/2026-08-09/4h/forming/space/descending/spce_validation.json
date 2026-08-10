@@ -1,0 +1,13 @@
+{
+  "symbol": "SPCE",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 65,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a sharp decline from early June highs (~$6) into a bottoming/basing pattern around $2.5-3.0 from early July through early August, followed by a slight uptick near the right edge. There's no clear descending resistance line with lower highs - price has been largely flat/ranging in the $2.5-3.0 band for weeks with very tight, low-volatility candles. This looks more like consolidation/basing after a downtrend rather than a descending triangle. The recent bars (late Jul-Aug) show a slight upward drift with higher lows, which if anything resembles a very shallow ascending structure or just flat consolidation, not a descending triangle with lower highs. I don't see two clear touch points on a declining upper trendline - the highs in the recent period look fairly flat, not descending. The algorithm's flag seems weak given the extremely flat, choppy price action rather than a clean converging wedge.",
+  "validated_at": "2026-08-09T22:11:22.804566+00:00"
+}

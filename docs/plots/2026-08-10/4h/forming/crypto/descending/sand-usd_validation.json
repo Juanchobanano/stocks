@@ -1,0 +1,13 @@
+{
+  "symbol": "SAND-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a flat, choppy consolidation around 0.0410-0.0435 with no clear converging trendlines. Highs and lows are roughly parallel/flat rather than converging - there's no descending upper trendline (highs are fairly level, not making consistent lower highs) and the lows are also flat rather than rising. This looks more like a horizontal range/consolidation than a triangle. The algorithm's descending triangle call is not well supported since a descending triangle needs a clearly falling upper resistance line with 3+ touches, which isn't visible here - the price action after the volume spike around Jul 30 is essentially sideways chop.",
+  "validated_at": "2026-08-10T00:31:38.943684+00:00"
+}

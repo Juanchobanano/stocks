@@ -1,0 +1,148 @@
+{
+  "symbol": "ATOM-USD",
+  "sector": "crypto",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-12",
+      "end": "2026-06-14",
+      "duration_days": 2,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 2.01,
+        "stop_loss": 1.92,
+        "take_profit_half": 2.06,
+        "take_profit_full": 2.11,
+        "height": 0.1
+      },
+      "volume_trend": {
+        "slope": 8987.85,
+        "trend": "rising",
+        "r_squared": 0.1083
+      },
+      "points": {
+        "A": [
+          "2026-06-12",
+          2.034
+        ],
+        "B": [
+          "2026-06-12",
+          1.931
+        ],
+        "C": [
+          "2026-06-13",
+          2.024
+        ],
+        "D": [
+          "2026-06-14",
+          1.922
+        ],
+        "E": [
+          "2026-06-14",
+          2.014
+        ],
+        "F": [
+          "2026-06-14",
+          2.001
+        ]
+      }
+    },
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-06-16",
+      "end": "2026-06-17",
+      "duration_days": 1,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 1.96,
+        "stop_loss": 2.03,
+        "take_profit_half": 1.93,
+        "take_profit_full": 1.9,
+        "height": 0.06
+      },
+      "volume_trend": {
+        "slope": 5033.16,
+        "trend": "rising",
+        "r_squared": 0.0362
+      },
+      "points": {
+        "A": [
+          "2026-06-16",
+          2.011
+        ],
+        "B": [
+          "2026-06-16",
+          1.953
+        ],
+        "C": [
+          "2026-06-17",
+          2.021
+        ],
+        "D": [
+          "2026-06-17",
+          1.956
+        ],
+        "E": [
+          "2026-06-17",
+          2.008
+        ],
+        "F": [
+          "2026-06-17",
+          1.991
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-25",
+      "end": "2026-06-28",
+      "duration_days": 3,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 1.59,
+        "stop_loss": 1.56,
+        "take_profit_half": 1.66,
+        "take_profit_full": 1.72,
+        "height": 0.13
+      },
+      "volume_trend": {
+        "slope": -2851.78,
+        "trend": "declining",
+        "r_squared": 0.0137
+      },
+      "points": {
+        "A": [
+          "2026-06-25",
+          1.676
+        ],
+        "B": [
+          "2026-06-25",
+          1.548
+        ],
+        "C": [
+          "2026-06-27",
+          1.614
+        ],
+        "D": [
+          "2026-06-27",
+          1.556
+        ],
+        "E": [
+          "2026-06-28",
+          1.581
+        ],
+        "F": [
+          "2026-06-28",
+          1.575
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "symbol": "EURGBP=X",
+  "sector": "forex",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-06-15",
+      "end": "2026-06-17",
+      "duration_days": 2,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 0.86,
+        "stop_loss": 0.87,
+        "take_profit_half": 0.86,
+        "take_profit_full": 0.86,
+        "height": 0.0
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-06-15",
+          0.8652
+        ],
+        "B": [
+          "2026-06-15",
+          0.8633
+        ],
+        "C": [
+          "2026-06-17",
+          0.8656
+        ],
+        "D": [
+          "2026-06-17",
+          0.8643
+        ],
+        "E": [
+          "2026-06-17",
+          0.866
+        ],
+        "F": [
+          "2026-06-17",
+          0.8651
+        ]
+      }
+    },
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-07-09",
+      "end": "2026-07-14",
+      "duration_days": 4,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 0.85,
+        "stop_loss": 0.85,
+        "take_profit_half": 0.85,
+        "take_profit_full": 0.85,
+        "height": 0.0
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-07-09",
+          0.8541
+        ],
+        "B": [
+          "2026-07-10",
+          0.8508
+        ],
+        "C": [
+          "2026-07-13",
+          0.8541
+        ],
+        "D": [
+          "2026-07-14",
+          0.8517
+        ],
+        "E": [
+          "2026-07-14",
+          0.8544
+        ],
+        "F": [
+          "2026-07-14",
+          0.8536
+        ]
+      }
+    },
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-07-22",
+      "end": "2026-07-23",
+      "duration_days": 1,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 0.85,
+        "stop_loss": 0.85,
+        "take_profit_half": 0.85,
+        "take_profit_full": 0.85,
+        "height": 0.0
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-07-22",
+          0.854
+        ],
+        "B": [
+          "2026-07-22",
+          0.8522
+        ],
+        "C": [
+          "2026-07-23",
+          0.8544
+        ],
+        "D": [
+          "2026-07-23",
+          0.8527
+        ],
+        "E": [
+          "2026-07-23",
+          0.8547
+        ],
+        "F": [
+          "2026-07-23",
+          0.8544
+        ]
+      }
+    }
+  ]
+}
