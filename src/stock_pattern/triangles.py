@@ -692,7 +692,8 @@ def compute_volume_trend(
 
     vol_slice = df["Volume"].iloc[a_pos : e_pos + 1]
     xs = list(range(a_pos, e_pos + 1))
-    ys = vol_slice.values.astype(float)
+    # squeeze in case df["Volume"] is a single-column DataFrame (newer yfinance)
+    ys = np.asarray(vol_slice).ravel().astype(float)
 
     n = len(xs)
     x_mean = sum(xs) / n
