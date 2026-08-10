@@ -30,7 +30,7 @@ scikit-learn
 pykalman
 PyWavelets
 matplotlib
-mplfinance>=0.12.10
+mplfinance
 seaborn
 
 # VLM validation (triangle pattern scanner)
