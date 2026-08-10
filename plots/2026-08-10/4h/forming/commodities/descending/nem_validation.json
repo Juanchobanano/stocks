@@ -1,0 +1,13 @@
+{
+  "symbol": "NEM",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear downtrend from mid-June highs (~112) into a bottom around Jul 17-20 (~89-90), followed by a recovery/uptrend into early August, now consolidating around 103-106. There's no visible convergence of upper and lower trendlines near the right edge - instead price made a V-shaped bottom and is now rallying with a small pullback/consolidation at the top. The recent candles (Aug 1-5) show a tight range but this looks like a brief consolidation after a strong rally, not a descending triangle with lower highs and flat support. A descending triangle would need a flat support and declining resistance with multiple touches - here the structure is more of a rounded bottom reversal with recent sideways drift near recent highs, which doesn't match descending triangle characteristics (which is bearish continuation, not bullish LONG as algorithm suggests - the labeling itself seems inconsistent).",
+  "validated_at": "2026-08-10T00:32:29.682623+00:00"
+}

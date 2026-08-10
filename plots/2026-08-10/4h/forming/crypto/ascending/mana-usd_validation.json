@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late July into early August) shows a choppy, range-bound consolidation between roughly 0.0655 and 0.0685, but there's no clear convergence of trendlines. Highs and lows are both roughly flat/oscillating rather than one line rising and another flat, which would be needed for an ascending triangle. There's no series of higher lows compressing against a flat resistance - instead price is drifting sideways/slightly down with noisy wicks on both sides. The algorithm's ascending triangle call doesn't hold up: the 'support' isn't rising in a clean stepwise fashion, and the top isn't acting as consistent resistance either. This looks more like a rangebound/no-pattern zone than a genuine converging triangle near the apex.",
+  "validated_at": "2026-08-10T00:31:45.672120+00:00"
+}

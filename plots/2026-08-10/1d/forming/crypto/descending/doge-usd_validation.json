@@ -1,0 +1,13 @@
+{
+  "symbol": "DOGE-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart (Jun-Aug) shows a steady downtrend into a flattening, low-volatility zone around 0.070-0.075, but there's no clear converging structure - it's more of a flat consolidation/basing pattern after a strong downtrend, not a descending triangle. Highs from late Jun through Aug are roughly flat (~0.075-0.078) rather than declining, and the lows are also roughly flat (~0.068-0.070), so neither trendline shows the required slope to form a proper descending triangle (which needs a flat support + declining resistance). This looks more like a rectangle/flag or basing structure. Volume has also contracted significantly, consistent with consolidation rather than an active triangle breakout setup. I disagree with the algorithm's descending triangle flag - the resistance line isn't clearly declining, it's mostly flat, and the pattern lacks the clean converging touches needed for a triangle.",
+  "validated_at": "2026-08-10T00:28:39.923947+00:00"
+}

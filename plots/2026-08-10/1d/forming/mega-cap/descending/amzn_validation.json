@@ -1,0 +1,13 @@
+{
+  "symbol": "AMZN",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp rally from ~230 to ~287 followed by a pullback over just the last 5-6 candles (280\u2192283\u2192277\u2192281\u2192272). This is far too short a sequence to establish two converging trendlines with multiple touch points - there's only one lower high and one or two closes near a similar level, not a series of lower highs and flat lows. It looks more like a strong impulsive up-move now consolidating/retracing near its high, not a descending triangle. No clear flat support base with repeated touches, and no clear declining resistance line with 2-3 touches either. I'd characterize this as a post-breakout pullback/consolidation rather than a triangle formation. The algorithm likely mistook the last few red candles as a descending triangle top, but the sample size is too small and there's no established support line.",
+  "validated_at": "2026-08-10T00:29:08.886377+00:00"
+}
