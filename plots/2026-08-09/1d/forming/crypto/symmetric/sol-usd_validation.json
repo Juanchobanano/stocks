@@ -2,12 +2,12 @@
   "symbol": "SOL-USD",
   "algo_pattern": "Symmetric",
   "algo_direction": "SYMMETRIC",
-  "claude_found_triangle": false,
-  "claude_pattern": "?",
-  "claude_direction": "?",
-  "pattern_agree": false,
-  "presence_confidence": 68,
-  "pattern_quality": null,
-  "validation_notes": "Price action from late June through July shows a decline from ~83 to ~73 with mostly flat, choppy consolidation near the right edge, but there isn't a clear converging structure. Highs since late June (83, 81, 79, 78, 77, 74) are gradually declining while lows (77, 75, 74, 73, 71) are also declining at a similar pace, forming more of a shallow downward drift/consolidation rather than a symmetric convergence toward an apex. The candles are overlapping heavily with no distinct upper/lower trendlines that touch price 3+ times cleanly - it looks more like range-bound noise flattening out than a textbook narrowing wedge. I don't see clear separation of two converging trendlines with multiple respected touches, so I disagree with the algorithm's symmetric triangle call.",
-  "validated_at": "2026-08-09T22:12:18.381487+00:00"
+  "claude_found_triangle": true,
+  "claude_pattern": "Symmetric",
+  "claude_direction": "SYMMETRIC",
+  "pattern_agree": true,
+  "presence_confidence": 55,
+  "pattern_quality": 45,
+  "validation_notes": "{\n  \"found_triangle\": true,\n  \"pattern_type\": \"Symmetric\",\n  \"direction\": \"SYMMETRIC\",\n  \"presence_confidence\": 55,\n  \"pattern_quality\": 45,\n  \"notes\": \"From mid-July onward price has compressed into a range roughly 71-",
+  "validated_at": "2026-08-10T00:56:22.004246+00:00"
 }
