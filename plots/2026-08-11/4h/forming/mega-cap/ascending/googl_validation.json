@@ -1,0 +1,13 @@
+{
+  "symbol": "GOOGL",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a strong uptrend from ~318 to a peak near 382, followed by a sharp pullback to ~358-365. This is not a consolidating triangle - it's a strong impulsive rally followed by a retracement. There's no clear flat resistance being tested multiple times, nor a rising support line with multiple touchpoints forming a converging wedge. The last few candles show a decline off the highs, which looks more like profit-taking after a breakout rather than compression into an apex. The algorithm likely mistook the steep rally and pullback for an ascending triangle, but there aren't the required 2+ touches on a flat/near-flat upper resistance line - price simply broke to new highs and is now pulling back. This looks like a failed/invalid pattern rather than a credible ascending triangle setup for a short.",
+  "validated_at": "2026-08-11T09:16:37.671849+00:00"
+}

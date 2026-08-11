@@ -1,0 +1,29 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": true,
+  "claude_pattern": "Descending",
+  "claude_direction": "SHORT",
+  "pattern_agree": false,
+  "presence_confidence": 55,
+  "pattern_quality": 42,
+  "validation_notes": "From late June to early August price oscillates in a tightening range: highs step down from ~83 (Jun 30) to ~78 (mid-Jul) to ~76-77 (late Jul), while lows sit fairly flat around 71-75. This looks more like a mildly descending resistance line over a flat-ish support line (descending triangle) rather than a clean symmetric wedge, since the lower boundary isn't clearly rising. The algorithm's 'symmetric' call is plausible but the upper trendline's slope is more pronounced than the lower one, making 'descending' a better fit. Touch points are only 2-3 per side and somewhat loose (within a candle or two), and price is still contained near the apex with no confirmed breakout yet, so the pattern is still forming but not textbook-clean.",
+  "validated_at": "2026-08-11T09:11:38.169990+00:00",
+  "symbol_research": "Solana (SOL) is a high-throughput Layer-1 blockchain used for DeFi, NFTs, and payments. It has seen renewed institutional interest via ETF filings and network activity growth in 2024, but remains volatile and sentiment-driven, correlating heavily with BTC/ETH macro crypto trends.",
+  "market_sentiment": "neutral",
+  "supporting_signals": [
+    "Descending triangle is a classic bearish continuation pattern when confirmed by volume and lower highs",
+    "Crypto markets are prone to sharp breakdown moves once triangle support is breached",
+    "Risk-defined entry near triangle support with stop above recent swing high"
+  ],
+  "opposing_signals": [
+    "CRITICAL: TP targets (104.29 / 127.34) are ABOVE entry (81.25), which is inconsistent with a SHORT trade thesis \u2014 this looks like a data/labeling error and undermines trade validity",
+    "Stop-loss (72.94) is below entry for a short, which is also inverted (should be above entry for a short) \u2014 risk/reward structure appears broken",
+    "Descending triangles in crypto often fail during broader bullish regimes or short squeezes",
+    "No volume or macro-catalyst confirmation mentioned to support bearish breakdown",
+    "SOL has historically shown strong upside momentum on positive ETF/network news, risking a false breakdown"
+  ],
+  "recommendation": "avoid",
+  "research_confidence": 20
+}

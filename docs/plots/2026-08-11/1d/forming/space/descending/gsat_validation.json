@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a downtrend from late May through late July, then a sharp gap-up breakout in early August with a large green candle jumping from ~81 to ~84, followed by consolidation around 83-84. There's no clear descending triangle structure - no flat support line with lower highs converging into it. Instead we see a clean downtrend followed by an abrupt breakout gap and now sideways consolidation at the top. The recent price action (last 4-5 candles) is too short and tight to confidently draw two converging trendlines with multiple touch points. This looks more like a post-breakout consolidation/flag than a triangle in formation. I disagree with the algorithm's descending triangle flag - there's no evidence of a flat support level being tested multiple times with descending highs; the price action instead shows a trend reversal via gap breakout.",
+  "validated_at": "2026-08-11T09:13:22.488450+00:00"
+}

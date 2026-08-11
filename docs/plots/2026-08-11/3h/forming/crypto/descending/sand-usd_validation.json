@@ -1,0 +1,13 @@
+{
+  "symbol": "SAND-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "Price shows a clear downtrend from early July highs (~0.053) to a base around 0.041-0.043 by late July, followed by a tight sideways consolidation with a spike wick (volume spike) near Aug 1. The right-edge action is flat/choppy trading in a narrow range (~0.0405-0.0435) rather than a converging triangle with clear diagonal trendlines. There's no well-defined descending upper trendline with lower highs converging into a flat support - the recent candles look more like a rectangle/consolidation range after a downtrend, not a triangle apex. The algorithm's descending triangle call is not well supported since the 'lower highs' aren't clearly touching a diagonal line, and the flat support is only marginally respected with a large upside wick spike breaking it dramatically. I disagree with the algo flag; this looks like range-bound consolidation, not a valid triangle setup with 2+ clean touches on each converging line.",
+  "validated_at": "2026-08-11T09:14:45.387326+00:00"
+}

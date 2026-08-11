@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": null,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": null,
+  "presence_confidence": null,
+  "pattern_quality": null,
+  "validation_notes": "{\n  \"found_triangle\": false,\n  \"pattern_type\": null,\n  \"direction\": null,\n  \"presence_confidence\": 62,\n  \"pattern_quality\": null,\n  \"notes\": \"The chart shows a clear downtrend from late June (~440) into early August (~355), followed by a modest bounce into the last few candles (375-385). There isn't a well-defined pair of converging trendlines: the 'support' the algorithm may be referencing (around 355-365) only has 2 touches and isn't clearly flat, while the highs from late July to early August are irregular, not forming a consistent declining resistance line. The recent price action (last 8-10 candles) looks more like a basing/consolidation after a strong downtrend, with possibly rising lows (353\u2192363\u2192375) rather than a descending triangle's declining highs. This looks more like early",
+  "validated_at": "2026-08-11T09:16:57.592644+00:00"
+}
