@@ -1,0 +1,30 @@
+{
+  "symbol": "SPCE",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": true,
+  "claude_pattern": "Ascending",
+  "claude_direction": "LONG",
+  "pattern_agree": false,
+  "presence_confidence": 55,
+  "pattern_quality": 45,
+  "validation_notes": "From mid-July through early August, price bottoms out around 2.5-2.6 with several higher lows (touches near Jul 22, Jul 27, Jul 31) while the upper resistance stays fairly flat around 2.7-2.9, with a recent breakout above ~2.9 into the 2.9-3.0 range in the last few candles. This looks more like a basing/ascending triangle with an upward breakout rather than a descending triangle - the lows are rising, not the highs falling, and price has already pushed above the prior resistance band, suggesting the algorithm's descending triangle call is likely mislabeled. Confidence is moderate since the pattern is compressed and the recent breakout candles reduce the clarity of 'still forming' structure, but directionally it favors continued upside (LONG) rather than the bearish implication of a descending triangle.",
+  "validated_at": "2026-08-12T09:26:09.927551+00:00",
+  "symbol_research": "Virgin Galactic (SPCE) is a commercial space tourism company that has faced significant cash burn, repeated delisting/dilution risk, and delays in commercial spaceflight cadence. The stock has undergone a reverse split and persistent share dilution to fund operations, leading to a long-term downtrend from its 2021 highs (~$60) to sub-$3 levels. Recent news flow centers on cost-cutting, fleet development (Delta ships), and going-concern liquidity concerns.",
+  "market_sentiment": "bearish",
+  "supporting_signals": [
+    "Ascending triangle shows higher lows, suggesting incremental accumulation near support",
+    "Tight risk/reward setup with defined stop (2.38) vs targets (3.11/3.51) offers ~1.5-2x R:R",
+    "Low absolute price allows for high percentage upside if breakout confirms",
+    "Pattern breakout above resistance could trigger short-covering rally given high short interest typical in SPCE"
+  ],
+  "opposing_signals": [
+    "Long-term downtrend and secular bearish fundamentals (cash burn, dilution risk) undermine technical breakout reliability",
+    "Low-priced, high-dilution stocks often produce false breakouts due to weak volume conviction",
+    "Broader space/EV-adjacent speculative sentiment has cooled, reducing momentum tailwinds",
+    "History of failed breakouts and repeated capital raises has trained market to sell rallies",
+    "No fundamental catalyst mentioned to support a sustained move beyond technical pattern"
+  ],
+  "recommendation": "monitor",
+  "research_confidence": 35
+}

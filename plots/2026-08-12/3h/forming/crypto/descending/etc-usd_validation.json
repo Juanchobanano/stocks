@@ -1,0 +1,13 @@
+{
+  "symbol": "ETC-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The overall structure since early July is a clear downtrend with a series of lower highs and lower lows, not a converging triangle. Near the right edge (late July-August), price is consolidating in a fairly tight, roughly flat range between ~6.4 and ~6.65, but this looks more like a flag/rectangle than a descending triangle - the lower boundary is flat (not a clear support with rising or even consistent flat touches at a single level) and the upper boundary is also mostly flat, not clearly descending with distinct lower highs. There isn't a clean converging wedge shape - the recent candles look like sideways chop rather than compression toward an apex. I disagree with the algorithm's descending triangle flag; the recent price action is better described as consolidation/basing after a downtrend rather than a textbook descending triangle with a flat support line and descending resistance line converging to a point.",
+  "validated_at": "2026-08-12T09:24:26.440033+00:00"
+}

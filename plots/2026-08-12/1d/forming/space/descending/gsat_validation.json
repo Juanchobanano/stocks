@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right edge shows a sharp gap-up breakout candle around Jul 29-30, jumping from ~80 to ~84 on high volume, followed by a small consolidation with two narrow-range candles. This isn't a converging triangle - there's no clear descending resistance line with multiple lower highs, and no flat support with multiple touches. The prior price action (Jun-Jul) was a downtrend/base, not a well-defined descending triangle. The recent action looks more like a breakout with brief pause/flag consolidation rather than a triangle compressing toward an apex. I don't see at least two clean touches on both upper and lower boundaries converging near the current price - the algorithm likely mistook the choppy basing period before the breakout for triangle structure, but the breakout candle itself invalidates any pre-existing containment pattern.",
+  "validated_at": "2026-08-12T09:23:12.862010+00:00"
+}

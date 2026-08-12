@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "Price shows a clear downtrend from late June highs (~445) into late July lows (~355), then a small bounce/consolidation into early August in the 360-385 range. There isn't a clean descending resistance line with multiple lower highs converging into a flat support - the recent price action (last ~10 candles) looks more like a small basing/consolidation range with roughly flat support (~360-365) and flat-to-slightly-rising resistance (~380-385), which resembles a shallow rectangle or minor ascending structure rather than a descending triangle. The algorithm's descending triangle call doesn't fit well since the upper boundary isn't showing consistent lower highs - the last few candles are actually pushing up toward 380-385 without an aggressive falling resistance line. Not enough clear touch points on both sides to confirm a true triangle; overall this looks like consolidation after a downtrend rather than a well-defined triangle.",
+  "validated_at": "2026-08-12T09:25:58.390647+00:00"
+}

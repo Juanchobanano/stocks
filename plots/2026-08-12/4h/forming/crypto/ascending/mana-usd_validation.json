@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late July into August) shows price drifting sideways-to-slightly-down in a tight, choppy range around 0.065-0.068, not a converging triangle. There's no clear rising support line with higher lows, nor a flat resistance being tested repeatedly - highs are mostly declining or flat and lows are also flat/declining together, resembling a rectangle/consolidation rather than an ascending triangle. The algorithm likely picked up minor higher lows in isolated candles, but there's no consistent flat resistance line with 2+ clean touches paired with a clear rising support trendline. Overall this looks like range-bound consolidation after a downtrend, not a credible ascending triangle setup with imminent breakout characteristics.  Given the flat/declining highs and lack of tightening range at the very right edge, I disagree with the algo's ascending triangle call.",
+  "validated_at": "2026-08-12T09:25:34.405199+00:00"
+}

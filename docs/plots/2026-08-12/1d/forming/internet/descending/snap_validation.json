@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a downtrend into mid-June bottoming around 4.3-4.5, then a basing/consolidation range through July, followed by a sharp breakout spike in early August (large green candle to ~5.0 then continuing up to ~5.8) before pulling back. There's no clear converging triangle structure near the right edge - instead there's a strong impulsive move up on high volume followed by a pullback, which looks more like a breakout and retracement than a triangle formation. The algorithm's descending triangle call doesn't fit well since there's no flat support with lower highs converging near the current price action; the recent candles show high volatility and a sharp spike rather than compression into an apex.",
+  "validated_at": "2026-08-12T09:22:45.851255+00:00"
+}

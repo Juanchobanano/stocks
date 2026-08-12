@@ -1,0 +1,13 @@
+{
+  "symbol": "VET-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a choppy sideways range roughly between 0.00645 and 0.00475, with no clear convergence between highs and lows. Highs are actually declining slightly (0.0048 -> 0.00475 -> 0.0047) while lows are relatively flat/slightly declining, which is closer to a flat or descending consolidation rather than an ascending triangle (which requires flat resistance + rising support). There aren't clean, repeated touches forming two converging trendlines - price looks like range-bound noise. I disagree with the algorithm's ascending-triangle flag; the structure lacks the rising-lows/flat-highs signature required, and no apex compression is visible near the right edge.",
+  "validated_at": "2026-08-12T09:24:06.566978+00:00"
+}
