@@ -1,0 +1,13 @@
+{
+  "symbol": "SPCE",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a strong downtrend from early June (~$5.9) into a bottoming/basing pattern around $2.5-3.0 from late June through early August, then a recent breakout to ~$2.9-3.0. However, this basing action looks more like a flat consolidation/range (support ~2.5, resistance ~2.9-3.0) rather than a descending triangle with clear lower highs. The upper boundary is not consistently declining - highs bounce between 2.9-3.2 without a clean downward-sloping resistance line. The recent price action (last ~10 candles) shows a breakout above the range to ~2.9-3.0 with follow-through, which argues against an unbroken triangle still compressing. I don't see a well-defined converging wedge with 3+ touches on each trendline; it's more a rectangle/range that already broke to the upside. Disagree with the algo's descending triangle label - the resistance line isn't clearly descending, and price has already broken out rather than still compressing toward an apex.",
+  "validated_at": "2026-08-13T09:27:06.052036+00:00"
+}

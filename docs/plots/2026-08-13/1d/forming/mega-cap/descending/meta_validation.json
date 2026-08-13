@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp drop from ~685 to ~525 in late July, followed by a choppy recovery/consolidation around 585-600 with lower highs but no clear rising support line - lows are roughly flat to slightly declining (600-585), not making higher lows. This looks more like consolidation after a steep selloff rather than a descending triangle with a flat support and falling resistance. There isn't a clean flat support level being repeatedly tested with 3+ touches, and the recent candles are small-bodied and choppy rather than showing a clear converging wedge. The algorithm's descending triangle call is weak because the 'support' isn't well-defined - price action looks more like range-bound noise near a recent low than a clean triangle apex.",
+  "validated_at": "2026-08-13T09:23:27.718818+00:00"
+}

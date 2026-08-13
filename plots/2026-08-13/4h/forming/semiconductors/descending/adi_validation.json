@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear downtrend from late June (~440) into late July (~355), followed by a modest basing/recovery into early August (~375-385). There's no clear flat support line with converging lower highs forming a descending triangle - the decline is a fairly steady downtrend with lower lows throughout, not a flat bottom. The recent price action (late Jul-Aug) shows a rounded bottom and slight uptick rather than compression into an apex. Volume also doesn't show the typical contraction pattern expected near a triangle apex. This looks more like a downtrend transitioning into a potential reversal/basing phase rather than a descending triangle with defined horizontal support and descending resistance.",
+  "validated_at": "2026-08-13T09:26:52.924846+00:00"
+}

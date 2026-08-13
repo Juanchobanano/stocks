@@ -1,0 +1,13 @@
+{
+  "symbol": "DOGE-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart (Jul-Aug) shows price essentially flat-lining in a narrow range around 0.069-0.075 after a prolonged downtrend from May highs. There isn't a clear descending upper trendline with lower highs converging into a flat support - instead price has already flattened out into a tight horizontal consolidation with low volatility, more like a basing/rectangle than a triangle. The algorithm may be picking up the earlier down-sloping move (Jun-Jul) as the 'descending' upper boundary, but by early August price is chopping sideways without a clear apex point being approached, and both boundaries look roughly flat rather than one being flat and one descending. This looks more like consolidation after a downtrend rather than an active triangle squeeze with defined converging trendlines and multiple touch points on each line.",
+  "validated_at": "2026-08-13T09:22:47.046262+00:00"
+}

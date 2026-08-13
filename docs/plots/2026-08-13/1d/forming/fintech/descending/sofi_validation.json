@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side shows a sharp V-shaped reversal: a steep sell-off into late July (down to ~15) followed by a strong impulsive rally back to ~18.7, with only 3-4 candles of consolidation at the very edge. This is not a converging pattern - there's no series of lower highs meeting a flat/rising support, nor enough touches on both sides to define trendlines. The algorithm likely mistook the pre-selloff choppy highs (Jun 30-Jul 29, oscillating 17.8-19.2) as a descending upper line, but the lower boundary never established a flat support - it broke down violently through 16, 15.5, and 15 before reversing. This looks like an already-completed capitulation/reversal, not a triangle mid-formation. Volume spike on the low candle confirms a flush/reversal rather than quiet compression typical of triangles.",
+  "validated_at": "2026-08-13T09:23:58.415729+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "SAND-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear downtrend from early July (~0.053) declining steadily to a bottom around 0.0410-0.0425 in late July, followed by sideways consolidation/chop near the lows (0.0405-0.0440) with no clear convergence. Price is basically range-bound flat at the right edge, not compressing into an apex - highs and lows are roughly parallel/flat rather than converging. There's no descending upper trendline with lower highs meeting a flat support; instead price has already found a floor and is oscillating in a tight horizontal band. This looks more like a basing/consolidation range than a descending triangle. I disagree with the algorithm's flag - there's insufficient evidence of two converging trendlines with clear touch points on both sides.",
+  "validated_at": "2026-08-13T09:25:08.740611+00:00"
+}

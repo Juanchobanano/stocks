@@ -1,0 +1,13 @@
+{
+  "symbol": "AMZN",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp V-shaped recovery from ~227 lows in late June through a strong rally to ~286 in early August, followed by a small 4-5 candle pullback/consolidation. This is not a triangle - there's no series of lower highs converging with flat support, nor any multi-touch containment. The recent price action is simply a brief 3-candle pullback after a strong impulsive rally, with only one clear high and one recent low - insufficient touch points (need 2+ per side) to confirm a converging structure. The algorithm likely mistook the sharp rally followed by minor pullback as a descending triangle, but there's no flat support base with repeated tests, and the 'upper trendline' would only have one touch point. This looks like a flag/pullback after a breakout, not a triangle in formation.",
+  "validated_at": "2026-08-13T09:23:20.286812+00:00"
+}

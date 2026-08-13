@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late July into August) shows a choppy, range-bound consolidation between roughly 0.0655 and 0.0680, but there's no clear convergence structure. Highs and lows are essentially flat/oscillating rather than forming a rising support line or a flat resistance with higher lows - the classic ascending triangle signature. Price action looks more like sideways noise/consolidation after a downtrend from the 0.075 peak, not a compressing wedge. I don't see a well-defined rising trendline connecting higher lows, nor a consistent flat resistance being tested multiple times with precision. The algorithm's flag seems to be picking up on the general flattening of volatility rather than an actual triangle geometry. No decisive breakout is visible either, but the lack of clean converging trendlines makes this a low-confidence triangle at best, so I reject it.",
+  "validated_at": "2026-08-13T09:26:30.205997+00:00"
+}

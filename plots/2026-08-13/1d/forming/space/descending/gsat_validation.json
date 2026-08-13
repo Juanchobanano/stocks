@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad rounded downtrend from late May (~84.5) down to a low near 78.7 in late July, followed by a sharp breakout gap up to ~84 in early August. There's no clear convergence between a flat support and descending resistance in the recent price action - instead price is choppy, drifting down, then gaps sharply higher, which looks more like a breakout from a downtrend/base than a descending triangle. The recent 3 candles after the gap show slight pullback but not enough touches to define a new triangle. The algorithm's descending triangle call is not well supported since the 'support' line isn't flat and the upper trendline touches are too sparse and inconsistent - this looks more like a downtrend that reversed sharply rather than a coiling triangle.",
+  "validated_at": "2026-08-13T09:24:04.980127+00:00"
+}
