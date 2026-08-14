@@ -1,0 +1,13 @@
+{
+  "symbol": "NVDA",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad swing from ~200 up to ~235, back down to ~190, and now a sharp recovery to ~220 at the right edge. There's no clear convergence of upper and lower trendlines - the recent price action from late July into early August is a strong impulsive rally (three consecutive green candles from ~190 to ~223) rather than a compression pattern. There's no flat support line with lower highs converging into it - instead we see a V-shaped bottom followed by a breakout rally. The algorithm's descending triangle call doesn't fit: there's no series of lower highs testing a declining resistance line while support holds flat; instead price simply declined then sharply reversed. This looks like a breakout/reversal move already underway, not a triangle still building toward an apex near the right edge.",
+  "validated_at": "2026-08-14T09:17:31.985440+00:00"
+}

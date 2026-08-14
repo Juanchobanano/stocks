@@ -1,0 +1,13 @@
+{
+  "symbol": "GOOGL",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a strong uptrend from ~320 to a peak near 382, followed by a sharp pullback to ~358-365 over the last few candles. This is not a converging triangle - there's no clear flat or rising support line with a flat/falling resistance line forming a compression. Instead, price made a strong impulsive rally and is now retracing sharply, which looks more like a blow-off top / reversal than a triangle consolidation. There are only 1-2 candles at the recent high before the sharp drop, not enough touches on an upper trendline to establish resistance, and no established rising support line with multiple higher lows. The algorithm's 'ascending triangle' flag appears to be a false positive driven by the rising price action prior to the pullback, rather than genuine horizontal resistance with rising support.",
+  "validated_at": "2026-08-14T09:20:45.934640+00:00"
+}

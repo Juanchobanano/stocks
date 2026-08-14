@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "Price action from mid-July through early August is largely range-bound / choppy sideways consolidation between roughly 90-103, without a clear converging structure. Highs and lows do not show a consistent narrowing pattern - there are multiple swings hitting both ~100 resistance and ~92-95 support repeatedly without tightening. This looks more like a horizontal trading range or noise than a descending triangle, which would require a clearly declining upper trendline (lower highs) against a flat support. The recent highs (~99-100) are not meaningfully lower than earlier highs (~99-101), so the 'descending' resistance line is questionable. I don't see strong evidence of apex compression near the right edge.",
+  "validated_at": "2026-08-14T09:19:54.031122+00:00"
+}

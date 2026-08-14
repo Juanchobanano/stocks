@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart (mid-June through late July) shows a sharp V-shaped recovery from ~1560 up to ~1950, followed by a fairly flat, tight consolidation around 1830-1950 with low volume. This is more of a rectangular/range-bound consolidation than a converging triangle - the highs and lows over the last ~25 candles are roughly parallel (flat top near 1950, flat bottom near 1830) rather than converging toward an apex. There isn't a clear pattern of higher lows meeting lower highs; instead price is oscillating in a narrow horizontal band. I don't see the two trendlines pinching together as required for a symmetric triangle - it looks more like a flag/consolidation after the sharp rally off the lows.",
+  "validated_at": "2026-08-14T09:16:36.385599+00:00"
+}

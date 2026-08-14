@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "The right edge shows a sharp decline from ~685 down to ~525 in late July, followed by a choppy sideways bounce between roughly 580-600 with no clear rising support or flat resistance forming multiple clean touches. This looks more like consolidation after a sharp drop rather than a descending triangle - there isn't a clear flat support line with 2-3 touches, nor a clearly defined descending upper trendline with lower highs converging toward it. The recent candles (last ~10) are fairly flat/choppy in a narrow range (~580-605) but lack the geometric convergence structure of a true triangle. I don't see the algorithm's descending triangle setup credibly - there's no well-defined flat bottom being tested multiple times with clear lower highs pressing down on it.",
+  "validated_at": "2026-08-14T09:17:45.533428+00:00"
+}

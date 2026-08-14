@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart shows a sharp plunge to ~15 in late July followed by a strong V-shaped recovery back to ~18.7, on very high volume. This is an impulsive reversal move, not a converging consolidation. There's no clear flat support or descending resistance line with multiple touches - just a single sharp low and a sharp rally. The overall chart pattern is a series of rounded swings (W-shaped cycles) rather than a narrowing triangle. I disagree with the algorithm's descending triangle flag; there's no visible compression or repeated touches on two converging trendlines near the right edge - price already broke out sharply upward from the low, which contradicts a still-forming descending triangle structure.",
+  "validated_at": "2026-08-14T09:18:12.118961+00:00"
+}

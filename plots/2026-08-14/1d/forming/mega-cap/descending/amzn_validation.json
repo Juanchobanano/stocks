@@ -1,0 +1,13 @@
+{
+  "symbol": "AMZN",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp rally from ~230 to ~286 followed by a pullback to ~272-282, not a converging consolidation. There's no clear flat support with lower highs compressing into an apex - instead this looks like a strong impulsive move up followed by a small retracement/consolidation of only 3-4 candles, too few touch points to confirm a descending triangle. The broader mid-chart pattern (Jun) shows a rounded bottom, not a triangle either. I disagree with the algorithm's descending triangle flag - there's no established flat support line with repeated tests, and the recent price action is dominated by a breakout rally rather than a contained compression pattern.",
+  "validated_at": "2026-08-14T09:17:38.128617+00:00"
+}

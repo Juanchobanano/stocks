@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 65,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a strong downtrend from late June (~440) into early Aug (~355), followed by a modest bounce/basing near 360-385 in the last ~2 weeks. There's no clear flat support with lower highs converging - the recent price action shows a slight higher-low structure (355->360->365) with relatively flat highs around 380-385, which is more consistent with a shallow ascending base/consolidation than a descending triangle. The algorithm's descending triangle call doesn't fit well since the lower boundary isn't flat - lows are actually rising slightly, and highs are also fairly flat rather than declining. Overall this looks like a basing/consolidation range after a downtrend rather than a clean descending triangle with distinct lower-high resistance line and flat support with 3+ touches each. Not enough clear convergence to call this a credible triangle pattern.",
+  "validated_at": "2026-08-14T09:20:54.322659+00:00"
+}

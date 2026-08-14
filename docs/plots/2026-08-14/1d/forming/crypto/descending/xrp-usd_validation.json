@@ -1,0 +1,13 @@
+{
+  "symbol": "XRP-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (Jun-Aug) shows price consolidating in a fairly narrow, flat range between roughly 1.05 and 1.20, but there's no clear convergence structure - highs and lows are both roughly flat/choppy rather than one line converging toward another. This looks more like a flat/rectangular consolidation or ranging market at support after a strong downtrend, not a descending triangle with lower highs squeezing against a flat support. I don't see a clear series of lower highs forming a descending resistance line - the recent candles (Jul-Aug) look more like sideways chop within a horizontal band. Insufficient evidence of a converging apex to confidently call this a triangle.",
+  "validated_at": "2026-08-14T09:16:42.136234+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "symbol": "META",
+  "sector": "mega-cap",
+  "beta": 1.44,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": false,
+      "direction": "LONG",
+      "start": "2026-01-29",
+      "end": "2026-07-30",
+      "duration_days": 182,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 685.12,
+        "stop_loss": 522.24,
+        "take_profit_half": 797.68,
+        "take_profit_full": 910.24,
+        "height": 225.11
+      },
+      "volume_trend": {
+        "slope": 33634.25,
+        "trend": "flat",
+        "r_squared": 0.021
+      },
+      "points": {
+        "A": [
+          "2026-01-29",
+          742.6752
+        ],
+        "B": [
+          "2026-03-27",
+          519.7782
+        ],
+        "C": [
+          "2026-07-15",
+          686.08
+        ],
+        "D": [
+          "2026-07-30",
+          524.49
+        ],
+        "E": [
+          "2026-07-30",
+          524.49
+        ],
+        "F": [
+          "2026-07-30",
+          539.03
+        ]
+      }
+    }
+  ]
+}

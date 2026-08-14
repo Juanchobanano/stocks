@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear downtrend from late May (~84.5) into late July (~79), followed by a sharp gap-up breakout in early August that surged to ~84.7 before pulling back slightly. There's no visible convergence between a flat support line and a descending resistance line - instead price made a steady, fairly linear decline with lower highs and lower lows together (more like a downward channel/trend, not a narrowing wedge). The recent action is a strong impulsive breakout candle with high volume, already well beyond any prior consolidation range, meaning if a triangle existed it has already broken out and completed. I don't see at least two clean touches on a flat lower boundary near the recent lows - the late July lows around 78.7-79.3 don't clearly form a flat support tested multiple times in a converging structure. This looks like a downtrend into a breakout rather than a valid descending triangle still forming near the apex.",
+  "validated_at": "2026-08-14T09:18:19.246302+00:00"
+}

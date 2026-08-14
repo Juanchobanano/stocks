@@ -1,0 +1,13 @@
+{
+  "symbol": "DOGE-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right edge (Jul-Aug) shows a tight, flat consolidation around 0.069-0.075 with very low volatility and volume, but there's no clear converging structure - both highs and lows have been roughly flat/horizontal for weeks rather than forming a descending upper trendline with a flat base. This looks more like a low-volatility range/basing pattern after a prolonged downtrend from May, not an active descending triangle. A descending triangle needs distinctly lower highs converging into a flat support; here the highs are also flat, not declining. Insufficient evidence of two distinct converging trendlines with 2+ touches each showing clear compression toward an apex.",
+  "validated_at": "2026-08-14T09:17:07.307390+00:00"
+}

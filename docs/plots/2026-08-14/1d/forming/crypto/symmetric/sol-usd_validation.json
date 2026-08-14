@@ -1,0 +1,29 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": true,
+  "claude_pattern": "Symmetric",
+  "claude_direction": "SYMMETRIC",
+  "pattern_agree": true,
+  "presence_confidence": 55,
+  "pattern_quality": 45,
+  "validation_notes": "From late June's peak (~83) price has been oscillating with lower highs (~79 on Jul8, ~78 on Jul18, ~77 on Jul24) and roughly higher/flattening lows (~72 on Jul10, ~71 on Jul20, ~72 on Jul28), producing a loose converging range. The last week of candles (~73-74) is notably tighter than earlier swings, suggesting some compression near the right edge, consistent with an apex forming. However, the touches are not crisp \u2014 the 'trendlines' have some noise and the lower boundary is more flat than clearly rising, so this leans toward a weak/messy symmetric triangle rather than a textbook one. Price is currently still inside the range, no clear breakout yet, so the algorithm's flag is plausible but should be treated with caution given the loose structure.",
+  "validated_at": "2026-08-14T09:16:54.681427+00:00",
+  "symbol_research": "SOL-USD is Solana, a high-throughput layer-1 blockchain known for low fees and fast finality, widely used for DeFi, NFTs, and memecoin activity. It remains one of the top smart-contract platforms by market cap and developer activity, with recent narrative support from ETF speculation and network upgrade progress, though it has historically shown high beta/volatility relative to BTC.",
+  "market_sentiment": "neutral",
+  "supporting_signals": [
+    "Symmetric triangle reflects balanced consolidation after prior volatility, often preceding a directional breakout",
+    "Defined risk/reward with entry 81.25, stop 72.94 (~10% risk) versus TP1 104.29 (~28% reward), giving favorable R:R",
+    "Crypto majors including SOL tend to have strong momentum continuation once triangle breakouts are confirmed",
+    "Pattern was independently visually confirmed, reducing false-positive pattern risk"
+  ],
+  "opposing_signals": [
+    "Symmetric triangles are directionally neutral until breakout confirmation, so entering both directions increases whipsaw risk in choppy conditions",
+    "Crypto assets like SOL are prone to false breakouts driven by low liquidity and leverage-driven volatility",
+    "No explicit volume or momentum confirmation mentioned alongside the pattern",
+    "Broader market sentiment is only neutral, lacking a strong macro tailwind to support a decisive breakout"
+  ],
+  "recommendation": "monitor",
+  "research_confidence": 55
+}
