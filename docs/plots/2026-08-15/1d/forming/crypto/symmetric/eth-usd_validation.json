@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late Jun-Jul) shows price recovering from ~1600 to a tight consolidation around 1850-1950, but this looks more like a flat/rectangular range or slight uptrend channel rather than a converging triangle. Highs are roughly flat (~1950) and lows are roughly flat (~1830-1870), not clearly converging - there's no strong narrowing wedge shape. The broader chart shows a clear downtrend from ~2450 (late Apr) to ~1550 (mid-Jun) followed by a basing/recovery move, not a symmetric triangle apex. Too few clear converging touch points on both sides to confidently call this a triangle; it reads more as consolidation after a downtrend.",
+  "validated_at": "2026-08-15T08:40:22.445434+00:00"
+}

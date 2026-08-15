@@ -1,0 +1,13 @@
+{
+  "symbol": "ETC-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear, persistent downtrend from ~7.2 to ~6.4 with consistently lower highs and lower lows throughout - not a consolidation pattern. There's no flat support line; lows keep dropping (7.0 -> 6.8 -> 6.6 -> 6.4). This is a descending channel/downtrend, not a descending triangle, since a descending triangle requires a flat/horizontal support base with repeated tests at the same level. Here support keeps eroding lower with no clear horizontal floor. The algorithm likely mistook the overall downward compression for a triangle, but there's no credible flat base with 2+ touches at the same price level to support the pattern. Right edge shows price still declining with no basing/reversal signal, making a LONG bias unsupported by the visual structure.",
+  "validated_at": "2026-08-15T08:43:12.849647+00:00"
+}

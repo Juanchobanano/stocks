@@ -1,0 +1,13 @@
+{
+  "symbol": "AMZN",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a strong impulsive rally from ~262 to ~287 followed by a pullback to ~272-274, not a compressing triangle. There's no clear flat support or descending resistance with multiple touches - just a sharp spike up and a 3-candle retracement. This looks more like a breakout/pullback continuation setup or early consolidation after a rally, rather than a descending triangle. A descending triangle requires a flat lower support with lower highs compressing into it, but here we only see 5-6 candles at the right edge, insufficient for establishing two converging trendlines with multiple touches. The algorithm likely misread the sharp reversal candles as resistance touches, but there's no clear horizontal support base visible yet.",
+  "validated_at": "2026-08-15T08:41:25.802029+00:00"
+}

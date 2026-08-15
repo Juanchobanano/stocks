@@ -1,0 +1,13 @@
+{
+  "symbol": "NEM",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear V-shaped structure: a decline from ~112 (mid-June) down to a trough near 90 (mid-July), followed by a steady recovery to ~105 by early August. This is a rounded reversal, not a triangle. There's no converging price compression near the right edge \u2014 instead price is trending upward with higher highs and higher lows across the last several candles, breaking clearly above the prior consolidation zone (94-98). No descending upper trendline is credible; highs are actually rising, not falling, which contradicts the descending triangle definition. The algorithm likely mistook the general uptrend/recovery structure for a triangle. There's no visible apex or narrowing range at the right edge - price has already broken out upward from the base and is trending, not consolidating.",
+  "validated_at": "2026-08-15T08:45:10.164427+00:00"
+}

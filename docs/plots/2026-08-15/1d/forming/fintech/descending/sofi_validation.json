@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp V-shaped reversal: price dropped sharply to ~14.8 in late July then rallied strongly to ~18.7, with a small pullback at the very end. This is not a converging structure - there's no series of lower highs meeting a flat support line, nor any real compression. The recent candles show a strong impulsive up-move followed by minor consolidation, which looks more like a post-breakout pause than a developing descending triangle. Earlier in the chart there are oscillating swing patterns (Mar-Aug) but none show clean flat support with descending resistance converging near the current price. I don't see at least two clear touches on a flat lower support line combined with two lower highs on a descending upper line near the right edge, so I reject the algorithm's descending triangle call.",
+  "validated_at": "2026-08-15T08:41:59.575450+00:00"
+}

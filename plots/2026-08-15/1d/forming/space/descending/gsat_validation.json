@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad swing from ~80 up to ~84.5 in late May, then a decline into July bottoming near 78.7, followed by a sharp breakout candle in early August that gapped up to ~84. This is not a converging triangle structure - there's no clear flat support with descending resistance forming a narrowing wedge. The late July lows (79-79.5) do look roughly flat, but there's no consistent lower-high resistance line converging into them; instead price just consolidated in a range (79-80.5) for a few weeks before an explosive gap-up breakout. The algorithm likely mistook the range-bound consolidation before the breakout for a descending triangle, but there are insufficient distinct touch points on a descending upper trendline, and the breakout candle is already far beyond any prior structure, meaning the 'triangle' would already be invalidated/completed rather than actively forming near the apex.",
+  "validated_at": "2026-08-15T08:42:07.412076+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late July into August) shows a fairly flat, choppy consolidation around 0.0655-0.0680 with no clear rising lower trendline - lows are roughly flat to slightly declining, not making higher lows. There's no discernible ascending triangle structure; instead price shows a downtrend from mid-July highs (~0.075) into a flat, range-bound consolidation near the lows. This looks more like a flat/rectangular consolidation or a minor descending drift rather than an ascending triangle with rising support. No clear convergence between two well-defined trendlines is visible near the current price action.",
+  "validated_at": "2026-08-15T08:44:16.848330+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": true,
+  "claude_pattern": "Descending",
+  "claude_direction": "LONG",
+  "pattern_agree": true,
+  "presence_confidence": 55,
+  "pattern_quality": 45,
+  "validation_notes": "Price fell sharply from ~445 in late June to ~360 by early August, then began forming a base. Since mid-July, lows have consistently held around 355-365 (support flattening), while highs have been declining from ~400 to ~380 (lower highs converging down). This creates a loose descending triangle shape with support near 355-360 and a downward-sloping resistance from ~400 down to ~380. The last few candles (Aug 01-05) show a small bounce off support with tightening range, suggesting compression near the apex. However, touches on the support line are somewhat irregular (355-365 range rather than a precise flat line), and the resistance line has only 2-3 clean touches. This is a plausible but not textbook pattern - the overall downtrend is decelerating with narrowing range, consistent with the algorithm's flag, but conviction is moderate given the noisiness of touch points.",
+  "validated_at": "2026-08-15T08:44:39.217261+00:00",
+  "symbol_research": "Analog Devices (ADI) is a leading semiconductor company specializing in analog, mixed-signal, and DSP chips used in industrial, automotive, communications, and consumer applications. It has significant exposure to industrial automation and automotive electrification trends, with recent focus on recovery from post-pandemic inventory destocking cycles affecting the broader analog chip sector.",
+  "market_sentiment": "neutral",
+  "supporting_signals": [
+    "Descending triangle breakout to the long side suggests bullish reversal from consolidation",
+    "Semiconductor sector has shown cyclical recovery signs after 2023-2024 inventory correction",
+    "Entry near pattern support with defined risk via stop-loss below recent lows",
+    "Reward-to-risk ratio favorable across both TP targets relative to stop distance"
+  ],
+  "opposing_signals": [
+    "Descending triangles are traditionally bearish continuation patterns; a long bias here is contrarian and requires strong confirmation",
+    "Analog chip demand recovery remains uneven, with industrial end-markets still soft in some subsegments",
+    "Broader semiconductor valuations elevated, increasing vulnerability to macro or rate-driven pullbacks",
+    "Pattern reliability for descending triangles resolving upward is historically lower than downward breaks"
+  ],
+  "recommendation": "monitor",
+  "research_confidence": 48
+}

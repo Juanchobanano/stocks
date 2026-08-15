@@ -1,0 +1,54 @@
+{
+  "symbol": "SEDG",
+  "sector": "clean-energy",
+  "beta": 4.27,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-15",
+      "end": "2026-07-10",
+      "duration_days": 25,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 59.51,
+        "stop_loss": 47.51,
+        "take_profit_half": 67.0,
+        "take_profit_full": 74.49,
+        "height": 14.98
+      },
+      "volume_trend": {
+        "slope": -1378.52,
+        "trend": "flat",
+        "r_squared": 0.002
+      },
+      "points": {
+        "A": [
+          "2026-06-15",
+          63.39
+        ],
+        "B": [
+          "2026-06-25",
+          48.1
+        ],
+        "C": [
+          "2026-06-30",
+          60.93
+        ],
+        "D": [
+          "2026-07-08",
+          47.75
+        ],
+        "E": [
+          "2026-07-10",
+          57.35
+        ],
+        "F": [
+          "2026-07-10",
+          55.43
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "GOOGL",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a strong uptrend from ~320 to a peak near 383, followed by a sharp two-candle reversal down to ~358, then consolidation around 357-365. This is not a converging triangle - there's no clear flat resistance being tested multiple times, nor a rising support line with multiple higher-low touches. The recent price action looks more like a sharp spike top and pullback/consolidation rather than a compressing wedge. There aren't at least two clean touches on both an upper and lower trendline converging toward an apex - the 'highs' are really just one spike candle, and the lows before the rally were much lower (320s) making any support line drawn from there to now would have an unrealistically steep slope, not a gentle ascending line. This looks like a failed/invalid pattern call by the algorithm.",
+  "validated_at": "2026-08-15T08:44:30.566405+00:00"
+}

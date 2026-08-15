@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a volatile downtrend with a sharp drop to ~530, a bounce to ~650, then decline to ~590-600 with choppy consolidation. There's no clear flat support line - lows are irregular (530, then 585, 595, 570) and highs are also irregular, not forming consistent lower highs converging toward a flat base. This looks more like choppy range-bound consolidation after a downtrend rather than a well-defined descending triangle. The algorithm's flag is questionable since touch points on both support and resistance are not clean or consistent enough to confirm reliable trendlines converging toward an apex.",
+  "validated_at": "2026-08-15T08:41:31.034506+00:00"
+}

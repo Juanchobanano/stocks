@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-July to Aug 06) shows a broad sideways consolidation between roughly 92 and 101, but there's no clear convergence - highs and lows are both roughly flat/choppy rather than narrowing into an apex. Highs bounce between 98-102 and lows between 92-96 without a clean descending upper trendline or flat rising support. This looks more like a rectangular/range-bound consolidation than a converging triangle. The algorithm's descending triangle call isn't well supported since the upper boundary isn't consistently making lower highs into a point - it's oscillating rather than converging. Not enough clear compression to call this a valid triangle setup.",
+  "validated_at": "2026-08-15T08:43:40.920280+00:00"
+}

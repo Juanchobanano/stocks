@@ -1,0 +1,13 @@
+{
+  "symbol": "SAND-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear, sustained downtrend from early July (~0.051) to early August (~0.041) with a brief consolidation/basing period at the right edge (Jul 29 - Aug 6) around 0.041-0.044. This recent consolidation is roughly flat and range-bound rather than a converging wedge - highs and lows are both oscillating in a narrow band without clear convergence toward an apex. There's no well-defined descending upper trendline with lower highs, nor a flat support base with enough touches to confirm a triangle. This looks more like a downtrend followed by a sideways consolidation/potential basing pattern than a descending triangle. The algorithm likely mistook the flat consolidation for triangle compression, but the touch points are inconsistent and the overall structure lacks the clean convergence needed for a valid triangle call.",
+  "validated_at": "2026-08-15T08:44:11.503998+00:00"
+}

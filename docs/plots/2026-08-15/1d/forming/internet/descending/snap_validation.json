@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad decline from ~6.3 in early May to a base near 4.3-4.5 through late June/July, followed by a sharp breakout spike to ~5.8 around Aug 3, then pullback. This is not a converging triangle structure - there's no clear flat support with descending resistance converging near the right edge. Instead, price already made a strong impulsive move up (breakout) and is now consolidating/retracing after that spike, which looks more like a post-breakout pullback than a triangle formation. The 'descending triangle' label doesn't fit since there's no flat support line being tested multiple times near current price, and the recent action is a sharp rally not a compression pattern. Volume spike on the rally day supports a breakout move rather than a triangle apex forming.",
+  "validated_at": "2026-08-15T08:41:42.998139+00:00"
+}

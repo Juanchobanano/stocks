@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": true,
+  "claude_pattern": "Symmetric",
+  "claude_direction": "SYMMETRIC",
+  "pattern_agree": true,
+  "presence_confidence": 55,
+  "pattern_quality": 40,
+  "validation_notes": "From late June to late July, price pulls back from ~83 to the 72-79 range and consolidates. Highs step down slightly (83->79->78->77) forming a mild descending upper boundary, while lows stay fairly flat/slightly rising (73-76), giving a loose converging look. However, touches are inexact and price action is choppy/noisy rather than cleanly respecting two well-defined trendlines, so this is a weak, low-quality symmetric triangle rather than a textbook setup. Right edge shows price still compressing near 72-75 without a clear breakout yet.",
+  "validated_at": "2026-08-15T08:40:38.619924+00:00",
+  "symbol_research": "SOL-USD is Solana, a high-throughput layer-1 blockchain supporting smart contracts, DeFi, and NFTs. It competes with Ethereum on speed/cost but has faced historical network outage concerns. Price action is highly correlated with broader crypto market cycles and BTC/ETH sentiment, with additional sensitivity to Solana ecosystem developments (DeFi TVL, meme coin activity, ETF speculation).",
+  "market_sentiment": "neutral",
+  "supporting_signals": [
+    "Symmetric triangle reflects balanced consolidation after prior volatility, often preceding a decisive breakout",
+    "Defined entry/stop/target levels give a favorable risk-reward setup (~2:1 to TP1)",
+    "Pattern independently confirmed by visual inspection, reducing false-positive risk",
+    "Crypto assets often see high-momentum breakouts from triangle consolidations due to leverage-driven order flow"
+  ],
+  "opposing_signals": [
+    "Symmetric triangles have no inherent directional bias, making breakout direction unpredictable",
+    "Crypto markets are highly volatile and news-driven, increasing risk of false breakouts or stop hunts",
+    "Reliance on visual pattern confirmation alone without volume/momentum confirmation increases uncertainty",
+    "Wide gap between TP1 and TP2 suggests targets may be overly optimistic without clear catalyst",
+    "Macro crypto sentiment (rate expectations, BTC dominance shifts) could override technical pattern"
+  ],
+  "recommendation": "monitor",
+  "research_confidence": 55
+}
