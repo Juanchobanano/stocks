@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late Jul into Aug) shows a sharp decline from ~650 to ~525, then a bounce and consolidation around 580-600 with no clear flat support line or consistent lower highs forming a converging wedge. There isn't a well-defined flat bottom with descending upper trendline - the recent price action looks more like a volatile downtrend/recovery than a compression pattern. Only 1-2 tentative touch points on either side, not enough for a credible descending triangle. The broader chart shows repeated swings (peak-trough cycles) rather than a narrowing structure near the apex. I disagree with the algorithm's flag - this looks like choppy consolidation after a decline, not a clean descending triangle.",
+  "validated_at": "2026-08-16T08:41:29.297513+00:00"
+}

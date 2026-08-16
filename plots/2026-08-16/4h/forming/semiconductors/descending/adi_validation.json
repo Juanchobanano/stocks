@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 62,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear downtrend from late June highs (~440) into early August lows (~355), then a bounce to ~380. While there are lower highs visible from mid-July onward (400 -> 395 -> 380), the 'support' isn't flat - lows drop from ~395 to ~370 to ~355 before bouncing, showing a declining low sequence rather than a horizontal floor. This looks more like a broad downtrend that recently found a bottom and is attempting a reversal/basing move, not a well-defined descending triangle with a flat support line. Touch points on the lower boundary are inconsistent (no clear horizontal support tested 2-3 times at the same level), so I disagree with the algorithm's descending triangle call. The recent bounce off the ~355 low could be the start of a reversal rather than a triangle breakout.",
+  "validated_at": "2026-08-16T08:44:55.692790+00:00"
+}

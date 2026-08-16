@@ -1,0 +1,13 @@
+{
+  "symbol": "SPCE",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 65,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a sharp decline from early June highs (~6.0) into a bottoming/basing pattern from late June through early August, with price consolidating in a fairly flat, narrow range (~2.5-3.0) rather than converging into a triangle apex. There's no clear descending upper trendline with progressively lower highs - the highs are roughly flat around 2.9-3.0 throughout July, and the lows are also fairly flat around 2.5-2.6, forming more of a rectangle/flat consolidation than a converging descending triangle. Near the right edge, price actually breaks upward out of the range (late July into August, climbing from ~2.6 to ~2.9-3.0) which looks like a base breakout rather than a mid-triangle compression. I don't see the classic descending triangle structure of lower highs squeezing against flat support - the highs aren't clearly declining, they're flat. This looks more like accumulation/basing with a recent breakout than an active descending triangle.",
+  "validated_at": "2026-08-16T08:45:09.764443+00:00"
+}

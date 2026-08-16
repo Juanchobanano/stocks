@@ -1,0 +1,54 @@
+{
+  "symbol": "NVDA",
+  "sector": "mega-cap",
+  "beta": 1.84,
+  "triangles": [
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-06-15",
+      "end": "2026-07-22",
+      "duration_days": 37,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 199.49,
+        "stop_loss": 214.39,
+        "take_profit_half": 185.21,
+        "take_profit_full": 170.93,
+        "height": 28.57
+      },
+      "volume_trend": {
+        "slope": -44511.49,
+        "trend": "flat",
+        "r_squared": 0.0022
+      },
+      "points": {
+        "A": [
+          "2026-06-15",
+          212.7107
+        ],
+        "B": [
+          "2026-06-29",
+          189.8
+        ],
+        "C": [
+          "2026-07-15",
+          213.81
+        ],
+        "D": [
+          "2026-07-17",
+          197.97
+        ],
+        "E": [
+          "2026-07-22",
+          214.39
+        ],
+        "F": [
+          "2026-07-22",
+          213.35
+        ]
+      }
+    }
+  ]
+}

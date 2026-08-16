@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad decline from ~6.3 in early May down to a base around 4.3-4.5 through late June/July, followed by a sharp breakout rally in early August (candle jumping from ~4.7 to ~5.8). There's no clear converging triangle structure near the right edge - instead there's a flat consolidation base (~4.3-4.9) for about a month, then an abrupt vertical breakout with a large green candle and high volume spike. This looks more like a basing/accumulation pattern followed by a breakout rather than a descending triangle with a defined falling upper trendline and flat lower support with multiple touches. The recent price action (last 3-4 candles) shows a pullback after the breakout, not a compression into an apex. Not enough clean touch points on a descending upper trendline to validate the algorithm's flag.",
+  "validated_at": "2026-08-16T08:41:42.888904+00:00"
+}

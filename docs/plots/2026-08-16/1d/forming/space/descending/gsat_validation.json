@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear uptrend from mid-April to late May peaking near 84.5, followed by a sustained downtrend into late July bottoming near 79, and then a sharp gap-up breakout at the right edge to ~84-85 with a small pullback. There's no visible convergence between an upper resistance line and a lower flat support line near the right edge - instead price has already broken sharply upward away from the prior lows, with only 3-4 candles forming after the breakout. The recent price action at the far right is a small consolidation/pullback after a strong gap-up move, not a compressing triangle. The algorithm's 'descending triangle' call doesn't hold up since there's no flat support base with repeated lower highs converging near the right edge - the pattern is a downtrend that reversed sharply rather than a triangle consolidation.",
+  "validated_at": "2026-08-16T08:42:06.117837+00:00"
+}

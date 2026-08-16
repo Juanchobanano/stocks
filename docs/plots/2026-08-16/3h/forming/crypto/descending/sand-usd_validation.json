@@ -1,0 +1,13 @@
+{
+  "symbol": "SAND-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear downtrend from early July highs (~0.053) into a steep decline through late July, followed by a flat, choppy consolidation near 0.041-0.043 at the right edge with a large volume spike/wick anomaly around Aug 1. This flat consolidation is range-bound rather than converging - both the highs and lows in the last section are roughly horizontal (~0.043 resistance, ~0.041 support), not narrowing into an apex. There's no clear descending upper trendline with lower highs; instead price has flattened out after the downtrend. This looks more like a basing/range pattern than a triangle. I disagree with the algorithm's descending triangle call since a descending triangle requires a clearly declining upper boundary converging with flat support, which isn't visually evident here - the recent candles show sideways chop, not compression.",
+  "validated_at": "2026-08-16T08:43:10.195171+00:00"
+}

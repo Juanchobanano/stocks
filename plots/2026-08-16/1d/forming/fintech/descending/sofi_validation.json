@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp V-shaped reversal: a steep drop into late July (down to ~14.9) followed by a strong gap-up and rally back to ~18.8. This is an impulsive move, not a converging consolidation. There's no series of lower highs meeting a flat support line - instead there's one large red candle down and then aggressive green candles up with expanding, not contracting, range. No credible descending triangle structure with multiple touches on both a flat bottom and declining top is visible. The algorithm likely mistook the choppy mid-summer consolidation (Jun-Jul) for a triangle, but that region shows overlapping candles without clear convergence, and the most recent price action clearly breaks out upward, invalidating any descending triangle read (which would be bearish/SHORT anyway, not LONG as flagged, adding further inconsistency).",
+  "validated_at": "2026-08-16T08:41:58.913385+00:00"
+}

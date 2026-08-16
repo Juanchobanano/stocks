@@ -1,0 +1,13 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-July to late-July) shows price oscillating in a fairly flat, tight range between roughly 72 and 79, but there isn't a clear converging structure - the highs and lows are roughly parallel/flat rather than narrowing toward an apex. This looks more like consolidation/range-bound trading or a slight descending drift than a symmetric triangle with clear converging trendlines. There are only 2-3 ambiguous touch points on each side and the range width isn't visibly shrinking candle-by-candle. I disagree with the algorithm's symmetric triangle call - the price action resembles a flat consolidation channel more than a converging wedge.",
+  "validated_at": "2026-08-16T08:40:42.228202+00:00"
+}
