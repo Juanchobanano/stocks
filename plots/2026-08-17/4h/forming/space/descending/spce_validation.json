@@ -1,0 +1,13 @@
+{
+  "symbol": "SPCE",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a sharp decline from early June (~4.5-6.0) down to a bottom around late June/early July (~2.5-2.7), followed by a prolonged flat consolidation between roughly 2.5 and 2.7-2.9 through mid-July, then a slight upward drift into early August (~2.9). This is not a descending triangle - there's no clear descending upper trendline connecting lower highs; the price action after the initial drop is mostly flat/ranging with a slight recent uptick, more resembling a basing/consolidation pattern or a very mild ascending drift than converging triangle lines. There are not two distinct converging trendlines with multiple touches - the 'highs' in the recent consolidation are roughly flat, not descending, which contradicts the descending triangle algorithm flag. I don't see sufficient evidence of compression into an apex at the right edge; price looks more like it's breaking upward out of a flat range.",
+  "validated_at": "2026-08-17T09:00:45.863214+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-July through early August) shows price oscillating in a fairly flat, tight range roughly between 92-100, with no clear convergence toward an apex. Highs and lows are both roughly flat/choppy rather than showing a distinct descending upper trendline with a flat lower support - this looks more like consolidation/ranging behavior than a true descending triangle. There isn't a clear series of lower highs compressing against a flat support; the recent candles (Jul 29 - Aug 06) actually show a slight uptick with higher lows around 94-97, contradicting a descending triangle setup. I don't see strong enough compression or a well-defined converging structure to confidently call this a triangle pattern.",
+  "validated_at": "2026-08-17T08:59:33.506815+00:00"
+}

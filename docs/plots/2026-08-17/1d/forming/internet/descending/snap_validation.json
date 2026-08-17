@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad decline from ~6.3 to ~4.3 followed by a basing period around 4.3-4.9, then a sharp breakout candle around Aug 3 with a big volume spike pushing price to ~5.8, followed by pullback candles retracing down to ~5.2-5.5. There's no clear converging structure near the right edge - instead we see a strong impulsive breakout candle and subsequent consolidation/pullback, not a compressing triangle. The 'flat support, descending resistance' the algorithm may have seen in the base (Jun-Jul) is more of a rectangle/bottoming range than a descending triangle, and that pattern already resolved with the breakout in early August. No credible triangle is forming at the current right edge - price already broke out and is now just pulling back.",
+  "validated_at": "2026-08-17T08:57:34.006595+00:00"
+}

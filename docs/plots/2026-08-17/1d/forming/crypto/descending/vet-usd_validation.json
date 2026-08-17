@@ -1,0 +1,13 @@
+{
+  "symbol": "VET-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "From late June to late July, price has been trading in a tight, roughly flat range between ~0.0045 and ~0.0050, not a converging triangle. Both the highs and lows are essentially flat/sideways rather than one line descending and the other flat \u2014 there's no clear narrowing of range or lower highs pattern that would define a descending triangle. This looks more like a consolidation/rectangle after a sharp downtrend (from ~0.008 in May to ~0.0045 by late June). The algorithm likely mistook the flat consolidation for a descending triangle, but there isn't a clear descending upper trendline with distinct lower highs converging toward a flat support \u2014 the recent price action (mid-late July) shows very small-bodied candles oscillating without clear directional compression toward an apex.",
+  "validated_at": "2026-08-17T08:56:56.063304+00:00"
+}

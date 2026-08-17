@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp selloff to ~15 in late July followed by a strong V-shaped recovery back to ~18.5, not a converging triangle. There's no flat support line or descending resistance line with multiple touch points - instead it's a single sharp drop and sharp rally (impulsive move), with high volume spikes on both the drop and recovery days. This looks like a volatility event/reversal rather than a compressing consolidation pattern. Prior price action (Mar-Jul) shows a repeating oscillation between ~15.5 and ~19.5 with no clear convergence toward an apex. I disagree with the algorithm's descending triangle flag - there simply aren't the required lower-high touch points forming a descending resistance line, nor a flat support being tested multiple times in a converging structure near the right edge.",
+  "validated_at": "2026-08-17T08:57:50.129397+00:00"
+}

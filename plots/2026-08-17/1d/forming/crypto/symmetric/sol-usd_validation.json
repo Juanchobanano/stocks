@@ -1,0 +1,29 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": true,
+  "claude_pattern": "Descending",
+  "claude_direction": "SHORT",
+  "pattern_agree": false,
+  "presence_confidence": 55,
+  "pattern_quality": 45,
+  "validation_notes": "From late June through late July, price shows a series of lower highs (~83 -> ~79 -> ~78 -> ~76) while the lows cluster in a relatively flat band around 71-73, suggesting a mild descending-triangle structure rather than a true symmetric one (the algorithm's symmetric call is only partially supported since the lower boundary is flatter than the upper). Touch points are approximate (within 1-2 candles) and the range is fairly narrow/choppy, so convergence is present but not crisp. Price is currently still oscillating inside the range near the apex, with no clear breakout yet. Given the noisy price action and only moderate trendline respect, confidence in the exact triangle sub-type is limited, though a converging consolidation is visible near the right edge.",
+  "validated_at": "2026-08-17T08:56:27.170163+00:00",
+  "symbol_research": "Solana (SOL) is a high-throughput layer-1 blockchain used for DeFi, NFTs, and payments. It has seen periods of high volatility tied to network outages, ecosystem growth (memecoins, DePIN projects), and broader crypto market cycles. Price action is highly correlated with BTC/ETH beta and overall risk sentiment.",
+  "market_sentiment": "neutral",
+  "supporting_signals": [
+    "Descending triangle is a classically bearish continuation pattern when confirmed with a breakdown below support",
+    "Crypto assets like SOL exhibit high volatility, which can favor quick moves toward short-term targets if the pattern plays out",
+    "Visual confirmation of the triangle adds some technical validity to the setup"
+  ],
+  "opposing_signals": [
+    "CRITICAL FLAW: Both TP targets (104.29, 127.34) are well ABOVE the entry price (81.25), which is illogical for a SHORT trade \u2014 a short profits from price declines, so targets should be below entry, not above. This suggests a data/direction error in the trade setup.",
+    "Stop loss (72.94) is below entry, which is also inconsistent with a short position (short stops should be above entry to protect against upside breakout)",
+    "The parameter inconsistency indicates the trade thesis may be mislabeled (possibly this is actually a long setup mistakenly tagged as short), making the entire risk/reward calculation invalid as presented",
+    "No fundamental or on-chain catalyst cited to support imminent bearish breakdown in SOL",
+    "Crypto markets are prone to false breakdowns/breakouts in triangle patterns due to low liquidity pockets and manipulation"
+  ],
+  "recommendation": "avoid",
+  "research_confidence": 15
+}

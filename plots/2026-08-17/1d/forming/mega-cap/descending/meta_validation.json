@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "At the right edge the price action from late July through early August shows a sharp drop (~650 down to ~525) followed by a bounce, then a tight consolidation between roughly 585-600. This is more of a range/flag after a downswing than a converging triangle. There's no clear flat support with lower highs converging - the recent candles are choppy but not forming a clean descending resistance line with 3+ touches. The algorithm's descending triangle call seems to be stretching a short consolidation into a pattern label; I don't see consistent lower-high touches on an upper trendline nor a well-defined flat support tested multiple times. Overall this looks like post-drop consolidation/noise rather than a credible triangle breakout setup.",
+  "validated_at": "2026-08-17T08:57:21.807898+00:00"
+}
