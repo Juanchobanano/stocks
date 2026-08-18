@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late July into early August) shows price drifting sideways-to-slightly-down in a tight range around 0.065-0.068, but there's no clear converging structure - highs and lows are roughly flat and parallel rather than converging toward an apex. This looks more like a flat consolidation/range or a slight descending drift than an ascending triangle. There's no evidence of rising higher-lows against a flat resistance line; if anything the resistance line is flat-to-declining and support is flat, which would resemble a rectangle or mild descending channel rather than an ascending triangle. I disagree with the algorithm's ascending triangle call - the lower boundary isn't clearly rising, and the touches don't show the characteristic higher-low staircase pattern needed for an ascending triangle.",
+  "validated_at": "2026-08-18T08:54:32.537638+00:00"
+}

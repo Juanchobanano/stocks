@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "The right side shows a sharp drop to ~530 then a bounce to ~600, followed by choppy consolidation around 585-600 with no clear convergence of highs and lows. There isn't a well-defined flat support line or a consistently descending resistance line with multiple clean touches - price action looks more like range-bound noise after a volatile swing rather than a converging triangle. The algorithm's descending triangle call isn't well supported since the 'lower highs' aren't clearly stepping down in a straight line, and the base isn't flat enough with only 1-2 touches. I don't see a credible apex forming near the right edge.",
+  "validated_at": "2026-08-18T08:51:19.261804+00:00"
+}

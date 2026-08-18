@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right-side price action from late June through July shows a recovery from ~1600 to a range around 1800-1950, followed by sideways consolidation with roughly flat highs (~1950) and flat lows (~1830). This looks more like a flat/rectangular consolidation or a slight uptrend into resistance rather than a converging symmetric triangle. There isn't a clear pattern of narrowing highs and rising lows converging toward an apex - the recent candles (mid-July onward) are trading in a tight horizontal band without strong convergence. The algorithm's symmetric triangle call seems to overfit noise in a sideways range rather than a genuine converging structure with clear diagonal trendlines on both sides.",
+  "validated_at": "2026-08-18T08:50:00.650895+00:00"
+}

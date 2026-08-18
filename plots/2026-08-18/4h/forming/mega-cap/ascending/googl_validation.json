@@ -1,0 +1,13 @@
+{
+  "symbol": "GOOGL",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a strong uptrend from ~320 to ~382, followed by a sharp reversal down to ~358, then consolidation. There's no clear ascending triangle structure - no flat resistance level being tested multiple times, nor a clean rising support line with multiple touches. Instead we see a strong rally, a sharp spike top near 382, and a pullback - this looks more like a blow-off top / reversal than a converging triangle. The algorithm likely mistook the steady uptrend candles as a rising support line, but there's no corresponding flat resistance line with multiple touches to complete a triangle. The recent price action (last 5-6 candles) shows a drop and sideways drift around 358-365, which doesn't show clear convergence between two trendlines.",
+  "validated_at": "2026-08-18T08:54:46.657632+00:00"
+}

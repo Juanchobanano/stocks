@@ -1,0 +1,28 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": true,
+  "claude_pattern": "Descending",
+  "claude_direction": "SHORT",
+  "pattern_agree": false,
+  "presence_confidence": 58,
+  "pattern_quality": 45,
+  "validation_notes": "From late June onward price shows a series of lower highs (~83, 78, 77, 74) while the lows cluster in a fairly flat band around 71-75, suggesting a descending-triangle shape rather than a symmetric one. The upper boundary is clearly sloping down while the lower boundary is nearly horizontal, so I'd classify this as descending rather than symmetric. Touch points are only moderate (2-3 per side) and the range is somewhat noisy/choppy rather than a clean compression, so confidence in the pattern being a high-quality tradable triangle is only moderate. Price is still inside the range near the right edge, not yet broken out, consistent with an unresolved compression pattern.",
+  "validated_at": "2026-08-18T08:50:18.964713+00:00",
+  "symbol_research": "Solana (SOL) is a high-throughput layer-1 blockchain used for DeFi, NFTs, and payments. It has seen renewed activity from meme-coin trading, ETF speculation, and network upgrades, but remains highly volatile and correlated with broader crypto risk sentiment (BTC/ETH moves).",
+  "market_sentiment": "neutral",
+  "supporting_signals": [
+    "Descending triangle patterns often resolve bearish if support breaks on volume",
+    "Crypto markets remain sensitive to macro risk-off shifts, which could pressure SOL lower",
+    "Repeated tests of a flat support level can indicate weakening buyer demand"
+  ],
+  "opposing_signals": [
+    "Trade parameters are internally inconsistent with a SHORT: stop (72.94) is BELOW entry (81.25) and both TP targets (104.29, 127.34) are ABOVE entry \u2014 this structure fits a LONG trade, not a SHORT",
+    "If executed as labeled (SHORT), the stop/TP placement would guarantee an unfavorable risk/reward (loss capped below entry, but 'profit' targets require price to rise, which is a loss for a short)",
+    "SOL has shown strong historical tendency for sharp upside reversals (short squeezes) after basing patterns",
+    "No confirmation provided on volume, breakdown level, or timeframe for the triangle apex"
+  ],
+  "recommendation": "avoid",
+  "research_confidence": 15
+}

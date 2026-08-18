@@ -1,0 +1,13 @@
+{
+  "symbol": "AMZN",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp rally from ~262 to ~287 followed by a pullback to ~272-274, not a compression pattern. There's no series of lower highs meeting a flat support line - instead there's a strong impulsive move up and a brief 2-3 candle retracement. This looks more like a breakout/pullback than a descending triangle. Earlier in the chart (May-June) there was a downtrend into a low around 228, but that also doesn't show a clean descending triangle structure - it's more of a broad decline followed by a base and rally. No clear flat support with lower highs converging is visible; the algorithm's flag appears to be a false positive based on the recent volatile price action rather than genuine triangle compression.",
+  "validated_at": "2026-08-18T08:51:12.136180+00:00"
+}

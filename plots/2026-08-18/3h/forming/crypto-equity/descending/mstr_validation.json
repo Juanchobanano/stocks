@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "Price since early July has been oscillating in a fairly flat, choppy range roughly between 92-95 support and 98-103 resistance, without clear convergence. Highs (Jul 3, Jul 11, Jul 20, Jul 26) are not steadily declining in a consistent line, and lows (Jul 9, Jul 15, Aug 3) are not consistently rising either - both bounce around the same band. This looks more like a rectangle/range-bound consolidation than a converging descending triangle. There's no tightening of the range near the right edge - the last few candles (Aug 4-6) are still trading in the same 95-98 band as weeks prior, showing no apex compression. I disagree with the algorithmic flag; the structure lacks the progressive narrowing required for a valid descending triangle.",
+  "validated_at": "2026-08-18T08:53:51.171107+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "SAND-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows price consolidating in a tight, roughly flat horizontal range (~0.0405-0.0440) after a sharp downtrend from late July. There is no clear converging structure - both the highs and lows are essentially flat/choppy rather than showing a descending upper trendline with a flat lower support. This looks more like a flat consolidation/range-bound base after a downtrend rather than a descending triangle. A descending triangle requires a clearly declining series of lower highs, which isn't visible here - the recent highs (around 0.0435-0.0440) are roughly similar rather than declining. I don't see sufficient evidence of a converging apex forming; it's more of a sideways channel/basing pattern following the downtrend.",
+  "validated_at": "2026-08-18T08:53:12.212596+00:00"
+}

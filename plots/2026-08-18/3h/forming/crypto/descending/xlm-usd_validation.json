@@ -1,0 +1,13 @@
+{
+  "symbol": "XLM-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 88,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a persistent, steady downtrend from ~0.190 down to ~0.160 with lower highs and lower lows in a fairly consistent slope \u2014 this is a clean downtrend/channel, not a converging triangle. There is no rising support line with higher lows; lows are also declining in tandem with highs, so the lines are roughly parallel (a descending channel at best) rather than converging into an apex. The algorithm's 'Ascending triangle' label doesn't fit since there's no flat resistance or rising support visible near the right edge \u2014 price is making consistently lower highs and lower lows without compression. No credible triangle structure is forming near the right edge.",
+  "validated_at": "2026-08-18T08:52:50.792167+00:00"
+}

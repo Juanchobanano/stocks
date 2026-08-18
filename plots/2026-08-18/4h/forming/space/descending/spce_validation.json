@@ -1,0 +1,13 @@
+{
+  "symbol": "SPCE",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a sharp decline from early June highs (~6.0) down to a bottom around 2.5-2.6 by mid-July, followed by a prolonged flat consolidation (Jul 8 - Aug 5) with price oscillating narrowly between ~2.5 and ~3.0. There isn't a clear descending upper trendline with lower highs converging into a rising support - instead price has been ranging sideways/slightly upward near the right edge, with a mild uptick in the last few candles (Aug 1-5) breaking above the recent range ~2.9-3.0. This looks more like a basing/bottoming range or a slight ascending drift rather than a descending triangle with compressing resistance. The algorithm's descending triangle call doesn't fit well since the highs in the recent consolidation aren't clearly declining - they look flat to slightly rising, and lows are also flat, more resembling a rectangle/range than a converging triangle. Insufficient clear convergence near the apex to confidently call this a descending triangle.",
+  "validated_at": "2026-08-18T08:55:09.054692+00:00"
+}
