@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad downtrend from late April into mid-June, followed by a consolidation range roughly between 4.3 and 4.9 from mid-June to early August. This is more of a rectangular/basing range than a converging triangle - highs and lows are relatively flat and parallel rather than converging. There's no clear descending upper trendline with lower highs; the recent price action (early August) shows a sharp breakout candle to ~5.8 followed by pullback, which looks like an impulsive move out of the range rather than a triangle apex breakout. The algorithm's descending triangle call doesn't hold up - the 'resistance' near 4.9 was flat, not descending, and there isn't clear multi-touch convergence forming a tightening wedge near the right edge.",
+  "validated_at": "2026-08-19T08:52:04.240087+00:00"
+}

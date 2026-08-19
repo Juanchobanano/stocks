@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "Since late June price has been oscillating in a broad sideways range roughly between 90-104 with no clear convergence. Highs and lows are choppy and don't form consistent converging trendlines - highs bounce between ~99-104 without a clean descending line, and lows bounce between ~90-96 without a clean flat support. The right edge shows continued range-bound chop (94-99) rather than a tightening apex. This looks more like a consolidation/rectangle than a descending triangle - no credible narrowing structure is visible near the current price action.",
+  "validated_at": "2026-08-19T08:54:24.588829+00:00"
+}

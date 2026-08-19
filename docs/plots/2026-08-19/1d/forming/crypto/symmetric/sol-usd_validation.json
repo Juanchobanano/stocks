@@ -1,0 +1,13 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "Since late June the price has been in a mild downtrend/consolidation between roughly 72-83, but the highs and lows are not clearly converging into an apex - they are largely flat/choppy with overlapping ranges (e.g., 74-78 band from mid-July to present) rather than a narrowing wedge. There's no clear rising support line paired with a falling resistance line meeting 3+ touch criteria; it looks more like a horizontal/rangebound drift after the June rally and subsequent pullback. I don't see strong evidence of compression toward an apex at the right edge, so I disagree with the algorithm's symmetric triangle call, though the sideways price action makes this a moderately ambiguous call.",
+  "validated_at": "2026-08-19T08:50:59.296995+00:00"
+}

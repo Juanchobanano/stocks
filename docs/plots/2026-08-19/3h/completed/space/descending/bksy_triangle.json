@@ -1,0 +1,54 @@
+{
+  "symbol": "BKSY",
+  "sector": "space",
+  "beta": 2.33,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-11",
+      "end": "2026-07-14",
+      "duration_days": 32,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 28.09,
+        "stop_loss": 23.87,
+        "take_profit_half": 34.42,
+        "take_profit_full": 40.75,
+        "height": 12.65
+      },
+      "volume_trend": {
+        "slope": -6109.33,
+        "trend": "declining",
+        "r_squared": 0.1279
+      },
+      "points": {
+        "A": [
+          "2026-06-11",
+          35.97
+        ],
+        "B": [
+          "2026-06-26",
+          23.63
+        ],
+        "C": [
+          "2026-07-02",
+          30.64
+        ],
+        "D": [
+          "2026-07-10",
+          23.932
+        ],
+        "E": [
+          "2026-07-14",
+          27.0
+        ],
+        "F": [
+          "2026-07-14",
+          25.85
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp selloff (mid-August) to ~15, followed by a strong V-shaped recovery back to ~18.5, with a subsequent small pullback. This is a sharp reversal spike, not a converging triangle pattern. There's no clear series of lower highs meeting a flat support line - instead there's one deep low and a fast recovery. No consistent multiple touchpoints on both a flat bottom and descending top exist near the right edge; the recent price action looks more like a V-recovery/volatility spike than a compressing wedge. I disagree with the algorithm's descending triangle flag - the structure lacks the horizontal support and gradually declining resistance with multiple touches needed for a credible descending triangle.",
+  "validated_at": "2026-08-19T08:52:21.215710+00:00"
+}

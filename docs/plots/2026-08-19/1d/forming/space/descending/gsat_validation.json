@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad rise from mid-April to late May, then a sustained downtrend into late July (lower highs and lower lows without a flat support line), followed by a sharp gap-up and small pullback at the far right. There's no clear flat support line with a converging descending resistance - the 'triangle' the algorithm flagged appears to just be the tail end of a downtrend, and the last few candles are a brief consolidation after a gap-up, not a multi-touch converging structure. I don't see at least two clean touches on a flat/rising support line paired with two touches on a descending resistance line near the right edge, so this doesn't qualify as a credible triangle pattern.",
+  "validated_at": "2026-08-19T08:52:30.043228+00:00"
+}

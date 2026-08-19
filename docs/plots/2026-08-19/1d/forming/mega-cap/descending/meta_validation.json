@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp decline from ~685 down to ~525, followed by a choppy recovery/consolidation between roughly 585-610, but this is too brief and range-bound to constitute a descending triangle. There's no clear series of lower highs converging with a flat support line - the recent price action looks more like a bounce off a low forming a small rectangle/consolidation rather than a triangle. The overall chart pattern is a series of swings (higher high near 740, lower highs afterward at ~695, ~685, ~640) with no consistent narrowing structure near the apex. I disagree with the algorithm's descending triangle flag - the touch points are too sparse and the 'flat support' isn't well established (the recent low near 525 was a sharp spike down, not a tested support level).  This looks more like broad consolidation/noise than a credible converging triangle.",
+  "validated_at": "2026-08-19T08:51:49.037953+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "SPCE",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": null,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": null,
+  "presence_confidence": null,
+  "pattern_quality": null,
+  "validation_notes": "{\n  \"found_triangle\": false,\n  \"pattern_type\": null,\n  \"direction\": null,\n  \"presence_confidence\": 65,\n  \"pattern_quality\": null,\n  \"notes\": \"From mid-July through early August price is trading in a fairly flat, narrow range (~2.5 to ~2.9) rather than a converging wedge. The highs are not making a clear series of lower highs (a requirement for a descending triangle) \u2014 they bounce around a roughly horizontal ceiling near 2.7-2.9, and the lows likewise hover near a horizontal floor around 2.5-2.6. This looks more like a rectangular consolidation/basing pattern than a true descending triangle. Additionally, in the final 5-6 candles price has already pushed up and closed above the prior range highs (~2.9-3.0), i.e. the range appears to have",
+  "validated_at": "2026-08-19T08:55:50.614467+00:00"
+}

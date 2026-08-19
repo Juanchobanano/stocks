@@ -1,0 +1,13 @@
+{
+  "symbol": "AMZN",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp V-shaped reversal followed by a strong impulsive rally from ~228 to ~287, then a pullback/consolidation over just 5-6 candles (280 to 273). This is far too brief and directional to constitute a descending triangle - there's no clear flat support with lower highs converging over multiple touch points. The algorithm likely flagged the recent narrow-range pullback candles as a 'descending' upper line, but there are fewer than two clean touches on a support line, and the overall move is a breakout/pullback pattern, not a basing/consolidation triangle. This looks more like a flag or minor consolidation after a strong impulsive move, not a triangle with converging trendlines built from swing highs/lows over time.",
+  "validated_at": "2026-08-19T08:51:40.755584+00:00"
+}

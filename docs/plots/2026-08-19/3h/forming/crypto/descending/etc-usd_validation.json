@@ -1,0 +1,13 @@
+{
+  "symbol": "ETC-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a clear, sustained downtrend from ~7.2 down to ~6.4, not a converging triangle. Lower highs are present, but the lows are also declining steadily (6.8 -> 6.6 -> 6.4), so there is no rising support line to pair with the falling resistance \u2014 this is a downward channel/trend, not a descending triangle. A descending triangle requires a roughly flat support line, which is absent here; support keeps stepping down. I disagree with the algorithm's flag: there's no visible compression or flattening base near the apex, and price has not shown horizontal containment at any consistent level in the last 15-20 candles.",
+  "validated_at": "2026-08-19T08:53:55.952353+00:00"
+}

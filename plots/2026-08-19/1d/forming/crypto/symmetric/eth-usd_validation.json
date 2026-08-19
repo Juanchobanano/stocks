@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "Price action from late June through July shows a recovery rally from ~1550 to ~1900, followed by sideways consolidation in a tight range (roughly 1850-1950) with no clear converging trendlines. Highs and lows are relatively flat/parallel rather than converging, resembling a rectangle or flag rather than a symmetric triangle. There isn't a clear series of lower highs and higher lows compressing toward an apex - the range has been fairly consistent width for the last ~15 candles. The algorithm may have picked up minor convergence but the structure lacks distinct touch points forming two clearly converging trendlines.",
+  "validated_at": "2026-08-19T08:50:45.212305+00:00"
+}

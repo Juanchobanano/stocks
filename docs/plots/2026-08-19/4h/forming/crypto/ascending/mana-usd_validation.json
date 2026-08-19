@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right-side price action from late July through early August shows a tight, flat range roughly between 0.066 and 0.068 with no clear rising lower trendline or converging structure - it looks like a flat consolidation/rectangle rather than an ascending triangle. There isn't a series of higher lows compressing against a flat top; instead both highs and lows are roughly horizontal, indicating sideways chop rather than a triangle apex forming. The algorithm's ascending triangle call isn't well supported since the lower boundary isn't clearly rising with distinct touch points - it's essentially flat, and price has been oscillating in a narrow band without a clean converging wedge visible near the edge.",
+  "validated_at": "2026-08-19T08:55:04.847559+00:00"
+}
