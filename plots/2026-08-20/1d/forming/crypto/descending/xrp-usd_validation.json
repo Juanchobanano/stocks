@@ -1,0 +1,13 @@
+{
+  "symbol": "XRP-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (Jun 15 - Aug 04) shows price consolidating in a fairly flat, narrow range roughly between 1.0 and 1.2, but there's no clear convergence between an upper resistance and lower support line. Both the highs and lows are roughly flat/sideways rather than one line descending into the other. This looks more like a flat consolidation/rectangle than a descending triangle, which would require a clearly declining upper trendline with lower highs converging into a flat support. The overall multi-month trend is a steady downtrend with lower highs and lower lows in stair-step fashion (Jan-Aug), not a converging wedge. I don't see at least two clean touches forming a descending upper line squeezing against a flat lower line near the right edge - price action in the last ~6 weeks is choppy and range-bound rather than compressing toward an apex.",
+  "validated_at": "2026-08-20T08:51:37.115859+00:00"
+}

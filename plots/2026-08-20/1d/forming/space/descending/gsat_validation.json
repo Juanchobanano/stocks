@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad rise from mid-April to late May (~80 to ~84.5), then a steady downtrend from late May through late July down to ~79, followed by a sharp gap-up breakout in early August to ~84-85. There's no clear convergence between an upper and lower trendline - the decline into late July is a fairly linear downtrend, not a narrowing wedge, and the most recent candles show a strong breakout with a gap higher rather than compression near an apex. The 'descending triangle' label doesn't fit well since there's no flat support line being tested multiple times - price just fell steadily and then jumped. This looks more like a downtrend that reversed sharply rather than a triangle consolidation.",
+  "validated_at": "2026-08-20T08:53:18.213551+00:00"
+}

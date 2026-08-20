@@ -1,0 +1,30 @@
+{
+  "symbol": "SPCE",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": true,
+  "claude_pattern": "Ascending",
+  "claude_direction": "LONG",
+  "pattern_agree": false,
+  "presence_confidence": 58,
+  "pattern_quality": 48,
+  "validation_notes": "From mid-July to early August price consolidates in a tightening range: resistance is roughly flat around 2.85-3.00, while support gradually rises from ~2.5 to ~2.7, giving higher lows into the apex \u2014 this looks more like an ascending triangle than the algorithm's descending call (a descending triangle would need a flat support and falling highs, which isn't what's shown; highs are fairly flat/slightly rising, not falling). Only 2-3 clear touches on each side, and the last couple of candles already push above the ~2.9-3.0 resistance zone with a volume uptick, suggesting the pattern may already be breaking out rather than still compressing. Given the ambiguity in trendline slope and partial breakout, confidence is moderate and quality is mediocre rather than textbook.",
+  "validated_at": "2026-08-20T08:56:30.502471+00:00",
+  "symbol_research": "Virgin Galactic Holdings (SPCE) is a commercial spaceflight company developing suborbital tourism vehicles. It has faced chronic cash burn, delayed flight cadence, and repeated dilutive share offerings/reverse splits, making it a highly speculative, sentiment-driven small-cap with a history of severe volatility and long-term downtrend since its 2021 highs.",
+  "market_sentiment": "bearish",
+  "supporting_signals": [
+    "Ascending triangle pattern shows higher lows, suggesting building demand near resistance",
+    "Tight risk defined by stop at 2.38 with breakout entry near 2.72",
+    "Defined TP levels (3.11/3.51) offer favorable R:R if breakout confirms",
+    "Triangle continuation patterns in beaten-down stocks can trigger sharp short-covering rallies"
+  ],
+  "opposing_signals": [
+    "SPCE has a long-term structural downtrend with persistent dilution risk (frequent equity raises)",
+    "Fundamentals remain weak: high cash burn, delayed commercial flight scaling, going-concern-type risk",
+    "Low-priced, high-short-interest stocks often produce false breakouts on low volume",
+    "Sector sentiment for speculative space/EV-like names has been weak amid rate and risk-off pressures",
+    "No mention of volume confirmation on the breakout, a key requirement for triangle validity"
+  ],
+  "recommendation": "monitor",
+  "research_confidence": 40
+}

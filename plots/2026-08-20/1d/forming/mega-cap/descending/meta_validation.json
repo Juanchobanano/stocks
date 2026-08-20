@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "The right edge shows choppy, range-bound price action between roughly 580 and 685, but there's no clear convergence \u2014 highs and lows are not consistently narrowing. The last few weeks show a sharp drop to ~525, a bounce to ~685, then decline back to ~590, which looks more like volatile consolidation/noise than a descending triangle. A descending triangle needs a flat support with lower highs, but support here is not flat (it dipped to 525 recently, well below prior lows near 600), invalidating the flat-bottom criterion. I don't see a credible converging apex forming near the right edge, so I disagree with the algorithm's flag.",
+  "validated_at": "2026-08-20T08:52:35.507248+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a strong downtrend from late June through late July (price falling from ~430 to ~355), followed by a modest basing/consolidation near 355-385 in early August. There isn't a clear flat support line with a descending resistance line converging toward it - the recent price action shows relatively flat lows (~355-365) but the 'highs' in the last few candles (Aug 05 area) are actually rising slightly (from ~378 to ~385), which is more consistent with a small basing/reversal attempt than a descending triangle. The algorithm may have flagged the overall downtrend with a flattening bottom, but there are not enough clear lower-high touch points forming a descending resistance line - the recent candles show sideways-to-slightly-up action, not compression into an apex. This looks more like a downtrend that is potentially bottoming rather than a textbook descending triangle.",
+  "validated_at": "2026-08-20T08:56:11.708964+00:00"
+}

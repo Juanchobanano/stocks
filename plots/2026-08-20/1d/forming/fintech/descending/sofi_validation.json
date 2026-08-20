@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp selloff into late July (down to ~15) followed by a strong V-shaped reversal with a large green candle and continued upward drift to ~18.5. This is an impulsive reversal move, not a converging consolidation. There's no clear flat support with lower highs converging - instead price gapped down and then rallied sharply, breaking above the prior swing highs from mid-July (~17.5-18). No credible descending triangle structure is visible; the recent price action looks more like a V-bottom reversal already in progress rather than a compressing pattern with defined trendline touches on both sides. Disagree with the algorithm's flag.",
+  "validated_at": "2026-08-20T08:53:10.196738+00:00"
+}

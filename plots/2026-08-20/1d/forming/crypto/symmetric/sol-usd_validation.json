@@ -1,0 +1,13 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right-side of the chart (late June through August) shows a choppy, range-bound consolidation between roughly 72-83, but it doesn't show clear convergence \u2014 highs and lows are fairly flat/parallel rather than narrowing into an apex. Early July had a higher swing (~83) then price settled into a tight sideways band around 72-78 with no clear rising lower trendline or falling upper trendline meeting at a point. This looks more like a flat consolidation/range or minor channel than a symmetric triangle. The algorithm's flag is plausible given the general narrowing of the last 3-4 weeks' range, but the touch points are inconsistent (highs at ~83, ~78, ~77, ~74 are declining slowly while lows hover 71-76 without a clear rising trend), so I don't see a convincing two-line convergence with well-defined touches on each side.",
+  "validated_at": "2026-08-20T08:51:45.199967+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "AMZN",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right edge shows a sharp rally from ~262 to ~287 in late July/early August followed by a small pullback over just 4-5 candles \u2014 this is a short impulsive move with retracement, not a converging triangle. There's no clear flat support line or descending resistance line with multiple touch points; only 2-3 candles exist in the pullback, insufficient to establish a support/resistance structure. The broader chart (Apr-Jul) shows a rounded W-shaped consolidation, not a triangle either. I disagree with the algorithm's descending triangle call \u2014 there's no visible flat bottom or series of lower highs converging toward it; it looks more like a brief profit-taking dip after a breakout gap up.",
+  "validated_at": "2026-08-20T08:52:28.700036+00:00"
+}

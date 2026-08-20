@@ -1,0 +1,13 @@
+{
+  "symbol": "GOOGL",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a strong, sharp uptrend from ~320 to a peak near 383, followed by a sharp pullback to ~358. There's no evidence of compression or converging trendlines - price made a clean impulsive rally then a single sharp reversal candle down. There are not two distinct touch points on both a rising support line and a flat/falling resistance line; instead this looks like a blow-off top / reversal candle after a strong rally, not a triangle consolidation. The algorithm's 'ascending triangle' flag appears to be a false positive - there's no flat resistance being tested multiple times, just one strong high followed by a large reversal candle. This looks more like a potential exhaustion/reversal pattern than a triangle breakout setup.",
+  "validated_at": "2026-08-20T08:56:02.657154+00:00"
+}

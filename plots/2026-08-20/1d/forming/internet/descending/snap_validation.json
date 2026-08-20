@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a downtrend from late April through mid-June, bottoming out around 4.3-4.5 in a choppy consolidation from mid-June to late July, then a sharp breakout/spike upward in early August with a large volume surge. There's no clear converging structure near the right edge - instead there's a flat basing period followed by an abrupt vertical move up on high volume, which looks more like a breakout from a bottoming range than a descending triangle. A descending triangle requires a flat support with lower highs converging into it, but the recent price action shows expansion (large range candles) rather than compression, and the move already broke out strongly to the upside before any apex could form. This looks more like a double-bottom/basing pattern with breakout rather than a triangle.",
+  "validated_at": "2026-08-20T08:52:53.847097+00:00"
+}

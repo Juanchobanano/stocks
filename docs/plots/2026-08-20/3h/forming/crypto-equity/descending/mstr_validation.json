@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "From mid-July onward, price is trading in a fairly flat range roughly between 90-95 support and 100-103 resistance, without clear convergence \u2014 highs and lows are not consistently narrowing toward an apex. The right edge shows price oscillating around 95-99 with no tightening range, more consistent with a sideways consolidation/rectangle than a descending triangle. A descending triangle requires flat lows and clearly lower highs; here the highs (100-103 in mid-July, ~99 in early Aug) are only marginally lower and lows are inconsistent (dipping to 89-91 in early Aug, deeper than prior lows), which contradicts a clean descending triangle structure. I disagree with the algorithm's flag \u2014 this looks more like range-bound consolidation than a converging triangle.",
+  "validated_at": "2026-08-20T08:55:04.540025+00:00"
+}
