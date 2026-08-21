@@ -1,0 +1,13 @@
+{
+  "symbol": "AMZN",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp rally from ~230 to ~287 followed by a pullback to ~272-280, not a converging triangle. There's no clear flat support with lower highs converging - instead we see a strong impulsive move up on high volume (breakout) followed by minor consolidation/retracement over just 4-5 candles, too few touch points to establish trendlines. The algorithm's 'descending triangle' flag doesn't hold up: there's no flat lower support being tested multiple times, and the recent price action is dominated by a breakout rally rather than compression. This looks more like a post-breakout pullback/consolidation than a triangle formation.",
+  "validated_at": "2026-08-21T08:53:39.106038+00:00"
+}

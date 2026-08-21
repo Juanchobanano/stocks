@@ -1,0 +1,29 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": true,
+  "claude_pattern": "Symmetric",
+  "claude_direction": "SYMMETRIC",
+  "pattern_agree": true,
+  "presence_confidence": 55,
+  "pattern_quality": 45,
+  "validation_notes": "From late June into July, SOL-USD shows a series of lower highs (~83, 80, 78, 77, 76) forming a mildly descending upper boundary, while the lows (~72-75) are roughly flat to slightly rising, creating a loose converging structure near the right edge. Touch points are somewhat imprecise (within 1-2 candles) and the range is fairly tight/choppy, making it hard to draw crisp trendlines. This leans more descending-triangle in shape but could be read as a shallow symmetric wedge given the slight upward drift in lows. Price is still contained within the range, not yet broken out. Confidence is moderate since the pattern is not textbook-clean and touch points are limited on the lower boundary.",
+  "validated_at": "2026-08-21T08:53:01.719216+00:00",
+  "symbol_research": "Solana (SOL) is a high-throughput layer-1 blockchain platform used for DeFi, NFTs, and payments, competing with Ethereum. It has seen renewed institutional interest via ETF filings and network activity growth, but remains sensitive to broader crypto liquidity cycles and regulatory news.",
+  "market_sentiment": "neutral",
+  "supporting_signals": [
+    "Symmetric triangle shows balanced consolidation, often preceding a volatility breakout",
+    "Defined entry/stop/target levels provide clear risk-reward structure (~2:1 to reward)",
+    "Crypto market showing renewed institutional inflows (ETF speculation) could favor upside breakout",
+    "Pattern independently confirmed by visual inspection reduces false-positive risk"
+  ],
+  "opposing_signals": [
+    "Symmetric triangles are directionally neutral until breakout confirmation - false breakouts are common in crypto",
+    "SOL remains highly correlated to BTC/ETH macro sentiment, reducing pattern-specific reliability",
+    "No explicit volume or breakout confirmation mentioned, increasing risk of premature entry",
+    "Crypto assets have elevated volatility that can trigger stop-outs before target realization"
+  ],
+  "recommendation": "monitor",
+  "research_confidence": 55
+}

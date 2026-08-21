@@ -1,0 +1,13 @@
+{
+  "symbol": "GOOGL",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a strong, steep uptrend from ~320 to ~382 followed by a sharp reversal down to ~357, then consolidation. There is no clear flat resistance line being tested multiple times, nor a well-defined rising support line with multiple touch points - just a single sharp rally and pullback. This looks more like a blow-off top/reversal than a converging triangle. The algorithm's 'ascending triangle' flag doesn't hold up: there's no repeated horizontal ceiling being tested, and the recent candles after the peak are declining sharply, which is inconsistent with an ascending triangle continuation setup. I don't see credible convergence of two trendlines with at least 2 touches each near the apex.",
+  "validated_at": "2026-08-21T08:56:16.770780+00:00"
+}

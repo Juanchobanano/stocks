@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-June through July) shows price basing and then trading in a tight, roughly flat/sideways range around 1850-1950 after a strong downtrend and recovery. There's no clear converging structure - highs and lows are both roughly flat, not converging toward an apex. This looks more like a flat consolidation/rectangle than a symmetric triangle. There aren't distinct rising lows and falling highs meeting at a point; instead price is oscillating in a narrow horizontal band with similar highs (~1950) and similar lows (~1850) repeated over many candles. I disagree with the algorithm's symmetric triangle call - this is better characterized as a flat consolidation range, not a converging wedge.",
+  "validated_at": "2026-08-21T08:52:45.175892+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a decline from ~85 (late May) to a low near 79 in late July, then a sharp gap-up breakout to ~84 in early August with a small pullback. This is not a descending triangle - there's no flat support line with lower highs converging; instead there's a broad downtrend followed by an abrupt vertical breakout on a volume spike, then consolidation at the highs. The recent 3-4 candles near 83-84 are too few and too tight to establish a triangle structure - it looks more like a post-breakout consolidation/flag than a converging triangle. No clear two-line convergence pattern with multiple touches is visible near the right edge.",
+  "validated_at": "2026-08-21T08:54:15.192852+00:00"
+}

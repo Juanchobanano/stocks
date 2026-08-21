@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp selloff to ~15 followed by a strong V-shaped recovery back to ~18.5, not a converging triangle. There's no clear flat support or descending resistance line with multiple touches - just a sharp drop and rebound over a few candles. This looks more like a volatility spike/reversal than a consolidating triangle pattern. The algorithm likely mistook the general choppy oscillating price action (repeated swing highs/lows across the whole chart) for a descending triangle, but there's no clean 2+ touch trendline convergence visible near the apex on the right edge - price just broke sharply down and is now breaking sharply up, suggesting no containment structure at all recently.",
+  "validated_at": "2026-08-21T08:54:08.923544+00:00"
+}

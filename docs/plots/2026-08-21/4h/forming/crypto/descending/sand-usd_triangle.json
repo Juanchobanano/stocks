@@ -1,0 +1,101 @@
+{
+  "symbol": "SAND-USD",
+  "sector": "crypto",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-09",
+      "end": "2026-07-21",
+      "duration_days": 12,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 0.05,
+        "stop_loss": 0.05,
+        "take_profit_half": 0.05,
+        "take_profit_full": 0.05,
+        "height": 0.0
+      },
+      "volume_trend": {
+        "slope": 4127.5,
+        "trend": "rising",
+        "r_squared": 0.0216
+      },
+      "points": {
+        "A": [
+          "2026-07-09",
+          0.05
+        ],
+        "B": [
+          "2026-07-13",
+          0.0464
+        ],
+        "C": [
+          "2026-07-14",
+          0.0495
+        ],
+        "D": [
+          "2026-07-20",
+          0.0462
+        ],
+        "E": [
+          "2026-07-21",
+          0.0484
+        ],
+        "F": [
+          "2026-07-21",
+          0.048
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": false,
+      "direction": "LONG",
+      "start": "2026-07-26",
+      "end": "2026-08-03",
+      "duration_days": 7,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 0.04,
+        "stop_loss": 0.04,
+        "take_profit_half": 0.05,
+        "take_profit_full": 0.05,
+        "height": 0.01
+      },
+      "volume_trend": {
+        "slope": 6438.85,
+        "trend": "rising",
+        "r_squared": 0.0033
+      },
+      "points": {
+        "A": [
+          "2026-07-26",
+          0.0463
+        ],
+        "B": [
+          "2026-07-29",
+          0.0403
+        ],
+        "C": [
+          "2026-08-02",
+          0.0438
+        ],
+        "D": [
+          "2026-08-03",
+          0.0409
+        ],
+        "E": [
+          "2026-08-03",
+          0.0409
+        ],
+        "F": [
+          "2026-08-03",
+          0.0417
+        ]
+      }
+    }
+  ]
+}

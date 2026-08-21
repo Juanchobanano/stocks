@@ -1,0 +1,13 @@
+{
+  "symbol": "NEM",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear downtrend from mid-June (~112) bottoming near late July (~89-90), followed by a recovery rally into early August (~105). This is a V-shaped reversal, not a converging triangle. There's no consistent flat support line or descending resistance line with multiple touches near the right edge - instead price is making a strong series of higher highs and higher lows (98->105) after the bottom, which looks more like the start of an uptrend/recovery than compression into an apex. The algorithm's descending triangle flag doesn't hold up: the 'lower support' would need multiple flat touches, but recent candles show increasing lows and highs, diverging rather than converging. No credible triangle structure is visible at the right edge.",
+  "validated_at": "2026-08-21T08:57:01.581248+00:00"
+}

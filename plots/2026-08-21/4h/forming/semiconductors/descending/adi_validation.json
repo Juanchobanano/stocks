@@ -1,0 +1,30 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": true,
+  "claude_pattern": "Descending",
+  "claude_direction": "LONG",
+  "pattern_agree": true,
+  "presence_confidence": 55,
+  "pattern_quality": 45,
+  "validation_notes": "From mid/late July into early August, price makes a series of lower highs (~398, 390, 380, 375) while the lows cluster in a tighter band (~355-370), giving a loosely descending-triangle shape with a flattish support zone near 355-365. Touch points on the support side are decent (3-4 taps near 355-365), but the resistance line is only weakly defined (2-3 touches) and the overall move is dominated by a broader downtrend rather than a clean horizontal support. In the last few candles price has pushed up through the prior declining-highs line (from ~355 up to ~380), which is consistent with a bullish breakout out of the descending triangle, supporting the algorithm's LONG bias. However, the pattern is messy \u2014 the 'support' has some noise and the breakout candle is not decisively large-volume, so this is a plausible but not textbook descending triangle.",
+  "validated_at": "2026-08-21T08:56:32.157805+00:00",
+  "symbol_research": "Analog Devices (ADI) is a leading semiconductor company specializing in analog, mixed-signal, and DSP chips used in industrial, automotive, communications, and consumer applications. It has diversified end markets and strong free cash flow, but industrial/auto semi demand has been cyclically soft in 2023-2024 with signs of gradual recovery into 2025 as inventory destocking ends.",
+  "market_sentiment": "neutral",
+  "supporting_signals": [
+    "Descending triangle with LONG bias suggests bullish breakout expectation despite lower highs, often resolves upward if support holds",
+    "Semiconductor sector benefiting from AI-driven capex and cyclical recovery in industrial/auto demand",
+    "Entry near triangle support offers favorable risk/reward with defined stop below key level",
+    "ADI has strong balance sheet and consistent capital returns, supportive of long-term positioning"
+  ],
+  "opposing_signals": [
+    "Descending triangles are classically bearish continuation patterns (lower highs, flat support) - a LONG bias contradicts typical pattern interpretation",
+    "Repeated failure to make higher highs signals waning buying pressure and distribution",
+    "Industrial/auto semiconductor demand recovery remains uncertain and could disappoint, pressuring ADI earnings",
+    "Stop-loss distance (~6.7%) is meaningful; a breakdown below support could trigger sharp downside before reversal",
+    "Pattern requires confirmation via volume/breakout above resistance, which is not guaranteed"
+  ],
+  "recommendation": "monitor",
+  "research_confidence": 42
+}

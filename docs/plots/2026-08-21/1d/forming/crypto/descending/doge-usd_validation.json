@@ -1,0 +1,13 @@
+{
+  "symbol": "DOGE-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (Jun-Aug) shows a clear, sustained downtrend flattening into a tight, low-volatility consolidation near 0.07, not a descending triangle. There's no clear descending upper trendline with distinct lower highs converging toward a flat support - instead price simply trended down steadily and then flattened out into a narrow range with very low volume, more consistent with a bottoming/basing pattern or exhaustion than an active triangle breakout setup. The algorithm likely mistook the general downtrend into a flat bottom as a descending triangle, but there aren't clean touch points forming two converging trendlines - the 'support' at ~0.069-0.07 is flat but there's no clear descending resistance line with multiple distinct lower-high touches converging into it. Price action looks more like a flag/basing consolidation after a downtrend.",
+  "validated_at": "2026-08-21T08:53:13.584493+00:00"
+}

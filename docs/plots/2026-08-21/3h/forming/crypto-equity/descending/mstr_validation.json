@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "Price action from mid-July to early August shows a broad sideways range roughly between 90 and 100, without clear convergence. Highs are not consistently declining (e.g., Jul 20-24 spikes to ~103, late July/Aug 1-4 bounces back to ~99), and lows are not forming a clean rising or flat support line - there's a dip to ~89-90 in early August that breaks any prior support level. This looks more like a choppy consolidation/range than a descending triangle with a well-defined flat support and declining resistance. I don't see at least two clean, consistent touches on both a flat lower line and a descending upper line converging toward an apex on the right edge - the pattern is too noisy and lacks a clear apex.",
+  "validated_at": "2026-08-21T08:55:34.262899+00:00"
+}

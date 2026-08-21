@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late July through early August) shows price trading in a tight, flat, non-converging range roughly between 0.066 and 0.069 with no clear rising support or falling resistance. Highs and lows are essentially horizontal, resembling a rectangle/consolidation rather than a converging triangle. There's no evidence of higher lows compressing against a flat top (which would be needed for an ascending triangle) \u2014 lows are flat, not rising. The broader chart shows a downtrend from early July highs (~0.075) into this consolidation, but no clean two-line convergence is visible. I disagree with the algorithm's ascending triangle flag since the lower boundary isn't rising and the pattern looks more like sideways chop than a compressing wedge.",
+  "validated_at": "2026-08-21T08:56:06.262101+00:00"
+}

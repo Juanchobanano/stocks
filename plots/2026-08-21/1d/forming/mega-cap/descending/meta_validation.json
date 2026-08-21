@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a choppy downtrend with lower highs (~685 -> 650 -> 600) and lower lows (~630 -> 590 -> 525 -> 590), but the lows are not flat/support-like - they're also declining and quite volatile, more consistent with a descending channel or noisy downtrend than a converging descending triangle. There's no clear flat support line being tested multiple times; the last leg shows a sharp drop to ~525 followed by a bounce, which breaks any prior support structure rather than respecting it. I don't see a credible two-line convergence pattern near the apex - price action looks like broad swings within a downtrend rather than compression into an apex.",
+  "validated_at": "2026-08-21T08:53:45.092249+00:00"
+}
