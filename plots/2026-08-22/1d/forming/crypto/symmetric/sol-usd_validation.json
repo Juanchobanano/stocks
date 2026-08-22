@@ -1,0 +1,13 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "From late June through late July price shows a mild downtrend with lower highs (82->79->78->76) but the lows are flat to slightly declining (~73-76), not rising, so this is more a shallow downtrend/tight range than a converging symmetric triangle. There's no clear rising support line meeting a falling resistance line at an apex - both lines are nearly flat and roughly parallel, resembling consolidation/channel rather than a compressing wedge. Volume is also declining but that alone doesn't confirm a triangle. I disagree with the algorithm's symmetric label; the recent price action looks more like a flat consolidation/minor downtrend than a clear triangle.",
+  "validated_at": "2026-08-22T08:41:49.183867+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "Price action from mid-July through early August is a fairly flat, choppy range between roughly 90-100 with no clear convergence. Highs are not consistently declining (99-100 seen repeatedly into early August) and lows are not consistently rising (dips to 90-92 recur), so there's neither a well-defined descending resistance line nor a strong ascending support line. This looks more like sideways consolidation/noise than a genuine descending triangle. The algorithm likely picked up on the general range-bound compression, but the touch points don't cleanly respect converging trendlines - it's closer to a rectangle/range than a triangle.",
+  "validated_at": "2026-08-22T08:44:40.162133+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "XLM-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 88,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a clear, strong downtrend from ~0.195 (Jul 21) down to ~0.160 (early Aug) with lower highs and lower lows throughout \u2014 this is a persistent decline, not a converging consolidation. There's no rising lower support line; lows keep dropping (0.177 -> 0.170 -> 0.167 -> 0.160), and highs also keep dropping, so the lines are roughly parallel/descending together rather than converging into an ascending triangle. The algorithm's 'Ascending' label doesn't fit since there's no flat resistance with rising support \u2014 instead price has already broken down repeatedly with no containment. This looks like a clean downtrend/channel, not a triangle pattern forming near the apex.",
+  "validated_at": "2026-08-22T08:43:46.513873+00:00"
+}

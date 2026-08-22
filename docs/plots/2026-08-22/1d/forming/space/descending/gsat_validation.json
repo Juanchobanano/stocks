@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad downtrend from late May through late July (lower highs and lower lows spanning ~85 to ~79), followed by a sharp gap-up breakout in early August that jumped straight from ~79 to ~84 on a large green candle. There's no visible compression or convergence of trendlines near the right edge - instead there's a decisive breakout candle with expanding range, then a small consolidation of only 2-3 candles at the very right edge, which is too brief to establish two touch points on each side. This looks like a completed breakout/reversal rather than a forming descending triangle. The algorithm likely misread the prior downtrend as the descending resistance line, but there's no clear flat support line with multiple touches - the lows before the breakout were still declining (79.5 to 78.7), not flat.",
+  "validated_at": "2026-08-22T08:43:09.107146+00:00"
+}

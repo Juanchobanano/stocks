@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear downtrend from late June (~440) into early August (~355), followed by a modest basing/recovery bounce near the right edge (last ~8 candles rising slightly from ~355 to ~380). This looks more like a downtrend flattening into consolidation/support rather than a descending triangle. A descending triangle requires a flat support line with repeated tests and a clearly declining upper resistance with multiple lower highs converging toward it - here the most recent price action shows higher lows and higher closes (potential reversal), not compression into an apex. There's no clear flat horizontal support with 2+ touches and a distinct descending upper trendline with 2+ touches in the recent structure - the recent candles are actually breaking upward from the lows, suggesting the downtrend may be ending rather than a triangle forming. I disagree with the algorithm's flag as this looks more like a bottoming pattern than a defined descending triangle.",
+  "validated_at": "2026-08-22T08:45:36.817013+00:00"
+}

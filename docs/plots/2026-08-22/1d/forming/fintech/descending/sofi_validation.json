@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart shows a sharp selloff (drop from ~18.5 to ~15) followed by a strong V-shaped recovery back to ~18.5, with a large volume spike on the low candle. This is a reversal/whipsaw pattern, not a converging triangle. There's no clear flat support with descending resistance - instead price plunged and then rallied aggressively in just a few candles, breaking any potential trendline structure. The overall chart shows a broader oscillating range (16-20) but no clean convergence is visible near the right edge; the recent price action is too volatile and directional (V-recovery) to constitute a descending triangle. I disagree with the algorithmic flag - there are not enough touch points on both a flat support and declining resistance line near the right side to confirm this pattern.",
+  "validated_at": "2026-08-22T08:43:01.340524+00:00"
+}

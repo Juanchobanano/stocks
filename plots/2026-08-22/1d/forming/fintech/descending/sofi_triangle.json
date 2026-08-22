@@ -1,0 +1,54 @@
+{
+  "symbol": "SOFI",
+  "sector": "fintech",
+  "beta": 2.26,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": false,
+      "direction": "LONG",
+      "start": "2026-04-17",
+      "end": "2026-07-29",
+      "duration_days": 103,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 19.75,
+        "stop_loss": 14.83,
+        "take_profit_half": 22.35,
+        "take_profit_full": 24.95,
+        "height": 5.19
+      },
+      "volume_trend": {
+        "slope": 450407.88,
+        "trend": "rising",
+        "r_squared": 0.1129
+      },
+      "points": {
+        "A": [
+          "2026-04-17",
+          20.13
+        ],
+        "B": [
+          "2026-05-19",
+          14.92
+        ],
+        "C": [
+          "2026-07-10",
+          19.74
+        ],
+        "D": [
+          "2026-07-29",
+          14.88
+        ],
+        "E": [
+          "2026-07-29",
+          14.88
+        ],
+        "F": [
+          "2026-07-29",
+          15.25
+        ]
+      }
+    }
+  ]
+}

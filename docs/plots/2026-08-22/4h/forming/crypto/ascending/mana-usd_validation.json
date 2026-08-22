@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right-hand section (late July into August) shows price oscillating in a tight, roughly flat range between ~0.0655 and ~0.0680 with no clear converging trendlines - it looks more like a flat consolidation/rectangle than a triangle. There's no rising lower support line (lows are flat to slightly declining, not making higher lows), so the 'ascending triangle' label doesn't fit well. The broader chart shows a downtrend from mid-July highs (~0.0755) into this current range, with the last few candles drifting sideways-to-slightly-down near 0.065-0.067. No clear 2-3 touch convergence pattern is visible on both sides near the right edge; it resembles range-bound noise rather than a textbook or even loose triangle.",
+  "validated_at": "2026-08-22T08:45:15.552841+00:00"
+}

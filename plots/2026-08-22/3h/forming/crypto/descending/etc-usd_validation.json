@@ -1,0 +1,13 @@
+{
+  "symbol": "ETC-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "This chart shows a clear, sustained downtrend from ~7.4 in early July to ~6.4-6.6 by early August, with a series of lower highs and lower lows across multiple swings (not just at the right edge). There is no flat/horizontal support line - the price has been making progressively lower lows throughout the entire chart, and the right edge shows price consolidating in a tight range around 6.5-6.65 without clear compression between converging trendlines. The recent price action (last ~15-20 candles) looks more like a tight sideways consolidation/flag rather than a descending triangle apex, since the lower boundary is not flat (it's part of the broader downtrend) and there isn't a clean, sustained higher-low structure hitting a rising support line. This looks like a downtrend with consolidation, not a credible descending triangle setup - I disagree with the algorithm's flag as there isn't clear evidence of 2+ well-defined touches on a flat support combined with a descending resistance converging toward it in the recent price action.",
+  "validated_at": "2026-08-22T08:44:14.372454+00:00"
+}

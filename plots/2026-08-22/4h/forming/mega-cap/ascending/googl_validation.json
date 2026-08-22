@@ -1,0 +1,13 @@
+{
+  "symbol": "GOOGL",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": null,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": null,
+  "presence_confidence": null,
+  "pattern_quality": null,
+  "validation_notes": "{\n  \"found_triangle\": false,\n  \"pattern_type\": null,\n  \"direction\": null,\n  \"presence_confidence\": 82,\n  \"pattern_quality\": null,\n  \"notes\": \"The right side of the chart shows a strong uptrend from ~320 to a peak near 382, followed by a sharp pullback to ~357-360 over the last few candles. There is no clear flat resistance line being tested multiple times, nor a well-defined rising support line with multiple higher-low touches \u2014 instead price surged rapidly and then reversed sharply, which looks more like an impulsive rally and correction than a converging triangle. The algorithm's ascending triangle call appears to be based on the general uptrend and recent narrowing candles, but there aren't at least two credible touches on a flat/horizontal upper boundary; the highs are rising (382 is a new high, not a repeated ceiling). This looks like a breakout-and-pullback rather than a triangle consolidation.\",\n}",
+  "validated_at": "2026-08-22T08:45:28.135001+00:00"
+}

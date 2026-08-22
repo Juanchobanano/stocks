@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear downtrend from late April through mid-June (roughly 6.3 to 4.3), followed by a choppy basing/consolidation period between ~4.3 and ~5.0 through July, then a sharp breakout spike to ~5.8 in early August followed by a pullback. There's no clear converging triangle structure near the right edge - the recent price action shows an impulsive gap-up move and retracement, not a compression pattern with defined trendlines. The 'descending triangle' call doesn't hold up: there's no flat support line with consistent lower highs converging into it. The right-most candles show volatile, wide-range bars after a volume spike, which looks more like a breakout/reversal than triangle consolidation. I disagree with the algorithm's flag.",
+  "validated_at": "2026-08-22T08:42:46.865072+00:00"
+}
