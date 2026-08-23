@@ -1,0 +1,13 @@
+{
+  "symbol": "XLM-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": null,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": null,
+  "presence_confidence": null,
+  "pattern_quality": null,
+  "validation_notes": "{\n  \"found_triangle\": false,\n  \"pattern_type\": null,\n  \"direction\": null,\n  \"presence_confidence\": 85,\n  \"pattern_quality\": null,\n  \"notes\": \"The right side of the chart shows a clear, sustained downtrend from ~0.195 (Jul 21) down to ~0.160 (early Aug), with lower highs and lower lows throughout - no evidence of a rising support line or converging structure. There's no ascending triangle here; price is making consistently lower lows without the higher-low support structure required for an ascending pattern. The algorithm's flag appears to be a false positive - this is a persistent downtrend/possible descending channel, not a triangle with compression toward an apex. No clear flat resistance or rising support touches are visible in the recent price action near the right edge.\",\n}",
+  "validated_at": "2026-08-23T08:44:41.248875+00:00"
+}

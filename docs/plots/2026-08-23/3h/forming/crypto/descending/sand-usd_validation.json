@@ -1,0 +1,13 @@
+{
+  "symbol": "SAND-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows price consolidating in a tight, roughly flat range (~0.0405-0.0440) after a sharp downtrend from late July. There's no clear rising support line - lows are essentially flat/choppy rather than making higher lows, and highs are also flat rather than descending in a converging manner. This looks more like a flat consolidation/range-bound base after a downtrend than a descending triangle. A descending triangle requires clear lower highs converging into a flat support; here both boundaries appear roughly horizontal and parallel, which resembles a rectangle/range rather than a converging triangle. Volume spike mid-range (Aug 1) also disrupts clean pattern formation. Insufficient evidence of trendline convergence to confidently call this a triangle.",
+  "validated_at": "2026-08-23T08:45:00.313966+00:00"
+}

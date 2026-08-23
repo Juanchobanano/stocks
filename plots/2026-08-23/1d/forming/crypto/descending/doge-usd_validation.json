@@ -1,0 +1,13 @@
+{
+  "symbol": "DOGE-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (Jul\u2013Aug) shows price flattening out around 0.068\u20130.075 after a prolonged downtrend from May highs, but this looks more like consolidation/basing at a support level than a descending triangle. There isn't a clear descending upper trendline with distinct lower highs converging into a flat support - instead price action is choppy and range-bound with roughly equal highs and lows, resembling a rectangle/consolidation rather than a converging triangle. Volume has also dried up significantly, consistent with basing rather than a breakout setup. I don't see the classic 'lower highs + flat support' structure required for a descending triangle; the recent candles look more like sideways chop just above 0.07 support. Disagree with the algorithm's flag.",
+  "validated_at": "2026-08-23T08:42:41.967092+00:00"
+}

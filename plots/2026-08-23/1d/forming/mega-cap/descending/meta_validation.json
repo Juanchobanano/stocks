@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late July-August) shows a sharp decline from ~685 to a low near 525, followed by a choppy recovery attempt oscillating between roughly 580-650 with no clear convergence. There isn't a well-defined flat support line nor a consistent descending resistance line with multiple respected touches - price action looks more like a volatile consolidation/basing attempt after a downtrend rather than a compressing descending triangle. The algorithm may be picking up on lower highs from the 650-685 zone, but the lows are erratic (dipping to 525 then bouncing) rather than forming a flat support shelf. This resembles noisy consolidation rather than a clean triangle with 2+ credible touches on each trendline converging toward an apex.",
+  "validated_at": "2026-08-23T08:43:20.467215+00:00"
+}

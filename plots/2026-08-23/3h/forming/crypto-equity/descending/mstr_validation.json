@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-Jul to Aug 06) shows price oscillating in a fairly flat, rangebound band roughly between 92-100 with no clear convergence \u2014 highs and lows are not systematically narrowing. There's no consistent lower support line rising to meet a flat resistance; instead price bounces sideways with similar amplitude throughout (95-100 highs, 90-95 lows repeated). This looks more like consolidation/range-bound chop than a descending triangle apex. I don't see the flat-bottom + declining-highs structure needed for a credible descending triangle; the 'algorithm' flag seems to be picking up noise in a sideways channel rather than true compression.",
+  "validated_at": "2026-08-23T08:45:40.886823+00:00"
+}

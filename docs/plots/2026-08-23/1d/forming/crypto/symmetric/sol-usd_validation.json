@@ -1,0 +1,13 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-July to late July) shows price oscillating in a fairly tight, flat range between ~72 and ~79 with no clear convergence - highs and lows are roughly parallel rather than narrowing toward an apex. This looks more like a flat consolidation/range or slight downward drift than a symmetric triangle. There isn't a clear rising lower trendline or falling upper trendline converging together; the recent candles (last ~10 days) are almost flat-lined near 73-74, suggesting quiet consolidation rather than an active compressing wedge. I don't see 2+ credible touches on both a rising support and falling resistance line converging toward a defined apex, so I disagree with the algorithm's symmetric triangle flag.",
+  "validated_at": "2026-08-23T08:42:34.999829+00:00"
+}

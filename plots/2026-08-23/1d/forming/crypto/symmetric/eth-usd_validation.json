@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-Jun through Jul) shows price basing after a steep decline, then consolidating in a fairly flat, narrow range around 1800-1950 with no clear converging trendlines. Highs and lows are roughly parallel/flat rather than compressing toward an apex, more resembling a flat consolidation or minor channel than a symmetric triangle. There's no well-defined descending upper trendline or rising lower trendline with multiple clean touches converging - price has been oscillating sideways for weeks without narrowing range. I disagree with the algorithm's symmetric triangle call; this looks more like a flat/rectangular consolidation.",
+  "validated_at": "2026-08-23T08:42:21.968732+00:00"
+}

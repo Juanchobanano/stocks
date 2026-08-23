@@ -1,0 +1,13 @@
+{
+  "symbol": "NEM",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear downtrend from mid-June highs (~112) into a low around July 17-20 (~89-90), followed by a recovery/uptrend into early August reaching ~105-107. This is a V-shaped reversal, not a converging triangle. There's no descending resistance line meeting a flat support - instead price made a distinct low and has been trending upward with higher lows and higher highs (Jul 20 low ~89, gradual rise to Aug 5 ~98-105). The right edge shows continued upward momentum with a small pullback/consolidation near 103-107, not a compression into an apex. The algorithm's descending triangle call seems to be picking up on the earlier decline into the July low, but that pattern has already resolved (price bounced sharply off the low) rather than being an active, forming triangle at the right edge. No credible two-line convergence with multiple touches is visible near the current price action.",
+  "validated_at": "2026-08-23T08:47:14.958861+00:00"
+}
