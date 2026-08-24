@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad decline from late May highs (~84.5) down to late July lows (~78.5), then a sharp gap-up breakout at the right edge to ~83-84 on heavy volume, followed by a small pullback/consolidation of just 2-3 candles. There's no clear converging structure - no series of lower highs meeting a flat support line prior to the breakout; instead price made a sustained downtrend with a single sharp reversal, not gradual compression. The recent 3 candles after the gap-up are too few to constitute a triangle (need at least 2 touches per trendline forming a visible taper). This looks more like a downtrend reversal/breakout than a descending triangle base. I disagree with the algorithm's flag.",
+  "validated_at": "2026-08-24T09:02:46.325422+00:00"
+}

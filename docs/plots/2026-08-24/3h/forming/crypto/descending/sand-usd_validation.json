@@ -1,0 +1,13 @@
+{
+  "symbol": "SAND-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a downtrend from ~0.049 down to ~0.041-0.043, followed by a period of sideways consolidation/chop around 0.041-0.044 with a large volume spike and upper wick spike around Jul 31. However, this consolidation looks more like a flat range/base than a converging descending triangle - the highs and lows are both roughly flat rather than showing lower highs converging into a rising support line. There's no clear rising support line with higher lows; instead lows are roughly flat around 0.0405-0.0415 and highs are roughly flat around 0.043-0.044, resembling a rectangle/range rather than a converging triangle. I don't see the compression/apex structure needed for a valid descending triangle - the algorithm likely misread the flat consolidation as a triangle.",
+  "validated_at": "2026-08-24T09:03:50.713569+00:00"
+}

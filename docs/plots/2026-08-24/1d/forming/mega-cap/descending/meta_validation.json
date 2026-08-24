@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a choppy, volatile decline from ~680 to ~590 with a sharp sell-off around Jul 27 (down to ~525) followed by a bounce. This looks more like a downtrend with wide swings rather than a converging triangle. There's no clear flat support line - lows range from 525 to 600, and highs are declining but irregularly. The candle ranges are not visibly compressing near the apex; in fact volatility increased with the large red candle around Jul 27. I don't see consistent multiple touches on a flat lower boundary or a clean converging upper trendline - this looks more like normal price action within a downtrend than a defined descending triangle.",
+  "validated_at": "2026-08-24T09:02:09.205291+00:00"
+}

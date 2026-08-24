@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-June to late July) shows price basing after a sharp decline, then chopping sideways in a fairly tight, flat range (~1830-1950) with no clear convergence between upper and lower boundaries - both appear roughly horizontal rather than converging trendlines. This looks more like a flat consolidation/basing range than a symmetric triangle. There isn't a clear series of lower highs and higher lows narrowing toward an apex; the highs and lows are roughly parallel, resembling a rectangle/range rather than a converging wedge. I disagree with the algorithm's symmetric triangle call - the structure lacks the progressive narrowing required for a triangle.",
+  "validated_at": "2026-08-24T08:59:49.972026+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-June through July) shows price oscillating in a tight, roughly flat range between ~72 and ~80, but there's no clear convergence - highs and lows are both flattening in parallel rather than converging toward an apex. This looks more like a horizontal consolidation/range or a slight descending drift than a symmetric triangle with clearly converging trendlines. The algorithm likely picked up on the general narrowing of volatility after the June 30 spike, but there isn't a well-defined pair of angled trendlines meeting at a point - the recent candles (last 3 weeks) are essentially flat and choppy without a clean rising support or falling resistance line with 2-3 distinct touches each. I don't see enough structure to call this a credible triangle setup.",
+  "validated_at": "2026-08-24T09:00:03.672076+00:00"
+}

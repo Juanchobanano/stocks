@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart shows a sharp selloff into late July (spike down to ~15) followed by a strong V-shaped recovery back to ~18-18.7, not a converging triangle. There's no clear flat support with descending highs - instead we see a volatility spike and impulsive rally. The broader chart shows a recurring oscillation pattern (peaks ~19-19.5 near early Mar, mid-Apr, early Jun/Jul, troughs ~15-16), which looks more like a wide trading range or cyclical swing pattern than a converging triangle. There's no clear series of lower highs meeting a flat support line near the current price action - the last few candles are expanding/breaking out upward after the dip, which contradicts a descending triangle setup (which would need compression before breakout). I disagree with the algorithm's flag; this looks like range-bound consolidation with a recent sharp reversal, not a well-defined descending triangle.",
+  "validated_at": "2026-08-24T09:02:39.395578+00:00"
+}

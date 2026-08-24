@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "From late June through early August, MSTR has been trading in a broad sideways range between roughly 90-104, with no clear convergence of highs and lows. Highs bounce between ~99-104 repeatedly without a consistent descending trendline, and lows oscillate between ~90-96 without a clean flat support line either. This looks more like a rectangular consolidation/range-bound market than a descending triangle. Near the right edge, price is still oscillating in the same ~93-99 band with no visible tightening of the range or apex formation. I don't see convincing evidence of compression required for a triangle pattern, so I disagree with the algorithm's descending triangle flag.",
+  "validated_at": "2026-08-24T09:04:30.674193+00:00"
+}

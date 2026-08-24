@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late July through August) shows price consolidating in a fairly flat, choppy range between ~0.0650 and ~0.0680 with no clear converging trendlines. Highs and lows are roughly parallel, not narrowing toward an apex, so this looks more like a rectangle/sideways range than an ascending triangle. There's no clear rising support line with distinct higher lows, nor a flat resistance being tested repeatedly with increasing lows - lows are flat to slightly declining if anything. I disagree with the algorithm's ascending triangle flag; the structure lacks the compression and directional bias needed for a valid triangle pattern.",
+  "validated_at": "2026-08-24T09:05:09.979435+00:00"
+}

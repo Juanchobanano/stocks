@@ -1,0 +1,13 @@
+{
+  "symbol": "AMZN",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp rally from ~262 to ~286 in late July, followed by a pullback to ~272-273. This is a strong impulsive move with a shallow retracement, not a converging triangle. There's no clear flat support with lower highs converging - instead we see a big green breakout candle, a topping candle near 286, then just 2-3 candles pulling back. This lacks the multiple touch points (need 2+ on each side) and gradual convergence required for a descending triangle. It looks more like a post-rally consolidation/pullback after a breakout from the prior downtrend (Apr-Jun decline into a Jun low, then recovery). I disagree with the algorithm's descending triangle call - there isn't enough price history at the right edge to establish two converging trendlines; it's only 5-6 candles of a pullback after a sharp rally.",
+  "validated_at": "2026-08-24T09:02:03.092999+00:00"
+}

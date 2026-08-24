@@ -1,0 +1,13 @@
+{
+  "symbol": "GOOGL",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": null,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": null,
+  "presence_confidence": null,
+  "pattern_quality": null,
+  "validation_notes": "{\n  \"found_triangle\": false,\n  \"pattern_type\": null,\n  \"direction\": null,\n  \"presence_confidence\": 82,\n  \"pattern_quality\": null,\n  \"notes\": \"The right side of the chart shows a strong uptrend from ~320 to a peak near 382, followed by a sharp pullback to ~357-365 over the last few candles. There is no evidence of a flat or gently sloping resistance line being tested multiple times, nor a series of rising higher lows converging toward a resistance level. Instead, price made one clear high (~382) and then dropped sharply, which looks more like a blow-off top / reversal than a converging triangle. There are not two clean touch points on an upper resistance line - only a single spike high. The algorithm's ascending triangle call appears to be a misread of the strong rally followed by a pullback; no genuine consolidation/compression structure is visible near the apex.\",\n}",
+  "validated_at": "2026-08-24T09:05:24.104496+00:00"
+}

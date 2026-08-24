@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a downtrend from late April through late June, then a basing/consolidation phase around 4.3-4.9 through July into early August, followed by a sharp breakout gap up to ~5.8 on high volume in early August. There's no clear descending triangle structure near the right edge - no series of lower highs converging with a flat support line. Instead, price already broke out decisively (gap up with 90M+ volume) and is now pulling back slightly. The algorithm's flag appears to be based on the prior consolidation range, but that pattern has already resolved with a breakout, not a forming triangle. Current price action at the right edge shows two down candles after the breakout, which is normal post-breakout consolidation, not a new triangle formation.",
+  "validated_at": "2026-08-24T09:02:23.384086+00:00"
+}
