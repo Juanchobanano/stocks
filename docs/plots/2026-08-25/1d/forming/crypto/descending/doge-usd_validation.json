@@ -1,0 +1,13 @@
+{
+  "symbol": "DOGE-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-June through August) shows a flat, low-volatility consolidation around 0.069-0.078, but this is a tight horizontal range/base, not a descending triangle. There's no clear series of lower highs converging into a flat support - highs are roughly flat (~0.078) just like the lows (~0.069), forming more of a rectangle/range than a converging wedge. The overall multi-month structure is a downtrend from Jan into a bottoming range, with no visible apex or convergence forming. I disagree with the algorithm's descending triangle flag - there isn't a declining upper trendline with 2+ distinct lower-high touch points; price has simply flattened out after the downtrend.",
+  "validated_at": "2026-08-25T08:55:09.001651+00:00"
+}

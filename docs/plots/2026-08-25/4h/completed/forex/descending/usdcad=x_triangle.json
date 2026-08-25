@@ -1,0 +1,101 @@
+{
+  "symbol": "USDCAD=X",
+  "sector": "forex",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-06-24",
+      "end": "2026-07-06",
+      "duration_days": 12,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 1.42,
+        "stop_loss": 1.41,
+        "take_profit_half": 1.43,
+        "take_profit_full": 1.43,
+        "height": 0.01
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-06-24",
+          1.4248
+        ],
+        "B": [
+          "2026-06-26",
+          1.4165
+        ],
+        "C": [
+          "2026-06-30",
+          1.4247
+        ],
+        "D": [
+          "2026-07-02",
+          1.4145
+        ],
+        "E": [
+          "2026-07-06",
+          1.4239
+        ],
+        "F": [
+          "2026-07-06",
+          1.4224
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-06",
+      "end": "2026-08-04",
+      "duration_days": 29,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 1.41,
+        "stop_loss": 1.4,
+        "take_profit_half": 1.42,
+        "take_profit_full": 1.43,
+        "height": 0.02
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-07-06",
+          1.4239
+        ],
+        "B": [
+          "2026-07-16",
+          1.4007
+        ],
+        "C": [
+          "2026-07-28",
+          1.4129
+        ],
+        "D": [
+          "2026-07-30",
+          1.3987
+        ],
+        "E": [
+          "2026-08-04",
+          1.408
+        ],
+        "F": [
+          "2026-08-04",
+          1.4065
+        ]
+      }
+    }
+  ]
+}

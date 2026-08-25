@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear downtrend from late June through early August, followed by a small basing/consolidation attempt near 360-385 at the right edge. There's no clear descending triangle structure - the lows from late July to early August (around 355-365) show flattening, but the highs into that same period are also declining then leveling off around 378-385 rather than showing a clear series of lower highs converging into a flat support. The last 8-10 candles show a narrow sideways range (375-385) which could be early basing, but there are not yet 2-3 clean touches on both a flat lower support and a descending upper resistance line - it looks more like a bottoming range after a downtrend than an active descending triangle apex. I'd characterize this as a downtrend potentially finding support, not a well-formed triangle with credible touchpoints on both sides.",
+  "validated_at": "2026-08-25T08:59:12.157149+00:00"
+}

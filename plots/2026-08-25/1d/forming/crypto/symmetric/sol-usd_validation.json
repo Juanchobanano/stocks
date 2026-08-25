@@ -1,0 +1,13 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "From late June onward price shows a gradual downtrend with lower highs (82->79->77->75) and a relatively flat support around 72-73, but the range is fairly wide/choppy rather than a clean convergence, and the most recent candles (last ~10 days) are essentially flat/sideways around 72-74 with no clear apex forming. This looks more like a flattening consolidation/minor downtrend tapering into a range than a well-defined symmetric triangle with distinct converging trendlines and multiple clean touches. Volume is also declining but not showing the classic pinch. I lean toward rejecting the algorithm's symmetric triangle call as the touches are inconsistent and the recent price action is too flat/noisy to confirm active convergence toward an apex.",
+  "validated_at": "2026-08-25T08:55:02.524013+00:00"
+}

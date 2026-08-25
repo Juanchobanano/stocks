@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart shows a choppy, range-bound structure oscillating between roughly 590 and 650, but there's no clear convergence \u2014 highs and lows are not consistently narrowing. The recent candles (late July) show a sharp drop to ~530 then a bounce back to ~590, followed by sideways consolidation near 590-600, which looks more like a base/range than a descending triangle. A descending triangle would need a clearly flat support line with repeated tests plus a series of lower highs converging into it; here the highs are inconsistent (bouncing between 600-650) without a clean downward-sloping resistance line, and support isn't flat either (varies between 530-590). This looks more like general consolidation/noise after a downtrend rather than a well-defined triangle. I disagree with the algorithm's flag.",
+  "validated_at": "2026-08-25T08:55:47.582399+00:00"
+}

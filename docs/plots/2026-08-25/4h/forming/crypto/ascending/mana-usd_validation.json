@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right-side price action from late July onward shows a flat, tight consolidation around 0.066-0.068 with no clear rising lower trendline or flat upper resistance forming a converging wedge. Highs and lows are roughly parallel/flat rather than converging, which resembles more of a rectangle/range than an ascending triangle. There's no evidence of higher lows compressing against a flat ceiling - both boundaries appear flat, and price has been drifting sideways/slightly down since the July 23 peak. I don't see a credible ascending triangle structure with the required rising support line; the algorithm's flag appears to be a false positive from a flat consolidation range.",
+  "validated_at": "2026-08-25T08:58:50.015748+00:00"
+}

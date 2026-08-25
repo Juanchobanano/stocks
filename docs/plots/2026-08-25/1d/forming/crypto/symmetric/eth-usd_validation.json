@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-July to end) shows price oscillating in a tight, flat, roughly horizontal range around 1850-1950 with no clear converging trendlines - highs and lows are both essentially flat, not converging toward an apex. This looks more like a flat consolidation/rectangle than a symmetric triangle. There's no clear diagonal upper resistance descending nor a clear rising lower support - both boundaries appear parallel/flat. The broader chart shows a large downtrend from ~2450 to ~1550 followed by this current sideways consolidation, but the recent price action lacks the compression narrowing needed for a genuine triangle pattern. I disagree with the algorithm's symmetric triangle flag.",
+  "validated_at": "2026-08-25T08:54:50.833606+00:00"
+}

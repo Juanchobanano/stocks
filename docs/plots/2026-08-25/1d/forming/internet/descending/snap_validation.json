@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad decline from ~6.3 down to ~4.3, followed by a base/consolidation around 4.3-5.0, then a sharp breakout spike to ~5.8 in early August. There's no clear converging structure near the right edge - the last few candles show a strong impulsive move up and then a pullback, not a compression pattern with two converging trendlines. The 'descending triangle' flagged by the algorithm doesn't hold up: there's no flat support line with repeated touches and a clearly descending resistance line with multiple touches in the recent price action. Instead it looks like a breakout from a longer base already occurred, with price now retracing. Too few clean touch points on both sides to call this a valid triangle at the right edge.",
+  "validated_at": "2026-08-25T08:56:01.756502+00:00"
+}

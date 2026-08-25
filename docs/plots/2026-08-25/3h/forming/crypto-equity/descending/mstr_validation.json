@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "Since early July, price has been trading in a broad horizontal range roughly between 90 and 103, with no clear convergence between highs and lows. Highs are not consistently declining (e.g., mid-July peaks near 103 vs late-July peaks near 99-100, then a slight rebound near Aug 1-4), and lows bounce around 90-96 without a clean rising or flat support line. This looks more like sideways consolidation/range-bound chop than a descending triangle. There's no visible tightening of the range near the right edge that would indicate an apex forming - the last several candles are still oscillating within the same band. I disagree with the algorithmic flag; the structure lacks the two-converging-trendline touch pattern required for a credible triangle.",
+  "validated_at": "2026-08-25T08:58:06.506579+00:00"
+}

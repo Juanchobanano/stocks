@@ -1,0 +1,13 @@
+{
+  "symbol": "VET-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late June through July) shows price trading in a tight, roughly flat/horizontal range between ~0.0045 and ~0.0050 with no clear converging trendlines. Highs and lows are essentially parallel/sideways rather than showing a descending upper resistance line meeting a flat support - this looks more like a flat consolidation/rectangle after a strong downtrend than a descending triangle. There isn't a clear series of lower highs compressing toward a flat support; the recent candles are choppy and range-bound with similar high/low extremes throughout, not a narrowing wedge. I don't see 2+ credible touches on a declining upper trendline distinct from the flat support. The algorithm likely mistook the flat consolidation for a triangle apex, but conviction is moderate since the range is narrow and could be interpreted as early-stage compression.",
+  "validated_at": "2026-08-25T08:55:22.404514+00:00"
+}
