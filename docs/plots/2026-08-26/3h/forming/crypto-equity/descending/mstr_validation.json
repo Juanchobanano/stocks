@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "Price has been range-bound between roughly 90-104 since early July with no clear convergence. Highs and lows are choppy but not forming consistent lower highs or flat support - recent candles (late July into August) actually show a slight rising trend with higher lows around 94-96 and highs capped near 98-100, more resembling a flat/loose range than a converging descending triangle. There isn't a clean series of lower highs required for a descending triangle; the pattern looks more like sideways consolidation/noise than a credible triangle with defined trendlines. I disagree with the algorithm's descending triangle call.",
+  "validated_at": "2026-08-26T08:59:23.140855+00:00"
+}

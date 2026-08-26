@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a decline from ~82 down to ~79 (late July), followed by a sharp, sudden gap-up breakout to ~84 with a large green candle, then consolidation with small candles around 83-84. There's no clear converging price structure - no flat support line with descending resistance, and no series of lower highs compressing into an apex. The recent action is a strong impulsive move up followed by tight sideways consolidation (more like a flag/pennant after a breakout gap), not a descending triangle. The algorithm likely mistook the pre-breakout decline as descending triangle formation, but there's no clear horizontal support being tested multiple times - price just dropped and then gapped up sharply, breaking any potential pattern structure decisively to the upside already.",
+  "validated_at": "2026-08-26T08:57:46.918773+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "VET-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a choppy, range-bound consolidation between roughly 0.00460 and 0.00475 with no clear converging trendlines. Highs are not forming a consistent descending line and lows are not forming a consistent ascending line - both appear roughly flat/noisy, resembling a rectangle/range rather than a converging triangle. There's no clear apex forming near the right edge. The algorithm's ascending triangle call doesn't hold up visually since the lower boundary isn't clearly rising and price isn't compressing into a point - it's just oscillating within a horizontal band after the prior swing from ~0.0048 down to ~0.0046.",
+  "validated_at": "2026-08-26T08:58:40.491204+00:00"
+}

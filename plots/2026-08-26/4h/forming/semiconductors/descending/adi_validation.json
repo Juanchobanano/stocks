@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a strong downtrend from late June (~440) into early August (~355), followed by a modest bounce/stabilization near 360-385 at the right edge. There isn't a clear flat support line with a descending resistance line converging toward it - the recent price action (last ~10 candles) shows fairly flat, choppy consolidation around 370-385 without well-defined lower highs compressing into a point. This looks more like a basing/consolidation range after a downtrend rather than a descending triangle. I don't see at least two clean touches on a descending upper trendline and two on a flat lower support line converging toward an apex. The algorithm's flag seems to be reading normal post-downtrend consolidation as a triangle, but the touch points are too sparse and the recent candles are too flat/range-bound rather than converging.",
+  "validated_at": "2026-08-26T09:00:25.948787+00:00"
+}

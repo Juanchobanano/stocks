@@ -1,0 +1,13 @@
+{
+  "symbol": "DOGE-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late June through early August) shows price flattening out around 0.070-0.075 after a sustained downtrend, but this looks more like consolidation/basing near a support floor than a descending triangle. There's no clear descending upper trendline with distinct lower highs converging toward a flat support - instead price action is choppy and roughly range-bound with small candles and low volume. The prior move (Jun-Jul) was a steep downtrend, not a series of lower highs compressing into a triangle. I don't see at least two clean touches on a descending resistance line paired with two touches on a flat support line - the pattern here is better described as a flattening/consolidation after a downtrend rather than a defined triangle. I disagree with the algorithm's descending triangle flag.",
+  "validated_at": "2026-08-26T08:56:24.024616+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp drop to ~15 in late July followed by a strong rally back to ~18.5, then a small pullback - this looks like a V-shaped reversal with a brief consolidation, not a converging triangle. There's no clear descending upper trendline (lower highs) meeting a flat support; instead price gapped down then surged up in a near-vertical move, breaking well above recent highs. Only 2-3 candles exist after the spike, insufficient to establish two converging trendlines with multiple touch points. This looks more like a failed/no pattern or early impulsive breakout rather than a triangle still forming. I disagree with the algorithm's descending triangle flag - the price action lacks the repeated lower-high touches needed, and the recent action is expansive (large range candles) rather than compressing.",
+  "validated_at": "2026-08-26T08:57:38.741327+00:00"
+}

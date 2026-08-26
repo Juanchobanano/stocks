@@ -1,0 +1,13 @@
+{
+  "symbol": "NVDA",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart shows a sharp, almost vertical rally from the ~190 low (late July) to ~220-224, with large green bodies and expanding range \u2014 this is a breakout move, not a converging consolidation. There's no clear flat support line with repeated tests, nor a well-defined descending resistance line with multiple lower highs in the recent price action; the prior June-July action was more of a broad choppy range/downtrend than a tightening wedge. The algorithm's descending-triangle flag doesn't hold up: price has already broken out strongly to the upside without the multi-touch compression needed to validate a triangle boundary. I see fewer than the required 2+ credible touches on a descending upper trendline near the apex, so I reject the pattern as currently framed.",
+  "validated_at": "2026-08-26T08:56:54.200244+00:00"
+}
