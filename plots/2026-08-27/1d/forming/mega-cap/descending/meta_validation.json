@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a volatile decline from ~685 down to ~525, followed by a bounce and choppy consolidation around 585-605. There isn't a clear flat support line with lower highs converging into it - instead price shows a sharp drop then sideways chop with roughly equal highs/lows in a range, more consistent with a rectangle/consolidation than a converging descending triangle. The 'lower highs' the algorithm may have seen (685->650->605) are actually part of a broader downtrend, not a well-defined resistance line with 3+ clean touches. No consistent flat support base is visible with multiple touches - lows vary from 525 to 585 without a clear horizontal floor. This looks more like a downtrend with recent basing rather than a credible descending triangle.  I disagree with the algorithm's flag.",
+  "validated_at": "2026-08-27T19:05:36.142229+00:00"
+}

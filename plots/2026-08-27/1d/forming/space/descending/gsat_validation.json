@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp, strong-volume breakout from ~79 to ~85 followed by a small consolidation with a couple of red candles pulling back slightly (84.2 down to 83.2). This is a vertical impulse move, not a converging triangle - there's no clear series of lower highs against a flat support base prior to it; instead price was in a downtrend/base around 79 then gapped/surged upward. No evidence of two converging trendlines with multiple touches - just a breakout candle and minor pullback. The algorithm's descending triangle flag doesn't hold up since there's no visible contracting range before the move; it looks more like a base/bottom followed by an explosive breakout, already extended rather than compressing into an apex.",
+  "validated_at": "2026-08-27T19:06:16.900835+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": true,
+  "claude_pattern": "Symmetric",
+  "claude_direction": "SYMMETRIC",
+  "pattern_agree": true,
+  "presence_confidence": 55,
+  "pattern_quality": 40,
+  "validation_notes": "From late June to late July, price swings narrow: highs step down from ~83 (Jun 30) to ~78 (mid-Jul) to ~75 (late Jul), while lows step up slightly from ~72 to ~72-73, creating mild convergence. There are roughly 3 touches on the upper side and 2-3 on the lower side, but the range is fairly tight and choppy rather than a clean wedge, and price has been oscillating near the apex (73-75) for the last several candles without a decisive breakout. This is a weak/moderate symmetric triangle - plausible but not textbook, since the lower boundary is nearly flat (more consistent with a slight descending-triangle bias) and touches are noisy. Overall structure is compressing, supporting the algorithm's flag, but confidence in a clean tradable pattern is limited.",
+  "validated_at": "2026-08-27T19:04:34.658677+00:00",
+  "symbol_research": "SOL-USD is Solana, a high-throughput layer-1 blockchain known for fast transaction speeds and low fees, widely used for DeFi, NFTs, and payments. It has seen periods of strong developer activity and network upgrades but also historical volatility tied to outages and broader crypto market cycles. Price action is highly correlated with BTC/ETH macro trends and overall risk sentiment in crypto markets.",
+  "market_sentiment": "neutral",
+  "supporting_signals": [
+    "Symmetric triangle shows balanced consolidation, often preceding a volatility expansion in either direction",
+    "Entry near apex with defined stop (72.94) offers clear risk parameters",
+    "TP targets align with prior resistance/measured move levels, suggesting technically derived profit zones",
+    "Pattern independently confirmed via visual inspection, reducing algorithmic false-positive risk"
+  ],
+  "opposing_signals": [
+    "Symmetric triangles are direction-agnostic; breakout direction is inherently uncertain until confirmed by volume/price action",
+    "Crypto assets like SOL are highly beta-sensitive to BTC and macro liquidity conditions, which can override technical patterns",
+    "Wide stop distance (~10% from entry) implies significant capital risk relative to reward if breakout fails",
+    "No explicit volume or momentum confirmation mentioned to validate breakout direction"
+  ],
+  "recommendation": "monitor",
+  "research_confidence": 55
+}

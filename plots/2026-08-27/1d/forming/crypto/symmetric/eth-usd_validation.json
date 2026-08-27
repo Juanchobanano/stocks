@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-Jul to late-Jul) shows price consolidating in a fairly tight, roughly flat range between ~1850 and ~1950, not a converging wedge. There's no clear descending upper trendline or rising lower trendline - both boundaries appear roughly horizontal/flat, which is more consistent with a rectangle/consolidation range than a symmetric triangle. Prior to this, price made a sharp decline from ~2400 to ~1550 (late May-June), then a rally back to ~1900, which doesn't set up a clean symmetric convergence pattern with multiple touchpoints on both converging sides. I don't see the apex-narrowing structure required for a credible triangle call.",
+  "validated_at": "2026-08-27T19:04:18.542612+00:00"
+}

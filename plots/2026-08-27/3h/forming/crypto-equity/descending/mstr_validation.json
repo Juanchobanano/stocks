@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "From mid-July through early August, price is trading in a broad sideways range roughly between 90 and 100 with no clear convergence. Highs and lows are choppy and roughly parallel (e.g., highs near 100-102 in mid-July, 99-100 in late July, 98-100 recently; lows around 90-94 throughout), rather than narrowing toward an apex. There's no clean flat support line with descending resistance - the recent candles (Jul 29-Aug 6) show a slight upward drift with similar range width, more consistent with consolidation/range-bound action than a descending triangle. I don't see convincing convergence or a well-defined lower flat support with 3+ touches paired with a clearly descending upper trendline, so I reject the algorithm's descending triangle call.",
+  "validated_at": "2026-08-27T19:08:21.066289+00:00"
+}

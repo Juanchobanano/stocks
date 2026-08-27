@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a downtrend from late April into mid-June, then a basing/consolidation period from mid-June through late July around 4.3-5.0, followed by a sharp breakout candle in early August that jumped price to ~5.8 before pulling back. There's no clear converging structure - the consolidation phase (Jun 18-Jul 31) shows roughly flat highs and flat lows (a range, not a triangle with lower highs meeting flat support). The recent action at the right edge is a strong upside breakout with expanding range, not compression into an apex. This looks more like a rectangle/range bottoming pattern followed by breakout rather than a descending triangle. I don't see a clear series of lower highs converging toward a flat support line with price still contained - the pattern has already resolved with a breakout, and volume spiked on the move up, which is inconsistent with a still-forming triangle.",
+  "validated_at": "2026-08-27T19:05:52.629817+00:00"
+}

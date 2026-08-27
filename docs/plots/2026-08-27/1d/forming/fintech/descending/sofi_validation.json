@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right edge shows a sharp V-shaped reversal: price dropped hard to ~15 in early August, then spiked back up to ~18.7 within a couple candles. This is a fast impulsive move, not a converging triangle structure. There's no clear series of lower highs meeting a flat support line - only a single low touch followed by an aggressive rally, with just 2-3 candles pausing near the recent highs. No repeated testing of a flat support or descending resistance is visible. This looks more like a V-bottom reversal / breakout continuation than a descending triangle. I disagree with the algorithm's flag; the pattern lacks the multiple touch points and gradual convergence needed to classify it as a valid descending triangle.",
+  "validated_at": "2026-08-27T19:06:09.193673+00:00"
+}
