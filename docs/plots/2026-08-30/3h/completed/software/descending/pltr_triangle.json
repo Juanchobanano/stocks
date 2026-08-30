@@ -1,0 +1,54 @@
+{
+  "symbol": "PLTR",
+  "sector": "software",
+  "beta": 2.04,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-07",
+      "end": "2026-07-27",
+      "duration_days": 20,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 135.65,
+        "stop_loss": 119.94,
+        "take_profit_half": 143.15,
+        "take_profit_full": 150.64,
+        "height": 14.99
+      },
+      "volume_trend": {
+        "slope": -98775.74,
+        "trend": "declining",
+        "r_squared": 0.0383
+      },
+      "points": {
+        "A": [
+          "2026-07-07",
+          138.9
+        ],
+        "B": [
+          "2026-07-14",
+          122.64
+        ],
+        "C": [
+          "2026-07-20",
+          136.62
+        ],
+        "D": [
+          "2026-07-23",
+          120.73
+        ],
+        "E": [
+          "2026-07-27",
+          132.41
+        ],
+        "F": [
+          "2026-07-27",
+          131.44
+        ]
+      }
+    }
+  ]
+}

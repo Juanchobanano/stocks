@@ -1,0 +1,54 @@
+{
+  "symbol": "TSLA",
+  "sector": "mega-cap",
+  "beta": 2.16,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-01-23",
+      "end": "2026-03-11",
+      "duration_days": 47,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 414.09,
+        "stop_loss": 380.19,
+        "take_profit_half": 445.23,
+        "take_profit_full": 476.37,
+        "height": 62.27
+      },
+      "volume_trend": {
+        "slope": -9929.45,
+        "trend": "flat",
+        "r_squared": 0.0001
+      },
+      "points": {
+        "A": [
+          "2026-01-23",
+          452.43
+        ],
+        "B": [
+          "2026-02-05",
+          387.53
+        ],
+        "C": [
+          "2026-02-11",
+          436.35
+        ],
+        "D": [
+          "2026-03-09",
+          381.4
+        ],
+        "E": [
+          "2026-03-11",
+          416.38
+        ],
+        "F": [
+          "2026-03-11",
+          407.82
+        ]
+      }
+    }
+  ]
+}
