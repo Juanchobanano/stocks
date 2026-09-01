@@ -1,0 +1,54 @@
+{
+  "symbol": "GSAT",
+  "sector": "space",
+  "beta": 1.26,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": false,
+      "direction": "LONG",
+      "start": "2026-05-28",
+      "end": "2026-07-28",
+      "duration_days": 61,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 79.6,
+        "stop_loss": 78.31,
+        "take_profit_half": 82.33,
+        "take_profit_full": 85.05,
+        "height": 5.45
+      },
+      "volume_trend": {
+        "slope": -15836.57,
+        "trend": "declining",
+        "r_squared": 0.0369
+      },
+      "points": {
+        "A": [
+          "2026-05-28",
+          84.7
+        ],
+        "B": [
+          "2026-06-25",
+          78.84
+        ],
+        "C": [
+          "2026-07-01",
+          81.78
+        ],
+        "D": [
+          "2026-07-28",
+          78.36
+        ],
+        "E": [
+          "2026-07-28",
+          78.36
+        ],
+        "F": [
+          "2026-07-28",
+          79.04
+        ]
+      }
+    }
+  ]
+}
