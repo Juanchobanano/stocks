@@ -1,0 +1,54 @@
+{
+  "symbol": "AVAX-USD",
+  "sector": "crypto",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-06-15",
+      "end": "2026-07-25",
+      "duration_days": 40,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 6.14,
+        "stop_loss": 7.14,
+        "take_profit_half": 5.43,
+        "take_profit_full": 4.72,
+        "height": 1.42
+      },
+      "volume_trend": {
+        "slope": -2881626.51,
+        "trend": "declining",
+        "r_squared": 0.2641
+      },
+      "points": {
+        "A": [
+          "2026-06-15",
+          7.0609
+        ],
+        "B": [
+          "2026-06-19",
+          5.6936
+        ],
+        "C": [
+          "2026-07-04",
+          7.0928
+        ],
+        "D": [
+          "2026-07-24",
+          6.1595
+        ],
+        "E": [
+          "2026-07-25",
+          6.8193
+        ],
+        "F": [
+          "2026-07-25",
+          6.7653
+        ]
+      }
+    }
+  ]
+}
