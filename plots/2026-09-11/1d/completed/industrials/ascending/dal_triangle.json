@@ -1,0 +1,54 @@
+{
+  "symbol": "DAL",
+  "sector": "industrials",
+  "beta": 1.74,
+  "triangles": [
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-02-11",
+      "end": "2026-05-07",
+      "duration_days": 85,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 66.72,
+        "stop_loss": 74.53,
+        "take_profit_half": 53.84,
+        "take_profit_full": 40.97,
+        "height": 25.75
+      },
+      "volume_trend": {
+        "slope": -52025.69,
+        "trend": "flat",
+        "r_squared": 0.0317
+      },
+      "points": {
+        "A": [
+          "2026-02-11",
+          75.7943
+        ],
+        "B": [
+          "2026-03-09",
+          54.9979
+        ],
+        "C": [
+          "2026-04-17",
+          74.6372
+        ],
+        "D": [
+          "2026-04-29",
+          65.4842
+        ],
+        "E": [
+          "2026-05-07",
+          74.5875
+        ],
+        "F": [
+          "2026-05-07",
+          72.7369
+        ]
+      }
+    }
+  ]
+}
