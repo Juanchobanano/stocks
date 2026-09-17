@@ -1,0 +1,58 @@
+{
+  "symbol": "CRWD",
+  "sector": "software",
+  "beta": 1.36,
+  "triangles": [
+    {
+      "pattern": "Symmetric",
+      "complete": true,
+      "direction": "SYMMETRIC",
+      "start": "2026-01-27",
+      "end": "2026-04-08",
+      "duration_days": 71,
+      "trade_levels": {
+        "direction": "SYMMETRIC",
+        "entry": 108.22,
+        "stop_loss": 91.45,
+        "take_profit_half": 128.07,
+        "take_profit_full": 147.92,
+        "height": 39.7,
+        "entry_short": 91.05,
+        "stop_loss_short": 107.82,
+        "take_profit_half_short": 71.2,
+        "take_profit_full_short": 51.35
+      },
+      "volume_trend": {
+        "slope": -55745.63,
+        "trend": "flat",
+        "r_squared": 0.0071
+      },
+      "points": {
+        "A": [
+          "2026-01-27",
+          121.8
+        ],
+        "B": [
+          "2026-02-23",
+          85.68
+        ],
+        "C": [
+          "2026-03-11",
+          113.0
+        ],
+        "D": [
+          "2026-03-27",
+          90.4518
+        ],
+        "E": [
+          "2026-04-08",
+          112.475
+        ],
+        "F": [
+          "2026-04-08",
+          106.6275
+        ]
+      }
+    }
+  ]
+}
