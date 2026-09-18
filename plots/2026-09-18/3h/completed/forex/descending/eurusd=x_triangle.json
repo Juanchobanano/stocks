@@ -1,0 +1,54 @@
+{
+  "symbol": "EURUSD=X",
+  "sector": "forex",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-23",
+      "end": "2026-07-28",
+      "duration_days": 5,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 1.14,
+        "stop_loss": 1.14,
+        "take_profit_half": 1.14,
+        "take_profit_full": 1.15,
+        "height": 0.01
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-07-23",
+          1.1439
+        ],
+        "B": [
+          "2026-07-23",
+          1.1368
+        ],
+        "C": [
+          "2026-07-27",
+          1.1421
+        ],
+        "D": [
+          "2026-07-28",
+          1.1357
+        ],
+        "E": [
+          "2026-07-28",
+          1.1408
+        ],
+        "F": [
+          "2026-07-28",
+          1.14
+        ]
+      }
+    }
+  ]
+}
