@@ -1,0 +1,54 @@
+{
+  "symbol": "DOGE-USD",
+  "sector": "crypto",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-04",
+      "end": "2026-07-19",
+      "duration_days": 14,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 0.07,
+        "stop_loss": 0.07,
+        "take_profit_half": 0.08,
+        "take_profit_full": 0.08,
+        "height": 0.01
+      },
+      "volume_trend": {
+        "slope": -74545.37,
+        "trend": "declining",
+        "r_squared": 0.0082
+      },
+      "points": {
+        "A": [
+          "2026-07-04",
+          0.0793
+        ],
+        "B": [
+          "2026-07-08",
+          0.071
+        ],
+        "C": [
+          "2026-07-14",
+          0.0753
+        ],
+        "D": [
+          "2026-07-17",
+          0.071
+        ],
+        "E": [
+          "2026-07-19",
+          0.0728
+        ],
+        "F": [
+          "2026-07-19",
+          0.0726
+        ]
+      }
+    }
+  ]
+}
