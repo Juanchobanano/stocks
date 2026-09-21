@@ -1,0 +1,105 @@
+{
+  "symbol": "MSTR",
+  "sector": "crypto-equity",
+  "beta": 2.63,
+  "triangles": [
+    {
+      "pattern": "Symmetric",
+      "complete": true,
+      "direction": "SYMMETRIC",
+      "start": "2026-06-15",
+      "end": "2026-07-29",
+      "duration_days": 44,
+      "trade_levels": {
+        "direction": "SYMMETRIC",
+        "entry": 97.19,
+        "stop_loss": 90.68,
+        "take_profit_half": 126.24,
+        "take_profit_full": 155.28,
+        "height": 58.09,
+        "entry_short": 90.1,
+        "stop_loss_short": 96.61,
+        "take_profit_half_short": 61.06,
+        "take_profit_full_short": 32.01
+      },
+      "volume_trend": {
+        "slope": -150581.06,
+        "trend": "declining",
+        "r_squared": 0.2636
+      },
+      "points": {
+        "A": [
+          "2026-06-15",
+          136.25
+        ],
+        "B": [
+          "2026-06-26",
+          81.81
+        ],
+        "C": [
+          "2026-07-21",
+          104.6
+        ],
+        "D": [
+          "2026-07-24",
+          89.76
+        ],
+        "E": [
+          "2026-07-29",
+          100.04
+        ],
+        "F": [
+          "2026-07-29",
+          93.32
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-07-06",
+      "end": "2026-07-29",
+      "duration_days": 23,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 104.74,
+        "stop_loss": 89.04,
+        "take_profit_half": 111.12,
+        "take_profit_full": 117.49,
+        "height": 12.75
+      },
+      "volume_trend": {
+        "slope": -33072.7,
+        "trend": "flat",
+        "r_squared": 0.0416
+      },
+      "points": {
+        "A": [
+          "2026-07-06",
+          104.7799
+        ],
+        "B": [
+          "2026-07-08",
+          91.78
+        ],
+        "C": [
+          "2026-07-21",
+          104.6
+        ],
+        "D": [
+          "2026-07-24",
+          89.76
+        ],
+        "E": [
+          "2026-07-29",
+          100.04
+        ],
+        "F": [
+          "2026-07-29",
+          93.32
+        ]
+      }
+    }
+  ]
+}

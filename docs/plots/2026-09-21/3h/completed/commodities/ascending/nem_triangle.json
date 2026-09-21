@@ -1,0 +1,54 @@
+{
+  "symbol": "NEM",
+  "sector": "commodities",
+  "beta": 1.63,
+  "triangles": [
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-06-26",
+      "end": "2026-07-14",
+      "duration_days": 18,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 92.36,
+        "stop_loss": 100.25,
+        "take_profit_half": 89.19,
+        "take_profit_full": 86.02,
+        "height": 6.34
+      },
+      "volume_trend": {
+        "slope": -24062.93,
+        "trend": "declining",
+        "r_squared": 0.0633
+      },
+      "points": {
+        "A": [
+          "2026-06-26",
+          97.88
+        ],
+        "B": [
+          "2026-06-30",
+          91.71
+        ],
+        "C": [
+          "2026-07-06",
+          98.93
+        ],
+        "D": [
+          "2026-07-13",
+          92.43
+        ],
+        "E": [
+          "2026-07-14",
+          98.19
+        ],
+        "F": [
+          "2026-07-14",
+          95.33
+        ]
+      }
+    }
+  ]
+}
