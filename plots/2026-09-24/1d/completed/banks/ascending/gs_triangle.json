@@ -1,0 +1,54 @@
+{
+  "symbol": "GS",
+  "sector": "banks",
+  "beta": 1.71,
+  "triangles": [
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-06-05",
+      "end": "2026-07-15",
+      "duration_days": 40,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 998.04,
+        "stop_loss": 1170.58,
+        "take_profit_half": 948.8,
+        "take_profit_full": 899.56,
+        "height": 98.47
+      },
+      "volume_trend": {
+        "slope": -23028.27,
+        "trend": "declining",
+        "r_squared": 0.0498
+      },
+      "points": {
+        "A": [
+          "2026-06-05",
+          1093.0069
+        ],
+        "B": [
+          "2026-06-10",
+          995.166
+        ],
+        "C": [
+          "2026-06-18",
+          1119.517
+        ],
+        "D": [
+          "2026-07-01",
+          998.1117
+        ],
+        "E": [
+          "2026-07-15",
+          1148.3658
+        ],
+        "F": [
+          "2026-07-15",
+          1146.4551
+        ]
+      }
+    }
+  ]
+}

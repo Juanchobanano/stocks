@@ -1,0 +1,54 @@
+{
+  "symbol": "EURGBP=X",
+  "sector": "forex",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-02-27",
+      "end": "2026-06-19",
+      "duration_days": 112,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 0.87,
+        "stop_loss": 0.86,
+        "take_profit_half": 0.88,
+        "take_profit_full": 0.89,
+        "height": 0.02
+      },
+      "volume_trend": {
+        "slope": 0.0,
+        "trend": "flat",
+        "r_squared": 0.0
+      },
+      "points": {
+        "A": [
+          "2026-02-27",
+          0.8787
+        ],
+        "B": [
+          "2026-03-19",
+          0.8611
+        ],
+        "C": [
+          "2026-05-18",
+          0.8729
+        ],
+        "D": [
+          "2026-06-10",
+          0.862
+        ],
+        "E": [
+          "2026-06-19",
+          0.868
+        ],
+        "F": [
+          "2026-06-19",
+          0.8679
+        ]
+      }
+    }
+  ]
+}
