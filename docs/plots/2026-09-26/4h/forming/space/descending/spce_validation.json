@@ -1,0 +1,30 @@
+{
+  "symbol": "SPCE",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": true,
+  "claude_pattern": "Ascending",
+  "claude_direction": "LONG",
+  "pattern_agree": false,
+  "presence_confidence": 55,
+  "pattern_quality": 45,
+  "validation_notes": "From mid-July onward price has been basing around 2.5 support with a series of higher lows (2.45, 2.5, 2.55, 2.6) while highs remain relatively flat around 2.7-3.0, and recently price broke slightly above that flat resistance near Aug 5. This looks more like a flat-top/ascending triangle than a descending one - the algorithm's descending label doesn't match since the lower boundary is rising, not the upper one falling. The pattern shows compression with 3+ touches on the lower rising trendline and 2-3 touches on the upper flat resistance near 2.9-3.0. Price appears to be breaking out to the upside at the right edge, consistent with an ascending triangle resolution rather than a descending breakdown.",
+  "validated_at": "2026-09-26T13:04:08.841837+00:00",
+  "symbol_research": "Virgin Galactic (SPCE) is a commercial spaceflight company developing suborbital tourism vehicles. It has faced repeated delays, high cash burn, and dilution via equity offerings. Recent context includes suspended commercial flights for vehicle upgrades (Delta class ships), pushing revenue generation further out to 2026, and continued reliance on capital raises, which has kept the stock under long-term pressure with a depressed, low-dollar share price and reverse split history.",
+  "market_sentiment": "bearish",
+  "supporting_signals": [
+    "Ascending triangle pattern shows higher lows, indicating accumulating demand near resistance",
+    "Defined risk/reward with stop at 2.38 and first target at 3.11 (~14% gain vs ~12.5% risk)",
+    "Breakout above triangle resistance could trigger short-covering given high short interest typical in SPCE",
+    "Low absolute share price allows for outsized percentage moves on relatively small capital flows"
+  ],
+  "opposing_signals": [
+    "Company fundamentals remain weak: no commercial revenue until 2026, high cash burn, ongoing dilution risk",
+    "Long-term downtrend and history of reverse splits reflect structurally bearish bias overriding short-term technicals",
+    "Low-priced, high-volatility stocks are prone to false breakouts and pattern failures",
+    "Broader space/travel sentiment has been weak, with no strong sector tailwinds currently supporting SPCE specifically",
+    "Any near-term news on capital raises or delays could invalidate technical setup regardless of pattern"
+  ],
+  "recommendation": "monitor",
+  "research_confidence": 38
+}

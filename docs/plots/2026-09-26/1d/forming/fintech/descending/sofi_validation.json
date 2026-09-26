@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp V-shaped reversal: price dropped hard to ~15 in early August then rallied strongly back to ~18.5-19 over just a few candles. This is a sudden impulsive move, not a compression pattern - there's no series of lower highs meeting a flat support line, nor any narrowing range. The 'descending triangle' call doesn't hold up since there are only 1-2 touch points on any potential resistance line and the recent action is a vertical breakout/reversal rather than gradual convergence. Earlier in the chart (Mar-Apr) there was a downtrend, and mid-chart shows choppy consolidation, but nothing resembling a clean triangle structure with 3+ touches per side is visible near the current price action on the right edge.",
+  "validated_at": "2026-09-26T13:01:56.572168+00:00"
+}

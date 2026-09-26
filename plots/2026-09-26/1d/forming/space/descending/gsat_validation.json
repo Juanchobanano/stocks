@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": null,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": null,
+  "presence_confidence": null,
+  "pattern_quality": null,
+  "validation_notes": "{\n  \"found_triangle\": false,\n  \"pattern_type\": null,\n  \"direction\": null,\n  \"presence_confidence\": 82,\n  \"pattern_quality\": null,\n  \"notes\": \"The chart shows a broad decline from late May highs (~84.5) down to a low near 78.7 in late July, followed by a sharp gap-up breakout in early August to ~84-85. There's no clear converging structure - no flat support with descending resistance, and no consistent touch points forming a triangle. The recent price action is a strong impulsive rally away from the prior downtrend, not a contained consolidation. This looks like a completed downtrend followed by a breakout, not a descending triangle in formation. The algorithm likely mistook the general downtrend into late July as a triangle, but there's no flat lower support line - lows kept dropping (81.2, 80, 79.8, 79.6, 78.7) without stabilizing, and highs also declined without a clear well-defined resistance line with multiple touches.\",\n}",
+  "validated_at": "2026-09-26T13:02:03.228113+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-July through early August) shows price oscillating in a fairly flat, choppy range roughly between 92-100 with no clear convergence. Highs are not consistently declining (e.g., late July peaks near 100-102 are similar to early August peaks near 99), and lows are not rising in a clean stepwise fashion - they bounce between 90-96 without a clear ascending support line. This looks more like a horizontal consolidation/range-bound chop than a descending triangle. There's no visible apex forming or clear compression - the trading range width in early August is similar to mid-July. I don't see the 'flat support, declining resistance' structure required for a descending triangle; instead both boundaries look roughly flat/sideways, which would argue for a rectangle/range rather than a triangle.",
+  "validated_at": "2026-09-26T13:03:12.627640+00:00"
+}

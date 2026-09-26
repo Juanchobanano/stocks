@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a strong downtrend from late June through early August, followed by a small basing/consolidation at the bottom near 355-385 in the last ~10 candles. There isn't a clear flat support with descending resistance converging into an apex - rather, price plunged into a low (~353) and has recently ticked up with fairly flat/sideways action (375-385 range) over the last few candles. This looks more like a potential reversal/basing pattern or just noise near a low than a well-defined descending triangle with multiple clean touches on both a flat bottom and a lower-high resistance line. Only 2 ambiguous touches on each side at most, and the 'triangle' would be extremely compressed in time. I don't see convincing evidence of a sustained descending triangle structure with proper apex convergence.",
+  "validated_at": "2026-09-26T13:03:59.928485+00:00"
+}

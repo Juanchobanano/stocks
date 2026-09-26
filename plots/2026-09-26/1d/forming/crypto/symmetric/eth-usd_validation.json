@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-Jun to Jul) shows a recovery from ~1580 low to a range roughly 1800-1950, followed by consolidation with fairly flat highs (~1950) and flat lows (~1830-1850). This looks more like a tight horizontal/rectangular consolidation than a converging triangle - the upper and lower boundaries are both roughly flat rather than sloping toward each other. There's no clear diagonal convergence (descending highs meeting rising lows); instead price has been trading sideways in a narrow band for the last few weeks after the sharp bounce off lows. This resembles a flag/range rather than a symmetric triangle apex formation.",
+  "validated_at": "2026-09-26T13:00:47.628918+00:00"
+}

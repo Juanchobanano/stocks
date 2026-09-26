@@ -1,0 +1,13 @@
+{
+  "symbol": "AMZN",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart shows a sharp rally from ~230 to ~285 followed by a pullback to ~272-280, not a converging triangle. There's no clear flat support with lower highs converging - instead we see a strong impulsive move up after a downtrend/consolidation (Jun-Jul range between 230-255), then a breakout rally in early Aug. The recent candles (last 5-6) show a spike up and modest retracement, which looks more like a post-breakout consolidation or minor pullback than a descending triangle. No clear two-touch flat support line or descending resistance line with multiple touches is visible near the right edge. The algorithm's flag appears to be a false positive, likely picking up on the earlier May-June consolidation range (255-270) which is now far to the left and disconnected from current price action.",
+  "validated_at": "2026-09-26T13:01:28.872401+00:00"
+}

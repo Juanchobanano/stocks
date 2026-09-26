@@ -1,0 +1,152 @@
+{
+  "symbol": "GDX",
+  "sector": "commodities",
+  "beta": 2.01,
+  "triangles": [
+    {
+      "pattern": "Symmetric",
+      "complete": true,
+      "direction": "SYMMETRIC",
+      "start": "2026-03-02",
+      "end": "2026-05-29",
+      "duration_days": 88,
+      "trade_levels": {
+        "direction": "SYMMETRIC",
+        "entry": 94.65,
+        "stop_loss": 83.74,
+        "take_profit_half": 114.66,
+        "take_profit_full": 134.66,
+        "height": 40.01,
+        "entry_short": 83.34,
+        "stop_loss_short": 94.25,
+        "take_profit_half_short": 63.33,
+        "take_profit_full_short": 43.32
+      },
+      "volume_trend": {
+        "slope": -267910.87,
+        "trend": "declining",
+        "r_squared": 0.1623
+      },
+      "points": {
+        "A": [
+          "2026-03-02",
+          117.18
+        ],
+        "B": [
+          "2026-03-20",
+          78.74
+        ],
+        "C": [
+          "2026-05-11",
+          98.74
+        ],
+        "D": [
+          "2026-05-19",
+          83.35
+        ],
+        "E": [
+          "2026-05-29",
+          90.36
+        ],
+        "F": [
+          "2026-05-29",
+          89.49
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-04-17",
+      "end": "2026-05-29",
+      "duration_days": 42,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 96.07,
+        "stop_loss": 81.86,
+        "take_profit_half": 103.48,
+        "take_profit_full": 110.89,
+        "height": 14.82
+      },
+      "volume_trend": {
+        "slope": 18829.92,
+        "trend": "flat",
+        "r_squared": 0.0006
+      },
+      "points": {
+        "A": [
+          "2026-04-17",
+          102.39
+        ],
+        "B": [
+          "2026-05-04",
+          85.46
+        ],
+        "C": [
+          "2026-05-11",
+          98.74
+        ],
+        "D": [
+          "2026-05-19",
+          83.35
+        ],
+        "E": [
+          "2026-05-29",
+          90.36
+        ],
+        "F": [
+          "2026-05-29",
+          89.49
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-05-29",
+      "end": "2026-07-06",
+      "duration_days": 38,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 90.01,
+        "stop_loss": 73.59,
+        "take_profit_half": 98.41,
+        "take_profit_full": 106.8,
+        "height": 16.79
+      },
+      "volume_trend": {
+        "slope": -48437.46,
+        "trend": "flat",
+        "r_squared": 0.0015
+      },
+      "points": {
+        "A": [
+          "2026-05-29",
+          90.36
+        ],
+        "B": [
+          "2026-06-10",
+          73.63
+        ],
+        "C": [
+          "2026-06-17",
+          89.99
+        ],
+        "D": [
+          "2026-06-24",
+          73.7
+        ],
+        "E": [
+          "2026-07-06",
+          80.18
+        ],
+        "F": [
+          "2026-07-06",
+          78.74
+        ]
+      }
+    }
+  ]
+}

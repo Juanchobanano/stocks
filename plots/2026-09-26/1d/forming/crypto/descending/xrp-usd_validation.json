@@ -1,0 +1,13 @@
+{
+  "symbol": "XRP-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "Since mid-May the price has been in a clear downtrend, dropping from ~1.5 to ~1.05, followed by a sideways consolidation from late June through August in a fairly narrow range (~1.0-1.2) without a clear converging structure. There's no obvious flat support with a descending resistance line converging toward it - the recent price action looks more like a rectangular consolidation/basing pattern than a descending triangle. Highs and lows in the last two months are roughly flat/choppy rather than showing a clean lower-highs trendline. I don't see 2+ credible touches forming a well-defined descending upper trendline converging with a flat support line, so I disagree with the algorithm's descending triangle call.",
+  "validated_at": "2026-09-26T13:00:52.726181+00:00"
+}

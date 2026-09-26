@@ -1,0 +1,13 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": null,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": null,
+  "presence_confidence": null,
+  "pattern_quality": null,
+  "validation_notes": "{\n  \"found_triangle\": true,\n  \"pattern_type\": \"Symmetric\",\n  \"direction\": \"SYMMETRIC\",\n  \"presence_confidence\": 55,\n  \"pattern_quality\": 45,\n  \"notes\": \"From late June to late July, price shows a mild compression: highs decline from ~83 (Jun 30) to ~78-79 (mid-Jul), while lows rise slightly from ~72 to ~73-74. The range is narrowing (roughly 73-83 down to 72-76), suggesting a loose symmetric convergence. However, the touches are somewhat noisy with only 2-3 clear points per side, and the last several candles are flattening into a tight sideways range rather than a sharp apex. This is a plausible but weak/late-stage triangle rather than a textbook pattern; price could already be near breakout given the tight recent compression at the right edge.\",\n}",
+  "validated_at": "2026-09-26T13:00:57.689173+00:00"
+}

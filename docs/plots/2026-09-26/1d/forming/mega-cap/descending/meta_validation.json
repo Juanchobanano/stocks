@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a choppy downtrend with lower highs (670 -> 650 -> 590) but the lows are also declining (600 -> 590 -> 525), not flat or rising. This is more consistent with a descending channel or continued downtrend rather than a descending triangle, which requires a flat/horizontal support line. There's no clear horizontal floor being repeatedly tested - the last candles actually show a sharp drop to ~525 followed by a bounce, breaking any prior support structure. I don't see convincing compression/convergence into an apex; volatility remains wide. I disagree with the algorithm's descending triangle flag due to lack of a flat support line.",
+  "validated_at": "2026-09-26T13:01:33.566015+00:00"
+}

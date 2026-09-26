@@ -1,0 +1,13 @@
+{
+  "symbol": "DOGE-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (roughly Jun 15 \u2013 Aug 04) shows a clear, consistent downtrend with lower highs and lower lows, flattening only slightly near the very end around 0.07. There is no rising support line - price has been making consistently lower lows since June, and the recent flattening near 0.07 is only 3-4 candles wide with minimal touches, not a well-defined horizontal support. This looks like a continued downtrend into a possible basing/consolidation zone rather than a descending triangle with a validated flat support line and converging lower-high resistance. I don't see the two converging trendlines required (a flat bottom plus a clearly descending top with multiple touches) - the recent price action is mostly sideways/choppy with small range, not a clean apex compression. I disagree with the algorithm's descending triangle (long) call because the setup lacks clear repeated touches on a flat support line and the overall trend context is bearish, not a basing pattern.",
+  "validated_at": "2026-09-26T13:01:04.091927+00:00"
+}
