@@ -1,0 +1,13 @@
+{
+  "symbol": "DOGE-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart shows a strong sustained downtrend from June through early August, with price falling from ~0.09 to ~0.07 in a steady stairstep decline, followed by a flat consolidation around 0.07 with very tight, low-volatility candles. There's no clear rising support line contacting multiple higher lows against a flat resistance - instead price simply flattened out at the bottom after a downtrend. This looks more like a bottoming/consolidation zone or flag rather than a descending triangle with a proper converging upper trendline of lower highs. Volume is also declining steadily, consistent with consolidation rather than a defined triangle squeeze. I don't see two distinct converging trendlines with multiple touches - the 'highs' in the last few weeks are essentially flat, not descending, contradicting the descending triangle upper boundary requirement. This appears to be a flat-bottom consolidation, not a credible descending triangle setup for a LONG breakout.",
+  "validated_at": "2026-09-27T13:51:59.337447+00:00"
+}

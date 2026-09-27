@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp V-shaped reversal: price plunged from ~18 to ~15 in early Aug, then spiked back up to ~18.7 within just a few candles. This is a rapid impulsive move, not a converging consolidation. There's no evidence of a flat support line with lower highs converging toward it - only two candles exist after the low, which is insufficient to establish either a resistance or support trendline with multiple touches. The algorithm likely mistook the choppy price action from June-July (which oscillated between ~17-19.5) as a descending triangle, but that range was more of a broad consolidation/channel than a clean converging pattern, and it has already been invalidated by the sharp breakdown and V-reversal at the far right edge. No credible triangle structure is currently forming.",
+  "validated_at": "2026-09-27T13:52:48.280567+00:00"
+}

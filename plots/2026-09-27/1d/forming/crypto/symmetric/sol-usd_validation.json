@@ -1,0 +1,29 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": true,
+  "claude_pattern": "Symmetric",
+  "claude_direction": "SYMMETRIC",
+  "pattern_agree": true,
+  "presence_confidence": 55,
+  "pattern_quality": 45,
+  "validation_notes": "From late June through late July, price shows some compression: highs decline from ~83 (late June) to ~78 (mid-July) to ~74-75 (late July), while lows rise slightly from ~70-72 (early July) toward ~72-73 (late July). This gives a mild converging structure with roughly 3 touches on the upper side and 2-3 on the lower side. However, the range is fairly narrow and choppy rather than a crisp wedge, and the most recent candles look like they're consolidating near the apex/support (~73-74) without a clear breakout yet. It's a plausible but low-quality symmetric triangle rather than a textbook one \u2014 could also just be range-bound consolidation.",
+  "validated_at": "2026-09-27T13:51:45.782025+00:00",
+  "symbol_research": "Solana (SOL) is a high-throughput layer-1 blockchain used for DeFi, NFTs, and payments, competing with Ethereum on speed/cost. It has seen strong developer activity and periodic network outages historically, with price highly correlated to broader crypto liquidity cycles and BTC/ETH trends.",
+  "market_sentiment": "neutral",
+  "supporting_signals": [
+    "Symmetric triangle shows contracting volatility, often preceding a decisive breakout",
+    "Defined risk/reward with stop below recent support and staged TP targets offering favorable R:R (~2.7:1 to first target)",
+    "Crypto market structure often respects technical patterns due to high retail/algo participation",
+    "SOL has historically shown strong momentum moves once range compression resolves"
+  ],
+  "opposing_signals": [
+    "Symmetric triangles have no directional bias, so entry timing/direction confirmation is critical to avoid false breakout",
+    "Crypto markets remain highly correlated to BTC macro trend and liquidity conditions, which can override technical patterns",
+    "Wide stop distance (~10% below entry) increases risk sizing complexity in volatile asset",
+    "Pattern breakout could be a whipsaw in low-volume conditions typical of triangle apex fakeouts"
+  ],
+  "recommendation": "monitor",
+  "research_confidence": 55
+}

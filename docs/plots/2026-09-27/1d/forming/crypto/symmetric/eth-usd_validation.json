@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (Jul 14 onward) shows price consolidating in a tight, roughly flat range between ~1830 and ~1950, not a converging triangle. There's no clear narrowing structure - highs and lows are both fairly flat/parallel rather than converging toward an apex. This looks more like a flat consolidation/rectangle after a strong bounce from the ~1550 lows in June, rather than a symmetric triangle. The algorithm's flag is likely a false positive - there aren't clear diverging or well-defined trendlines converging to a point; price action is choppy and range-bound with similar highs and lows repeating rather than compressing progressively.",
+  "validated_at": "2026-09-27T13:51:35.968206+00:00"
+}

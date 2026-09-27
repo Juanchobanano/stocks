@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad downtrend from late May peak (~84.5) down to late July lows (~78.7), then a sharp breakout gap up in early August to ~84-85 with a small pullback. There's no clear convergence between an upper resistance line and a flat lower support line - the price action from late May to July is a general decline with lower highs and lower lows, not compression into an apex. The recent move is a strong impulsive breakout candle followed by minor consolidation (3-4 candles), which is too little price action to confirm a triangle structure. This looks more like a sharp reversal/breakout after a downtrend rather than a triangle pattern forming. The algorithm may have misread the descending highs from May-July as a triangle leg, but there's no corresponding flat/rising support line to complete the pattern - lows kept dropping until early August.",
+  "validated_at": "2026-09-27T13:52:54.363162+00:00"
+}

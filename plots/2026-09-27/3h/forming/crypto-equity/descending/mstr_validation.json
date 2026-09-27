@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 65,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-late July to Aug) shows a choppy sideways range roughly between 92-100, but there's no clear convergence \u2014 highs and lows are both oscillating within a fairly constant band rather than compressing toward an apex. There's no consistent flat support line or descending resistance line with multiple clean touches; price action looks more like range-bound consolidation/noise than a descending triangle. The algorithm likely mistook the general downtrend from mid-June combined with recent chop as a descending triangle, but the recent candles (late July-Aug) actually show slightly higher lows and higher highs, which contradicts a descending triangle structure. I don't see a credible triangle forming near the right edge.",
+  "validated_at": "2026-09-27T13:53:57.659317+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a downtrend from late April into mid-June, then a period of consolidation/base-building around 4.3-5.0 from mid-June through late July, followed by a sharp breakout gap-up in early August. There's no clear descending resistance line with lower highs converging on a flat support - the mid-June to July period looks more like a rounded/flat base than a triangle. Price already broke out sharply upward (large green candle around Aug 1) before the current small red candles, so any compression pattern would already be resolved/broken, not currently forming. The algorithm's descending triangle call doesn't hold up since the recent price action shows an impulsive breakout followed by minor pullback, not price still contained within converging trendlines near an apex.",
+  "validated_at": "2026-09-27T13:52:35.460447+00:00"
+}

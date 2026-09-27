@@ -1,0 +1,13 @@
+{
+  "symbol": "NEM",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a clear V-shaped decline from ~112 in mid-June down to a low near 89-90 around Jul 17-19, followed by a steady recovery/uptrend into early August reaching ~105. There's no compression or converging trendlines visible at the right edge - instead price is trending upward in a fairly linear fashion with normal pullbacks. The algorithm's 'descending triangle' call doesn't hold up: there's no flat support line with lower highs converging into it. Recent candles (late July into August) show higher lows and higher highs, more consistent with an uptrend continuation than a triangle consolidation. No credible two-line convergence pattern is visible near the right edge.",
+  "validated_at": "2026-09-27T13:54:54.569642+00:00"
+}

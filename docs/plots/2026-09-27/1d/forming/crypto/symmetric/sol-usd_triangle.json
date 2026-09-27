@@ -1,0 +1,58 @@
+{
+  "symbol": "SOL-USD",
+  "sector": "crypto",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Symmetric",
+      "complete": false,
+      "direction": "SYMMETRIC",
+      "start": "2026-05-11",
+      "end": "2026-07-17",
+      "duration_days": 67,
+      "trade_levels": {
+        "direction": "SYMMETRIC",
+        "entry": 81.25,
+        "stop_loss": 72.94,
+        "take_profit_half": 104.29,
+        "take_profit_full": 127.34,
+        "height": 46.09,
+        "entry_short": 72.48,
+        "stop_loss_short": 80.79,
+        "take_profit_half_short": 49.44,
+        "take_profit_full_short": 26.39
+      },
+      "volume_trend": {
+        "slope": -31004130.56,
+        "trend": "declining",
+        "r_squared": 0.3282
+      },
+      "points": {
+        "A": [
+          "2026-05-11",
+          98.2667
+        ],
+        "B": [
+          "2026-06-06",
+          60.4147
+        ],
+        "C": [
+          "2026-07-04",
+          83.8089
+        ],
+        "D": [
+          "2026-07-17",
+          73.4017
+        ],
+        "E": [
+          "2026-07-17",
+          73.4017
+        ],
+        "F": [
+          "2026-07-17",
+          75.0116
+        ]
+      }
+    }
+  ]
+}
