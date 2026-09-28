@@ -1,0 +1,30 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": true,
+  "claude_pattern": "Symmetric",
+  "claude_direction": "SYMMETRIC",
+  "pattern_agree": true,
+  "presence_confidence": 55,
+  "pattern_quality": 40,
+  "validation_notes": "From late June to late July, price declines from a high near 83 to a range around 72-78, with lower highs (83, 78, 77, 75) and a relatively flat/slightly rising lower boundary (72-74). This creates a mild converging wedge near the right edge, but the range is narrow and choppy rather than a crisp textbook triangle - touches are approximate and volume is low/declining, consistent with compression. However, the pattern is closer to a tight consolidation/rectangle than a strong symmetric triangle, so confidence is moderate. Price currently sits near the middle of the range, not clearly broken out yet.",
+  "validated_at": "2026-09-28T16:46:37.085681+00:00",
+  "symbol_research": "SOL-USD is Solana, a high-throughput layer-1 blockchain supporting smart contracts, DeFi, and NFTs. Known for fast/cheap transactions but historically criticized for network outages. Price action is highly correlated with broader crypto market cycles (BTC/ETH beta) and sensitive to network upgrade news, validator activity, and institutional adoption headlines (e.g., ETF speculation).",
+  "market_sentiment": "neutral",
+  "supporting_signals": [
+    "Symmetric triangle reflects a genuine volatility contraction, often preceding a strong breakout in either direction",
+    "Defined entry/stop/target levels provide clear risk-reward structure (~R:R > 2.5:1 to first target)",
+    "Crypto assets like SOL tend to have sharp, momentum-driven breakouts once triangles resolve, benefiting a breakout-agnostic strategy",
+    "Multiple TP levels allow for scaling out and capturing extended moves if volatility expansion is significant"
+  ],
+  "opposing_signals": [
+    "Symmetric triangles have no inherent directional bias, making a 'symmetric' trade essentially a bet on volatility expansion without informational edge on direction",
+    "Crypto markets are prone to false breakouts and stop hunts, especially in high-leverage retail-dominated assets like SOL",
+    "No fundamental catalyst identified (e.g., protocol upgrade, macro event) to justify imminent breakout timing",
+    "Pattern confirmed only via visual inspection, which introduces subjectivity and lacks quantitative validation (e.g., volume confirmation, trendline slope symmetry)",
+    "Wide stop distance (~10% from entry) increases risk exposure if the position is not directionally hedged or if using options/straddle structure"
+  ],
+  "recommendation": "monitor",
+  "research_confidence": 48
+}

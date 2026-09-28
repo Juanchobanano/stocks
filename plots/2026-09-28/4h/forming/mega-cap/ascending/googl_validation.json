@@ -1,0 +1,13 @@
+{
+  "symbol": "GOOGL",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The right side shows a strong uptrend from ~320 to a peak of ~382, followed by a sharp pullback to ~357-365 over the last few candles. There's no evidence of converging trendlines or compression - instead this looks like a strong impulsive rally followed by a corrective pullback. There are not two clear touch points forming a rising support line and a flat/declining resistance line; the 'highs' near 375-382 are simply the peak of the rally, not a resistance being tested multiple times. The recent decline also doesn't show consolidation between narrowing boundaries. This appears to be a post-rally pullback/reversal rather than an ascending triangle, so I disagree with the algorithm's flag.",
+  "validated_at": "2026-09-28T16:49:50.460794+00:00"
+}

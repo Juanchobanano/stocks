@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad decline from ~85 (late May) to ~79 (late July), followed by a sharp gap-up breakout to ~84 in early August with a large green candle and elevated volume. There's no clear converging structure with two trendlines meeting at an apex \u2014 instead price trended down steadily then broke out abruptly. The recent 3-4 candles near the right edge show minor consolidation around 83-84, but this is too short and lacks the multiple touch points needed to confirm a descending triangle. The algorithm likely mistook the downtrend into late July as a descending triangle, but there's no flat support line being repeatedly tested - lows kept declining without a clear floor. This looks like a completed downtrend followed by a breakout, not an active triangle formation.",
+  "validated_at": "2026-09-28T16:47:55.630108+00:00"
+}

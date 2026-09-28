@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a choppy trading range roughly between 585-690 with no clear convergence. Price made a low around 525-540 in late July, bounced to ~635, then pulled back to ~585-600 - this looks like volatile consolidation/whipsaw rather than a clean descending triangle. There's no consistent flat support line (lows vary from 525 to 600) nor a clearly defined descending resistance line with multiple touches. The algorithm may be picking up on the general downward drift of highs from ~690 to ~630, but the lower boundary is not flat/level - it's actually more volatile with a sharp spike down to 525. This looks more like range-bound noise or a falling wedge attempt without clean touch points, so I don't see credible triangle containment forming near the apex.",
+  "validated_at": "2026-09-28T16:47:27.432488+00:00"
+}

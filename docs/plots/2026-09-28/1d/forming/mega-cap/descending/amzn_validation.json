@@ -1,0 +1,13 @@
+{
+  "symbol": "AMZN",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad rounded decline from late April into late June (roughly 280 down to 228), then a recovery back to ~270-280 by early August, followed by a sharp pullback in the last 4-5 candles (280 -> 273). This is not a triangle - there's no clear consolidation with converging trendlines near the right edge. Instead the last segment looks like a sharp spike up followed by a small pullback/retracement, i.e. a potential flag or just profit-taking after a rally. There are only 2-3 candles at the recent highs, not enough touches to define a flat resistance or rising support line. The algorithm's 'descending triangle' label doesn't fit since there's no flat support - price action at the right edge is a retracement from a rally, not a basing/compression pattern. I don't see two clearly converging trendlines with multiple touches, so I reject the triangle call.",
+  "validated_at": "2026-09-28T16:47:20.782659+00:00"
+}

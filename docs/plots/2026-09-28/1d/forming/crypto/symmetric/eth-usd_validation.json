@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late June through July) shows price recovering from ~1600 lows and consolidating in a fairly flat, choppy range between roughly 1800 and 1950, not a converging wedge. Highs and lows are roughly parallel/flat rather than forming clear convergent trendlines. There's no visible narrowing toward an apex - it looks more like a sideways consolidation/base after a downtrend. I don't see 2+ clean touches on both upper and lower boundaries that are clearly converging; the range is roughly constant width. This doesn't meet the criteria for a credible triangle pattern, so I disagree with the algorithm's symmetric triangle flag.",
+  "validated_at": "2026-09-28T16:46:24.233697+00:00"
+}

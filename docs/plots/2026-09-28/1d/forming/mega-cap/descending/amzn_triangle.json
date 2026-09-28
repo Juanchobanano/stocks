@@ -1,0 +1,54 @@
+{
+  "symbol": "AMZN",
+  "sector": "mega-cap",
+  "beta": 1.37,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": false,
+      "direction": "LONG",
+      "start": "2026-05-29",
+      "end": "2026-07-29",
+      "duration_days": 61,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 254.39,
+        "stop_loss": 225.66,
+        "take_profit_half": 279.22,
+        "take_profit_full": 304.06,
+        "height": 49.68
+      },
+      "volume_trend": {
+        "slope": -384192.51,
+        "trend": "declining",
+        "r_squared": 0.0193
+      },
+      "points": {
+        "A": [
+          "2026-05-29",
+          274.75
+        ],
+        "B": [
+          "2026-06-25",
+          225.55
+        ],
+        "C": [
+          "2026-07-16",
+          258.08
+        ],
+        "D": [
+          "2026-07-29",
+          226.16
+        ],
+        "E": [
+          "2026-07-29",
+          226.16
+        ],
+        "F": [
+          "2026-07-29",
+          226.65
+        ]
+      }
+    }
+  ]
+}

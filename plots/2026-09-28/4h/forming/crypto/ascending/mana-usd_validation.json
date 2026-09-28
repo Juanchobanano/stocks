@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows price consolidating in a tight, roughly flat range between ~0.0655 and ~0.0685 with no clear rising lower support line - lows are essentially flat/choppy rather than forming higher lows. The overall structure since mid-July is a descending staircase (0.0750 -> 0.0700 -> 0.0675) followed by flat consolidation, not a converging ascending triangle. There's no consistent series of higher lows meeting a flat resistance; instead price is oscillating sideways with similar-sized wicks on both sides, more like a range/minor channel than a compressing triangle. I don't see the apex convergence needed to validate the algorithm's ascending triangle call, and no clean breakout structure is visible either.",
+  "validated_at": "2026-09-28T16:49:40.672886+00:00"
+}

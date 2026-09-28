@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp decline into late July (drop to ~15) followed by a strong V-shaped reversal and rally to ~18.5, with a pullback. This is a sharp reversal/spike pattern, not a converging triangle. There's no clear flat support or descending resistance line with multiple touchpoints forming a compression structure - instead we see a volume spike (capitulation) followed by immediate strong bullish recovery. The prior months show broad choppy swings (Mar-Jul) but no consistent narrowing range near the right edge. I disagree with the algorithm's descending triangle flag; the recent price action looks more like a V-bottom reversal than triangle consolidation.",
+  "validated_at": "2026-09-28T16:47:49.977075+00:00"
+}
