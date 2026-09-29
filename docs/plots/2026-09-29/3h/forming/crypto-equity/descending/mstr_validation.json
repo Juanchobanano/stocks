@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "From mid-July onward price is oscillating in a fairly flat range roughly between 90-92 support and 98-103 resistance, without clear convergence - highs and lows are not consistently narrowing toward an apex. The last few candles (Aug 1-6) show a slight bounce off ~93 into ~97-99, which looks more like range-bound consolidation/channel than a descending triangle. A descending triangle requires flat support with clearly lower highs; here the highs (100, 102, 103, 100, 98) don't show a consistent declining sequence, and lows (94, 91, 93, 94, 89, 94) aren't perfectly flat either. This looks more like sideways chop after the June selloff/recovery rather than a credible converging triangle near the apex.",
+  "validated_at": "2026-09-29T14:54:31.821346+00:00"
+}

@@ -1,0 +1,58 @@
+{
+  "symbol": "BA",
+  "sector": "industrials",
+  "beta": 1.26,
+  "triangles": [
+    {
+      "pattern": "Symmetric",
+      "complete": true,
+      "direction": "SYMMETRIC",
+      "start": "2026-02-10",
+      "end": "2026-05-29",
+      "duration_days": 108,
+      "trade_levels": {
+        "direction": "SYMMETRIC",
+        "entry": 245.19,
+        "stop_loss": 218.41,
+        "take_profit_half": 287.64,
+        "take_profit_full": 330.1,
+        "height": 84.92,
+        "entry_short": 217.56,
+        "stop_loss_short": 244.34,
+        "take_profit_half_short": 175.1,
+        "take_profit_full_short": 132.64
+      },
+      "volume_trend": {
+        "slope": 14053.74,
+        "trend": "flat",
+        "r_squared": 0.0148
+      },
+      "points": {
+        "A": [
+          "2026-02-10",
+          247.86
+        ],
+        "B": [
+          "2026-03-30",
+          187.72
+        ],
+        "C": [
+          "2026-05-14",
+          244.07
+        ],
+        "D": [
+          "2026-05-19",
+          214.0
+        ],
+        "E": [
+          "2026-05-29",
+          232.3
+        ],
+        "F": [
+          "2026-05-29",
+          231.15
+        ]
+      }
+    }
+  ]
+}

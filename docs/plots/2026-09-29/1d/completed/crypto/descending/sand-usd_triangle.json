@@ -1,0 +1,101 @@
+{
+  "symbol": "SAND-USD",
+  "sector": "crypto",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Ascending",
+      "complete": true,
+      "direction": "SHORT",
+      "start": "2026-02-15",
+      "end": "2026-03-18",
+      "duration_days": 31,
+      "trade_levels": {
+        "direction": "SHORT",
+        "entry": 0.08,
+        "stop_loss": 0.09,
+        "take_profit_half": 0.07,
+        "take_profit_full": 0.06,
+        "height": 0.02
+      },
+      "volume_trend": {
+        "slope": -157714.91,
+        "trend": "declining",
+        "r_squared": 0.0461
+      },
+      "points": {
+        "A": [
+          "2026-02-15",
+          0.0933
+        ],
+        "B": [
+          "2026-02-23",
+          0.0769
+        ],
+        "C": [
+          "2026-02-25",
+          0.0932
+        ],
+        "D": [
+          "2026-03-08",
+          0.0771
+        ],
+        "E": [
+          "2026-03-18",
+          0.0911
+        ],
+        "F": [
+          "2026-03-18",
+          0.084
+        ]
+      }
+    },
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-02-25",
+      "end": "2026-05-10",
+      "duration_days": 74,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 0.08,
+        "stop_loss": 0.07,
+        "take_profit_half": 0.1,
+        "take_profit_full": 0.11,
+        "height": 0.02
+      },
+      "volume_trend": {
+        "slope": 275535.54,
+        "trend": "rising",
+        "r_squared": 0.1405
+      },
+      "points": {
+        "A": [
+          "2026-02-25",
+          0.0932
+        ],
+        "B": [
+          "2026-03-29",
+          0.0711
+        ],
+        "C": [
+          "2026-04-25",
+          0.0863
+        ],
+        "D": [
+          "2026-05-02",
+          0.0711
+        ],
+        "E": [
+          "2026-05-10",
+          0.085
+        ],
+        "F": [
+          "2026-05-10",
+          0.0834
+        ]
+      }
+    }
+  ]
+}

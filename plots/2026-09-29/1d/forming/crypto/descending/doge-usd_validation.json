@@ -1,0 +1,13 @@
+{
+  "symbol": "DOGE-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-June through August) shows price flattening out around 0.07-0.075 after a sustained downtrend, but this looks more like a consolidation/basing pattern than a descending triangle. There's no clear descending upper trendline connecting lower highs - the recent candles from late June onward are essentially trading sideways in a tight range with roughly flat highs and flat lows, not a converging wedge. The algorithm may be picking up the prior downtrend (Jun 15-Jul 10) as the 'descending' upper boundary, but that trendline doesn't extend meaningfully into the current flat consolidation period. There's insufficient evidence of two converging trendlines with multiple touch points - it's more a flat range/basing pattern at the bottom of a downtrend, which could precede a reversal but isn't a clean triangle structure.",
+  "validated_at": "2026-09-29T14:50:42.896035+00:00"
+}

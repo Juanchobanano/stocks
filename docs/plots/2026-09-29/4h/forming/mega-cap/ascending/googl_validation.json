@@ -1,0 +1,13 @@
+{
+  "symbol": "GOOGL",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a strong uptrend from ~320 to a peak near 382, followed by a sharp pullback to ~357-365 over the last few candles. There's no evidence of a converging price structure with rising lows against a flat/falling resistance - instead there's one clear impulsive rally and then a sharp reversal/pullback. This looks more like a spike top and retracement than a triangle consolidation. The algorithm's 'ascending triangle' call doesn't hold up - there aren't multiple touches on a flat resistance line, and the recent price action after the peak looks like a breakdown/correction rather than compression toward an apex. No credible triangle pattern is forming near the right edge.",
+  "validated_at": "2026-09-29T14:55:39.029154+00:00"
+}

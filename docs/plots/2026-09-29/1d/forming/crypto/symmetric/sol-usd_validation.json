@@ -1,0 +1,13 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-July to end) shows price oscillating in a fairly narrow, flat range between roughly 72-79, but there's no clear convergence - both the highs and lows are roughly flat/horizontal rather than converging toward an apex. This looks more like a tight consolidation/rectangle than a symmetric triangle, since a symmetric pattern requires descending highs AND ascending lows meeting at a point. Touch points on top (~78-79) are fairly level across late July, and lows (~72-74) are also fairly level, not rising. There's no visible apex forming. I disagree with the algorithm's symmetric triangle call - this is better described as sideways consolidation/range-bound price action after the June-July down-up move, not a converging triangle.",
+  "validated_at": "2026-09-29T14:50:32.344111+00:00"
+}

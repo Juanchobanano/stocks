@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "Since late June, ETH has been in a mild uptrend, bouncing from ~1550 to ~1900-1950 and then consolidating in a fairly tight sideways range (roughly 1830-1950) with no clear convergence between highs and lows. The recent price action looks more like a flat/rectangular consolidation than a converging triangle \u2014 highs are roughly flat around 1920-1950 and lows are roughly flat around 1830-1870, not narrowing toward an apex. There's no strong evidence of two converging trendlines; it's more of a sideways channel after a sharp recovery rally. I don't see the compression required for a credible symmetric triangle at the right edge.",
+  "validated_at": "2026-09-29T14:50:12.748625+00:00"
+}

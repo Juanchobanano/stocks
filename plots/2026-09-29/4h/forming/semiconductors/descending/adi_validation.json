@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a strong downtrend from late June (~440) to early August (~355), followed by a modest bounce into early August with a few small-bodied candles around 375-385. This looks more like a downtrend flattening into a minor consolidation/basing zone rather than a descending triangle. There's no clear flat support line with repeated tests at the same level, nor a well-defined series of lower highs converging toward it - the recent price action (last ~8-10 candles) is choppy and range-bound (roughly 370-385) without a clean converging structure. Only 2 ambiguous touches on either side, not enough to confirm a credible triangle. The algorithm may be reacting to the general downward slope of highs during the decline, but the right-edge structure lacks the compression and touch-point clarity needed for a valid descending triangle call.",
+  "validated_at": "2026-09-29T14:55:51.421389+00:00"
+}

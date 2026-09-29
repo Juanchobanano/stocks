@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a downtrend from late April through late June, followed by a basing/consolidation period around 4.4-4.9 from late June to early August, then a sharp volume-driven breakout candle to ~5.8 on Aug 3 followed by pullback candles. There is no clear converging triangle structure near the right edge - the last few candles show a strong upward gap/breakout and subsequent retracement, not a compression pattern with defined flat support and descending resistance. The algorithm likely mistook the prior flat consolidation (Jun 18-Aug 1) for a descending triangle, but highs in that range were mostly flat/choppy rather than a clear series of lower highs, and the pattern already resolved with a breakout candle before the current price action, so there's no triangle 'still forming' at the right edge now.",
+  "validated_at": "2026-09-29T14:51:51.749202+00:00"
+}
