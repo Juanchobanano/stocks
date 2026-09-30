@@ -1,0 +1,28 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": true,
+  "claude_pattern": "Descending",
+  "claude_direction": "SHORT",
+  "pattern_agree": false,
+  "presence_confidence": 60,
+  "pattern_quality": 45,
+  "validation_notes": "In the last ~4 weeks of the chart (mid-July to end), price highs are stepping down (~79 -> 77 -> 75 -> 74) while the lows are holding a fairly flat floor around 71-73. This looks more like a descending triangle (flat support, falling resistance) than a true symmetric wedge, since the lower boundary isn't clearly rising - it's roughly horizontal. There are at least 3 touches on the upper declining line and 3-4 touches on the flat lower support, so the compression is real, but the lower trendline doesn't show the rising-low structure needed for a symmetric or ascending pattern. Price is still contained within the range near the apex, so the pattern is unresolved rather than broken out. I'd relabel the algorithm's 'Symmetric' call as 'Descending' based on the flatness of the support line, though the overall convergence/compression observation is valid.",
+  "validated_at": "2026-09-30T14:54:34.281966+00:00",
+  "symbol_research": "SOL (Solana) is a high-throughput L1 blockchain competing with Ethereum for DeFi/NFT activity. Price action is highly correlated with BTC/ETH beta and broader crypto risk sentiment, with additional idiosyncratic sensitivity to network outages, validator/staking news, and ecosystem TVL trends.",
+  "market_sentiment": "neutral",
+  "supporting_signals": [
+    "Descending triangle is classically a bearish continuation pattern when confirmed with volume on breakdown",
+    "Crypto assets like SOL exhibit high volatility, allowing quick move to downside targets if support breaks",
+    "Pattern was independently confirmed by visual inspection, reducing false-positive risk"
+  ],
+  "opposing_signals": [
+    "CRITICAL: Trade structure is inverted for a SHORT \u2014 both TP targets (104.29, 127.34) are ABOVE entry (81.25), and stop (72.94) is BELOW entry. This is the opposite of correct SHORT risk/reward structure (stop should be above entry, targets below).",
+    "As specified, this trade setup would only make sense for a LONG position, not a SHORT \u2014 high risk of directional/labeling error",
+    "Descending triangles can also resolve bullish (~25-30% of cases per classical TA studies), especially in strong-trend crypto markets",
+    "No volume, momentum, or macro/BTC correlation data provided to confirm breakdown conviction"
+  ],
+  "recommendation": "avoid",
+  "research_confidence": 15
+}

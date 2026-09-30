@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "From mid-July through early August, price is trading in a fairly tight horizontal range between roughly 92-93 support and 99-100 resistance, with no clear convergence. The highs are not forming a consistent descending line (e.g., Jul 20-22 pushed to ~102-103, higher than earlier July highs), and the lows are not tightening toward an apex - they bounce around 92-96 without a clean flat support line. This looks more like a horizontal consolidation/range than a descending triangle, since a descending triangle requires clearly lower highs converging into a flat support. I don't see enough compression or a well-defined descending upper trendline to confirm the algorithm's flag.",
+  "validated_at": "2026-09-30T14:57:42.271955+00:00"
+}

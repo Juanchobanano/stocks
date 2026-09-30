@@ -1,0 +1,13 @@
+{
+  "symbol": "SNAP",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad decline from ~6.3 in early May down to a base around 4.3-4.5 in late June/July, followed by consolidation and then a sharp breakout with a large green candle to ~5.0 and continuation to ~5.8 in early August. There's no clear descending resistance line with lower highs converging into a flat support - instead the price already bottomed, based, and broke out strongly on high volume. The recent price action (last 5-6 candles) shows a pullback after the breakout, not a compressing triangle. This looks like a completed base/breakout pattern rather than a forming descending triangle.",
+  "validated_at": "2026-09-30T14:55:37.514487+00:00"
+}

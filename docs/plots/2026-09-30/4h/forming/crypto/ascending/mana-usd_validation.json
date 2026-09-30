@@ -1,0 +1,13 @@
+{
+  "symbol": "MANA-USD",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late Jul into early Aug) shows a choppy, range-bound consolidation between roughly 0.0650 and 0.0680, with no clear convergence of highs and lows. Highs are not descending in a consistent line, and lows are not rising in a consistent line - they're both roughly flat/oscillating sideways, which looks more like a rectangle/range than an ascending triangle. There's no clear apex forming or narrowing of the price range near the right edge. I disagree with the algorithm's ascending triangle flag - there isn't a distinct rising support line with 2-3 clean higher-low touch points contrasted against a flat resistance; instead price is just chopping sideways in a loose band.",
+  "validated_at": "2026-09-30T14:58:20.836961+00:00"
+}

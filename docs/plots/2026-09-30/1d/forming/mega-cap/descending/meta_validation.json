@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a volatile, choppy range between roughly 590 and 690 with no clear convergence. Highs are irregular (650, 685, 645, 660, 685, 625) not forming a clean descending line, and lows bounce sharply (600, 590, 630, 560, 525, 555) without a consistent flat support level. This looks more like a wide trading range/consolidation with a sharp downside spike than a compressing descending triangle. The algorithm's flag doesn't hold up - there's no tightening range visible near the apex, and volume spikes suggest continued volatility rather than a breakout setup.",
+  "validated_at": "2026-09-30T14:55:23.717637+00:00"
+}

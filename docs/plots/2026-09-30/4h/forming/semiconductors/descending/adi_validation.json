@@ -1,0 +1,13 @@
+{
+  "symbol": "ADI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a strong downtrend from late June (~440) into early August (~355), followed by a small basing/consolidation near 360-385 at the right edge. There isn't a clear descending triangle structure: the lows from mid-July to early August (390, 385, 375, 355, 362) are not flat/level as required for a descending triangle's support line, and the highs (400, 395, 385, 380) don't show a consistent well-defined resistance line with multiple clean touches. The recent price action (last ~8 candles) looks more like a small rounding bottom or minor consolidation than a converging triangle - there's no clear apex formation with two converging trendlines. Price also isn't showing higher lows or lower highs in a wedge-like convergence pattern with sufficient touch points on both sides. This looks more like a downtrend that is now flattening out/stabilizing rather than a distinct triangle pattern forming near the right edge.",
+  "validated_at": "2026-09-30T14:58:40.362527+00:00"
+}

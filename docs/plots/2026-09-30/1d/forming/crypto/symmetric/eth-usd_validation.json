@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "At the right edge (mid-June through late July), price shows a downtrend into ~1550-1600 low, then a recovery rally, followed by a sideways consolidation between roughly 1830-1960 with no clear convergence \u2014 highs and lows are relatively flat and parallel rather than narrowing into an apex. This looks more like a flat consolidation/range than a converging symmetric triangle. There isn't a clear series of lower highs and higher lows compressing toward a point; the recent candles (Jul 14 onward) oscillate in a fairly constant band. I don't see strong evidence of a genuine triangle formation near the right edge \u2014 it's more consistent with range-bound price action after a sharp reversal.",
+  "validated_at": "2026-09-30T14:54:17.190971+00:00"
+}

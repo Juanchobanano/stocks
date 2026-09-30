@@ -1,0 +1,13 @@
+{
+  "symbol": "SPCE",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 65,
+  "pattern_quality": null,
+  "validation_notes": "Price shows a strong downtrend from early June into mid-July, then flattens into a low-volatility consolidation from mid-July through early August around 2.5-3.0. In the recent consolidation, both support (~2.5) and resistance (~2.9-3.0) appear roughly flat/parallel rather than converging - this looks more like a basing/range-bound structure or slight ascending drift than a descending triangle with a clearly falling upper trendline. There isn't a clear series of lower highs compressing into an apex; the last few candles (~Aug 1-5) actually show a breakout upward to ~2.9-3.0 with reduced volume, suggesting price already left the range rather than still compressing toward an apex. I don't see convincing two-plus touch descending resistance line with a flat support - the pattern is closer to a flat/rounded bottom or minor channel than a textbook descending triangle.",
+  "validated_at": "2026-09-30T14:58:52.737296+00:00"
+}

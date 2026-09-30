@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 82,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart shows a sharp gap-up breakout from ~80 to a peak near 85, followed by only 2-3 candles of consolidation (83-84.5 range). This is not a converging triangle structure - there's no clear descending resistance line with multiple lower highs, nor a flat support base with repeated touches. Rather than compressing into an apex, price just made a large impulsive move up and is now pulling back slightly. There simply aren't enough touch points on either side to define two converging trendlines; the algorithm likely mistook the brief pullback after the breakout candle for a descending triangle top, but there's no established base/support structure preceding it with multiple tests. The broader chart pattern (Apr-Aug) resembles a rounded top/decline into a base, but the recent price action is a breakout, not a pre-breakout triangle.",
+  "validated_at": "2026-09-30T14:56:00.758357+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp decline into late July (dropping from ~18 to ~15) followed by a strong V-shaped recovery with a large volume spike, then a couple of candles consolidating around 18. This looks like a reversal/recovery move, not a converging triangle. There's no clear flat support with descending highs - instead there's a single deep low and a sharp bounce. Only 2-3 candles of consolidation at the very right edge is insufficient to confirm any triangle structure (need more touch points on both sides). The overall chart is choppy/range-bound (oscillating between ~15-20) over the full period, which could superficially resemble compression, but the immediate price action near the edge is dominated by an impulsive reversal rather than a controlled narrowing pattern. I disagree with the algorithm's descending triangle flag - there's no consistent lower support being tested multiple times, and the 'flat bottom' criterion isn't met given the sharp spike down and back up.",
+  "validated_at": "2026-09-30T14:55:52.695476+00:00"
+}

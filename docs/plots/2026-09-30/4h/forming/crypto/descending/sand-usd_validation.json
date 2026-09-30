@@ -1,0 +1,13 @@
+{
+  "symbol": "SAND-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "After the mid-chart spike (Jul 30), price has traded in a tight, roughly flat/sideways range between ~0.0405 and ~0.0435 with no clear convergence - both highs and lows are roughly flat rather than one line descending and the other flat. This looks more like a horizontal consolidation/rectangle than a descending triangle, since a descending triangle requires clearly lower highs compressing into a flat support. Highs here are not consistently declining (e.g., Aug 1-2 highs are similar to earlier ones), so the 'descending' resistance line is questionable. The overall structure since Jul 28 resembles range-bound chop rather than a converging apex, and there's no strong breakout signal either. I disagree with the algorithm's descending triangle call due to lack of a clear lower-high sequence.",
+  "validated_at": "2026-09-30T14:58:15.359009+00:00"
+}
