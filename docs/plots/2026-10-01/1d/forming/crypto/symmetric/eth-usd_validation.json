@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 72,
+  "presence_confidence": 75,
   "pattern_quality": null,
-  "validation_notes": "The right side of the chart (mid-June to late July) shows a recovery from the ~1550 low into a choppy, roughly flat consolidation range between ~1800 and ~1950. The highs and lows are not converging - price has been moving mostly sideways in a tight band rather than compressing into an apex. There's no clear descending upper trendline or rising lower trendline with consistent touch points forming a narrowing wedge. This looks more like a flat/rectangular consolidation after a sharp downtrend and recovery, not a symmetric triangle. The algorithm likely mistook general price compression (low volatility consolidation) for a triangle, but the trendlines don't show clear convergence toward an apex.",
-  "validated_at": "2026-10-01T15:24:28.885434+00:00"
+  "validation_notes": "The right side of the chart (mid-June through late July) shows a recovery from ~1600 lows to a consolidation around 1850-1950, but this is more of a flat, range-bound sideways channel than a converging triangle. Highs are roughly flat (~1950) and lows are roughly flat (~1830-1870), showing parallel-ish boundaries rather than clear convergence. There's no strong evidence of narrowing range or an apex forming - price has been oscillating in a tight horizontal band for the last several weeks without the progressively tightening highs/lows needed for a symmetric triangle. I don't see 3+ converging touch points on both sides that are clearly angling toward each other; it reads more like consolidation/basing after a downtrend than a triangle breakout setup.",
+  "validated_at": "2026-10-01T16:21:53.316487+00:00"
 }

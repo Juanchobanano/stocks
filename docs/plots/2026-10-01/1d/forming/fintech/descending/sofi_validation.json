@@ -8,6 +8,6 @@
   "pattern_agree": false,
   "presence_confidence": 75,
   "pattern_quality": null,
-  "validation_notes": "The right side of the chart shows a sharp drop to ~15 in late July followed by a strong V-shaped recovery back to ~18.5, not a converging triangle. There's no flat support line or descending resistance line with multiple touch points - instead it's an impulsive reversal move with a large volume spike at the low. Price action before that (Jun-Jul) shows a choppy range between ~17-19 but without clear convergence toward an apex. The algorithm's descending triangle flag doesn't hold up visually - there's no consistent flat bottom being tested multiple times near the current price, and the recent candles show expansion/breakout rather than compression. This looks more like range-bound consolidation followed by a V-reversal than a triangle.",
-  "validated_at": "2026-10-01T15:25:41.099154+00:00"
+  "validation_notes": "The right side of the chart shows a sharp drop to ~15 in late July followed by a strong V-shaped recovery back to ~18.5, which is an impulsive reversal move, not a converging consolidation. There's no clear flat support line or descending resistance line with multiple touches \u2014 just one low spike and a rapid rally. This looks more like a sharp dip-and-recovery than a triangle compression. The rest of the chart shows a broad choppy range (15-20) with repeated swings, but no consistent narrowing of highs and lows into an apex near the current price action. I disagree with the algorithm's descending triangle flag; there's insufficient evidence of a flat support combined with lower highs converging near the right edge.",
+  "validated_at": "2026-10-01T16:23:05.529764+00:00"
 }

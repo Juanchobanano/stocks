@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 82,
+  "presence_confidence": 80,
   "pattern_quality": null,
-  "validation_notes": "The chart shows a clear, persistent downtrend from ~7.2 to ~6.4 with lower highs and lower lows throughout, not a consolidating triangle. There is no flat or rising support line - lows keep stepping down (6.9->6.7->6.55->6.4) in roughly equal fashion to the falling highs, which is more consistent with a descending channel/trend than a converging descending triangle. A descending triangle requires a flat horizontal support base with repeated bounces at the same level, which is absent here; the support is also sloping down, not flat. Near the right edge, price is still declining with no sign of compression or basing - it just made a new low around 6.35-6.4 and is drifting sideways-to-down. This looks like trend continuation, not an apex-forming triangle, so I disagree with the algorithm's descending triangle (LONG) call.",
-  "validated_at": "2026-10-01T15:26:50.640820+00:00"
+  "validation_notes": "The chart shows a clear sustained downtrend from ~7.2 down to ~6.4-6.5, with lower highs and lower lows throughout, not a converging triangle. There is no flat or rising support line - lows keep declining (7.0 -> 6.85 -> 6.55 -> 6.4). The right edge shows continued consolidation around 6.4-6.6 with a slight downward drift, but no clear flat support with converging lower highs forming a descending triangle. This looks more like a continuation of a downtrend/channel than a well-defined descending triangle with a flat base. The algorithm's flag seems to be picking up on the recent sideways chop near the lows, but there isn't a well-defined flat support touched multiple times with clearly converging resistance.",
+  "validated_at": "2026-10-01T16:24:18.557363+00:00"
 }

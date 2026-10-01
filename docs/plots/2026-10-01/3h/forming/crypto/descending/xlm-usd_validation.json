@@ -8,6 +8,6 @@
   "pattern_agree": false,
   "presence_confidence": 85,
   "pattern_quality": null,
-  "validation_notes": "The chart shows a clear sustained downtrend with a series of lower highs and lower lows from early July through early August, not a converging triangle. There's no flat or rising support line near the right edge \u2014 price has been making consistently lower lows (0.18 -> 0.175 -> 0.17 -> 0.16) and lower highs, forming a descending staircase pattern rather than a triangle. Near the right edge, price is still declining with no visible compression or narrowing range; volatility and candle ranges remain fairly constant or even widen slightly, not converging toward an apex. There's no evidence of a rising support line with higher lows needed for an ascending triangle. I disagree with the algorithm's flag \u2014 this looks like a continuation downtrend/staircase pattern, not a triangle formation.",
-  "validated_at": "2026-10-01T15:26:23.893194+00:00"
+  "validation_notes": "The right side of the chart shows a clear, sustained downtrend with lower highs and lower lows in a fairly consistent downward channel, not a converging triangle. There's no flat or rising support line - price has been making progressively lower lows from ~0.18 down to ~0.16 without any clear ascending support structure. The algorithm's 'Ascending Triangle' flag doesn't match the visual structure; this looks like a descending price channel or simple downtrend continuation rather than a compressing triangle pattern. No clear convergence of upper and lower boundaries is visible near the apex (right edge) of the chart - price is simply trending down with minor consolidation, not coiling into an apex.",
+  "validated_at": "2026-10-01T16:23:51.687229+00:00"
 }

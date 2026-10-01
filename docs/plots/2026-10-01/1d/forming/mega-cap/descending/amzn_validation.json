@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 82,
+  "presence_confidence": 80,
   "pattern_quality": null,
-  "validation_notes": "The right edge of the chart shows a sharp impulsive rally from ~262 to ~286 followed by a pullback to ~273-281, not a converging compression pattern. There's no flat support line or descending resistance line with multiple touches - just a single strong up-move with a few days of consolidation/pullback at the top. This looks more like a breakout/pullback after a reversal from the June low than a descending triangle. A descending triangle requires a series of lower highs against a flat support tested multiple times, which isn't present here - there are only 2-3 candles at the recent high, insufficient touch points to confirm a trendline on either side. I disagree with the algorithm's flag.",
-  "validated_at": "2026-10-01T15:25:12.469614+00:00"
+  "validation_notes": "The right side shows a sharp rally from ~233 to ~287 followed by a pullback to ~272-280, not a converging triangle. There's no clear flat support with lower highs converging - instead we see a strong impulsive move up (gap-like candle around late July/early Aug) followed by a few days of consolidation/pullback. This is too short and too directional (breakout move) to constitute a descending triangle, which requires a flat support line and declining resistance over multiple touches. The algorithm likely misread the brief 3-4 candle pullback after the rally as a triangle, but there aren't two clear touches on each side forming a genuine convergence - it's more consistent with a post-breakout consolidation/flag than a triangle.",
+  "validated_at": "2026-10-01T16:22:36.980949+00:00"
 }

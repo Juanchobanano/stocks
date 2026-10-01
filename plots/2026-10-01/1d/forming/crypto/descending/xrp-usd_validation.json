@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 72,
+  "presence_confidence": 75,
   "pattern_quality": null,
-  "validation_notes": "The right side of the chart (Jun 15 - Aug 04) shows a relatively flat, choppy consolidation between roughly 1.05 and 1.20, not a clear converging triangle. There's no well-defined descending resistance line with consistently lower highs - the highs bounce around in a range (e.g., ~1.20 in late Jun, ~1.18 in mid-Jul, ~1.17 in late Jul) without clean convergence toward the flat support near 1.05-1.07. This looks more like sideways consolidation/basing after a steep downtrend than a descending triangle. The price action lacks the progressively tightening range needed for a credible triangle; it's more of a rectangle/range-bound pattern with noisy touches on both sides.",
-  "validated_at": "2026-10-01T15:24:34.397742+00:00"
+  "validation_notes": "The right-edge price action (June\u2013August) shows a choppy, range-bound consolidation between roughly 1.0 and 1.2, but there's no clear converging structure. The lows are flat-to-slightly-declining (around 1.0-1.05) while the highs are also roughly flat (around 1.15-1.20), forming more of a horizontal rectangle/range than a descending triangle with clear lower highs. A descending triangle requires a distinctly falling upper trendline, which isn't visible here - the highs in June, July, and early August are all similar in height rather than progressively lower. This looks more like sideways consolidation after a downtrend than a triangle compression pattern. I disagree with the algorithm's flag - there isn't sufficient evidence of a converging wedge with 2+ clean touches on a declining upper trendline.",
+  "validated_at": "2026-10-01T16:21:59.248527+00:00"
 }

@@ -8,6 +8,6 @@
   "pattern_agree": false,
   "presence_confidence": 70,
   "pattern_quality": null,
-  "validation_notes": "The right side of the chart shows a choppy decline from ~690 (late Jun) to a low near 525 (late Jul), followed by a small bounce to ~600. This looks like a volatile downtrend/consolidation, not a clean descending triangle. There's no flat support line - lows keep dropping (660->630->525) and highs are also irregular, not forming consistent lower highs converging toward a flat base. Price action is more erratic/range-bound than a compressing wedge. I disagree with the algorithm's flag; the structure lacks the clear flat-bottom + descending-top geometry required for a descending triangle.",
-  "validated_at": "2026-10-01T15:25:17.104141+00:00"
+  "validation_notes": "The right side of the chart shows choppy, range-bound price action between roughly 580 and 690, but there's no clear convergence. Highs are not forming a consistent descending line (e.g., bounces to ~685-690 in late Jun/early Jul, then lower highs around 640-650, but inconsistent), and lows are jumping around (drop to ~525 in early Aug, then bounce) rather than holding a flat support. This looks more like a wide trading range / consolidation with volatility spikes than a genuine descending triangle with a flat bottom and lower highs converging toward an apex. No clear tightening of the range near the right edge - the last candles still show a large wick down to 525 and recovery, which contradicts compression. I disagree with the algorithm's flag; the structure lacks the orderly 3+ touch convergence needed for a credible triangle.",
+  "validated_at": "2026-10-01T16:22:42.715491+00:00"
 }

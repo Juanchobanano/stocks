@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 82,
+  "presence_confidence": 78,
   "pattern_quality": null,
-  "validation_notes": "The right side of the chart (late July into early August) shows price trading in a tight, flat, range-bound band between roughly 0.0655 and 0.0685 with no clear rising lower support line or converging structure. Highs and lows are essentially horizontal, not forming higher lows (ascending) or lower highs/converging trendlines. This looks more like a flat consolidation/rectangle than an ascending triangle. The algorithm likely mistook a flat range for a triangle, but there's no visible convergence toward an apex - both boundaries appear roughly parallel/flat rather than compressing. I disagree with the ascending triangle call since there's no rising support trendline evident in the last 15-20 candles.",
-  "validated_at": "2026-10-01T15:27:52.863921+00:00"
+  "validation_notes": "The right side of the chart shows price moving in a tight, mostly flat range (~0.065-0.068) with no clear rising lower support line - lows are roughly flat/slightly declining rather than forming higher lows. There's no discernible converging resistance line either since recent price action is choppy and range-bound rather than compressing toward an apex. This looks more like a flat consolidation/minor downtrend after the broader decline from the Jul 15 peak (~0.075) than a credible ascending triangle. The algorithm's flag doesn't hold up visually - I don't see 2+ clear touches forming a rising trendline on the lows near the right edge.",
+  "validated_at": "2026-10-01T16:25:24.535611+00:00"
 }

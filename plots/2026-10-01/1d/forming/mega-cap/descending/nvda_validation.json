@@ -8,6 +8,6 @@
   "pattern_agree": false,
   "presence_confidence": 80,
   "pattern_quality": null,
-  "validation_notes": "The right portion of the chart shows a sharp V-shaped reversal: price dropped to ~190 in early August then rallied strongly to ~220 over the last few candles. This is a sharp impulsive move, not a converging triangle structure. There's no clear flat support with lower highs converging - instead we see a clean breakout/reversal with strong momentum candles. No credible descending triangle touch points exist on the right edge; the algorithm likely mistook the prior consolidation (Jun-Jul) mixed with the recent bounce as a pattern, but there's no current compression - price already broke out upward decisively.",
-  "validated_at": "2026-10-01T15:25:07.731539+00:00"
+  "validation_notes": "The right side of the chart shows a sharp V-shaped reversal: price dropped to ~190 in late July, then rallied strongly and consecutively to ~220 over just a few sessions. This is a breakout/impulsive move, not a converging triangle. There's no clear flat support line with lower highs compressing - instead we see a clean reversal and uptrend with increasing range, the opposite of compression. No credible descending triangle structure (flat support + falling resistance) is visible; the algorithm likely misread the V-bottom as consolidation. Prior to that, price action from mid-June to late-July shows a broader range/channel rather than a tightening wedge. Overall this looks like a trend reversal, not a triangle pattern forming near the apex.",
+  "validated_at": "2026-10-01T16:22:31.347788+00:00"
 }

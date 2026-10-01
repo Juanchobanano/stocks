@@ -6,8 +6,8 @@
   "claude_pattern": "?",
   "claude_direction": "?",
   "pattern_agree": false,
-  "presence_confidence": 70,
+  "presence_confidence": 72,
   "pattern_quality": null,
-  "validation_notes": "The chart shows a clear downtrend from late June through late July (440 to ~355), followed by a modest basing/consolidation in the last ~10 candles around 360-385. There isn't a well-defined flat support line with a clearly descending resistance line converging toward it - the recent price action looks more like a shallow bottoming/consolidation range than a classic descending triangle. Touch points on a 'flat support' are weak (only 2-3 candles near 355-365) and the 'resistance' line would need to be drawn through widely scattered highs (395, 385, 380) which isn't a clean descending line. This looks more like a down-move losing momentum and starting to flatten out, rather than a textbook triangle with apex compression. I'd disagree with the algo's descending triangle call - the structure is too loose and lacks the clean two-line convergence needed.",
-  "validated_at": "2026-10-01T15:28:14.766735+00:00"
+  "validation_notes": "The chart shows a clear downtrend from late June through late July (peak ~440 down to ~355), followed by a modest basing/consolidation in the last week (Aug 1-05) around 360-385. There is no clear flat support line with a descending resistance line converging toward it - the 'lower highs' in late July are just part of the broader downtrend, not a distinct resistance trendline, and the recent bars show choppy consolidation rather than a tightening wedge with consistent touch points on both sides. At most there's a slight basing/reversal attempt at the bottom, but it lacks the two-line convergence structure needed to call it a descending triangle. I disagree with the algorithm's flag - this looks more like a downtrend transitioning into a sideways range, not a textbook descending triangle.",
+  "validated_at": "2026-10-01T16:25:45.579065+00:00"
 }
