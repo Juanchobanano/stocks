@@ -1,0 +1,13 @@
+{
+  "symbol": "GOOGL",
+  "algo_pattern": "Ascending",
+  "algo_direction": "SHORT",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp, strong uptrend from ~320 to ~382 followed by a sudden sharp reversal/pullback to ~357-365, not a converging consolidation. There's no clear flat or rising support with a flat resistance ceiling being tested multiple times - instead price made a vertical run and then one large reversal candle. This looks more like a blow-off top / failed breakout than an ascending triangle. There are not enough touch points on both upper and lower boundaries to confirm convergence; the recent candles are too few and too volatile (one huge red reversal candle) to define a reliable triangle. I disagree with the algorithm's ascending triangle call - the structure lacks the repeated higher-low touches and flat resistance needed, and the most recent price action suggests a sharp reversal rather than compression into an apex.",
+  "validated_at": "2026-10-01T15:28:06.845488+00:00"
+}

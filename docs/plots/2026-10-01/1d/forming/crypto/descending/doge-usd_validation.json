@@ -1,0 +1,13 @@
+{
+  "symbol": "DOGE-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 80,
+  "pattern_quality": null,
+  "validation_notes": "The right edge of the chart (late June through early August) shows price action that has flattened out around 0.068-0.078, but this looks more like a basing/consolidation range than a descending triangle. There's no clear series of lower highs converging into a flat support line - the highs and lows both appear roughly flat/choppy with no discernible converging trendlines. The move into this zone was a sharp downtrend from May highs (~0.115) to current levels, followed by sideways chop with small overlapping candles - this resembles consolidation after a decline, not a well-defined triangle with 2+ clean touches on both a falling resistance and flat support. I disagree with the algorithm's descending triangle flag because the resistance line isn't clearly descending with distinct lower-high touch points; it's more flat/noisy than a converging pattern.",
+  "validated_at": "2026-10-01T15:24:46.276881+00:00"
+}

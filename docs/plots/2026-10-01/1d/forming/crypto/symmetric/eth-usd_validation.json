@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (mid-June to late July) shows a recovery from the ~1550 low into a choppy, roughly flat consolidation range between ~1800 and ~1950. The highs and lows are not converging - price has been moving mostly sideways in a tight band rather than compressing into an apex. There's no clear descending upper trendline or rising lower trendline with consistent touch points forming a narrowing wedge. This looks more like a flat/rectangular consolidation after a sharp downtrend and recovery, not a symmetric triangle. The algorithm likely mistook general price compression (low volatility consolidation) for a triangle, but the trendlines don't show clear convergence toward an apex.",
+  "validated_at": "2026-10-01T15:24:28.885434+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a choppy decline from ~690 (late Jun) to a low near 525 (late Jul), followed by a small bounce to ~600. This looks like a volatile downtrend/consolidation, not a clean descending triangle. There's no flat support line - lows keep dropping (660->630->525) and highs are also irregular, not forming consistent lower highs converging toward a flat base. Price action is more erratic/range-bound than a compressing wedge. I disagree with the algorithm's flag; the structure lacks the clear flat-bottom + descending-top geometry required for a descending triangle.",
+  "validated_at": "2026-10-01T15:25:17.104141+00:00"
+}

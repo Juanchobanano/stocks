@@ -1,0 +1,57 @@
+//@version=5
+// NEM — Ascending Triangle △  (SHORT (bearish) setup)
+// Pattern:  flat top A→C, rising floor B→D
+// Status:   COMPLETED
+// Direction: SHORT
+indicator("NEM Triangle", overlay=true, max_lines_count=500, max_labels_count=500)
+
+// ── Pivot timestamps ──────────────────────────────────────────
+tA = timestamp(2026, 6, 26, 0, 0)
+tB = timestamp(2026, 6, 30, 0, 0)
+tC = timestamp(2026, 7, 6, 0, 0)
+tD = timestamp(2026, 7, 13, 0, 0)
+
+// ── Pivot prices ──────────────────────────────────────────────
+pA = 97.88
+pB = 91.71
+pC = 98.93
+pD = 92.43
+pF = 95.33
+
+// ── Trendline endpoints at current bar ────────────────────────
+pUpperEnd = 103.90
+pLowerEnd = 94.01
+
+// ── TRENDLINES — from first pivot to current bar ──────────────
+if barstate.islast
+    // Upper: first high → current bar
+    line.new(tA, pA, last_bar_time, pUpperEnd, xloc=xloc.bar_time,
+             color=color.white, width=4)
+    // Lower: first low → current bar
+    line.new(tB, pB, last_bar_time, pLowerEnd, xloc=xloc.bar_time,
+             color=color.new(#ffff00, 0), width=4)
+
+// ── HORIZONTAL TRADE LEVELS ───────────────────────────────────
+hline(86.02, "TP full  +6.9%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(89.19, "TP half  +3.4%",  color.new(#ffff00, 20), hline.style_dashed, 4)
+hline(92.36, "Entry  92.36",    color.white,             hline.style_solid,  4)
+hline(100.25, "Stop  -8.5%",     color.new(#ffff00, 20),  hline.style_dashed, 4)
+
+// ── POINT LABELS ───────────────────────────────────────────────
+if barstate.islast
+    c = color.new(color.white, 80)
+    // Highs — label below
+    label.new(tA, pA, "A", xloc=xloc.bar_time, color=c, textcolor=color.white, style=label.style_label_down, size=size.normal)
+    label.new(tC, pC, "C", xloc=xloc.bar_time, color=c, textcolor=color.white, style=label.style_label_down, size=size.normal)
+    // Lows — label above
+    label.new(tB, pB, "B", xloc=xloc.bar_time, color=c, textcolor=color.white, style=label.style_label_up,   size=size.normal)
+    label.new(tD, pD, "D", xloc=xloc.bar_time, color=c, textcolor=color.white, style=label.style_label_up,   size=size.normal)
+    label.new(tD, pD, "E", xloc=xloc.bar_time, color=c, textcolor=color.white, style=label.style_label_up,   size=size.normal)
+    label.new(tD, pF, "F", xloc=xloc.bar_time, color=c, textcolor=color.white, style=label.style_label_up,   size=size.normal)
+
+// ── RIGHT-EDGE LEVEL LABELS ────────────────────────────────────
+if barstate.islast
+    label.new(bar_index + 2, 100.25, "Stop L  100.25  (-8.5%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 92.36, "Entry L  92.36", color=color.new(color.white, 90), textcolor=color.new(color.white, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 89.19, "TP half  89.19  (+3.4%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)
+    label.new(bar_index + 2, 86.02, "TP full  86.02  (+6.9%)", color=color.new(#ffff00, 90), textcolor=color.new(#ffff00, 0), style=label.style_none, size=size.large)

@@ -1,0 +1,13 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 68,
+  "pattern_quality": null,
+  "validation_notes": "From late June through late July price shows a gradual downtrend with lower highs (82 -> 78 -> 75) but the lows are also declining (76 -> 74 -> 72), making the range roughly flat to mildly descending rather than converging into an apex. There's no clear rising support line required for a symmetric triangle - both boundaries are flat-to-slightly-down, which looks more like a shallow descending channel/consolidation than a true converging triangle. Touch points on a would-be lower support are inconsistent (lows near 76, 74, 72, 71 are trending down at similar slope to the highs, not converging). I don't see the apex compression the algorithm flagged; price looks like it's drifting sideways/down without a clean wedge shape, so I disagree with the Symmetric triangle call.",
+  "validated_at": "2026-10-01T15:24:39.611621+00:00"
+}

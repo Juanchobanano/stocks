@@ -1,0 +1,54 @@
+{
+  "symbol": "NXPI",
+  "sector": "semiconductors",
+  "beta": 1.85,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-05-27",
+      "end": "2026-07-09",
+      "duration_days": 43,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 317.3,
+        "stop_loss": 264.03,
+        "take_profit_half": 344.52,
+        "take_profit_full": 371.75,
+        "height": 54.45
+      },
+      "volume_trend": {
+        "slope": 19019.51,
+        "trend": "flat",
+        "r_squared": 0.0123
+      },
+      "points": {
+        "A": [
+          "2026-05-27",
+          337.283
+        ],
+        "B": [
+          "2026-06-09",
+          277.1683
+        ],
+        "C": [
+          "2026-06-22",
+          324.9307
+        ],
+        "D": [
+          "2026-07-07",
+          265.8338
+        ],
+        "E": [
+          "2026-07-09",
+          296.7049
+        ],
+        "F": [
+          "2026-07-09",
+          289.2385
+        ]
+      }
+    }
+  ]
+}

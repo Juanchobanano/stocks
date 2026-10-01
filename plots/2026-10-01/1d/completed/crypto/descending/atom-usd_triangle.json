@@ -1,0 +1,54 @@
+{
+  "symbol": "ATOM-USD",
+  "sector": "crypto",
+  "beta": null,
+  "triangles": [
+    {
+      "pattern": "Descending",
+      "complete": true,
+      "direction": "LONG",
+      "start": "2026-01-14",
+      "end": "2026-03-18",
+      "duration_days": 63,
+      "trade_levels": {
+        "direction": "LONG",
+        "entry": 2.37,
+        "stop_loss": 1.7,
+        "take_profit_half": 2.88,
+        "take_profit_full": 3.38,
+        "height": 1.02
+      },
+      "volume_trend": {
+        "slope": -196217.79,
+        "trend": "flat",
+        "r_squared": 0.0348
+      },
+      "points": {
+        "A": [
+          "2026-01-14",
+          2.6919
+        ],
+        "B": [
+          "2026-02-06",
+          1.6898
+        ],
+        "C": [
+          "2026-02-18",
+          2.5006
+        ],
+        "D": [
+          "2026-03-09",
+          1.7076
+        ],
+        "E": [
+          "2026-03-18",
+          2.0318
+        ],
+        "F": [
+          "2026-03-18",
+          1.9065
+        ]
+      }
+    }
+  ]
+}
