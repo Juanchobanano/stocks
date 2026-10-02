@@ -1,0 +1,13 @@
+{
+  "symbol": "SOL-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 70,
+  "pattern_quality": null,
+  "validation_notes": "From late June to late July price trades in a fairly tight, roughly flat range (~72-83) with no clear convergence - highs and lows are both roughly flat/sideways rather than forming converging trendlines. This looks more like a flat consolidation/range than a triangle apex. There's no sequence of distinctly higher lows meeting lower highs; swings are choppy and similar in amplitude throughout the last month, lacking the narrowing wedge shape needed for a symmetric triangle. I disagree with the algorithm's symmetric triangle call - the structure is better described as sideways consolidation/range-bound price action rather than a converging triangle.",
+  "validated_at": "2026-10-02T14:42:59.088520+00:00"
+}

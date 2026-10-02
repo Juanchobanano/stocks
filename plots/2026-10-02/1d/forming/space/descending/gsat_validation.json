@@ -1,0 +1,13 @@
+{
+  "symbol": "GSAT",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 85,
+  "pattern_quality": null,
+  "validation_notes": "The chart shows a broad swing from ~80 up to ~84.5 (late May peak), a decline to ~79 (late July trough), and then a sharp breakout rally to ~84-85 at the far right. There's no clear convergence of upper and lower trendlines near the right edge - instead price gapped up sharply from the 79 area to 84 in just a few candles, which looks like an impulsive breakout rather than a contained descending triangle. The recent candles (last 3-4) show a small pullback/consolidation after the spike, but this is too brief and lacks multiple touch points on both a flat support and a descending resistance to qualify as a triangle. The algorithm likely mistook the prior downtrend (May-July) for a descending resistance line, but the pattern was already broken out well before the current price action, and there's no flat support being tested repeatedly. This looks more like a V-shaped recovery/breakout than a triangle in formation.",
+  "validated_at": "2026-10-02T14:44:38.373830+00:00"
+}

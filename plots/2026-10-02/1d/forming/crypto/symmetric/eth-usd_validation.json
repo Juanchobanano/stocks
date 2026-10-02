@@ -1,0 +1,13 @@
+{
+  "symbol": "ETH-USD",
+  "algo_pattern": "Symmetric",
+  "algo_direction": "SYMMETRIC",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late June through July) shows price recovering from a low around 1550 and then trading in a fairly flat, narrow range between ~1800 and 1950 for several weeks. This looks more like consolidation/basing with roughly parallel boundaries rather than a converging triangle - there's no clear narrowing of range into an apex. Highs are flat (~1950) and lows are flat (~1830-1850), which resembles a rectangle/range rather than a symmetric triangle with converging trendlines. I don't see a clear descending upper trendline or rising lower trendline converging toward a point. The algorithm likely misread the sideways consolidation as a triangle.",
+  "validated_at": "2026-10-02T14:42:44.832124+00:00"
+}

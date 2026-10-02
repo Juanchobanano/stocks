@@ -1,0 +1,13 @@
+{
+  "symbol": "SOFI",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a sharp drop in late July to ~15, followed by a strong impulsive rally back up to ~18.7, then a pullback. This is a V-shaped reversal with a big volume spike on the capitulation candle, not a converging triangle. There's no clear flat support with lower highs converging - instead there's a single low spike and an aggressive breakout rally. No consistent series of lower highs touching a descending trendline, and no multiple touches of a flat support level. The pattern looks more like a sharp reversal/breakout already in progress rather than a contained consolidation pattern. I disagree with the algorithm's descending triangle label as there isn't sufficient basing/compression structure visible near the right edge.",
+  "validated_at": "2026-10-02T14:44:30.623571+00:00"
+}

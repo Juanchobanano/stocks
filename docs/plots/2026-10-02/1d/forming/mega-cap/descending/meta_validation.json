@@ -1,0 +1,13 @@
+{
+  "symbol": "META",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart shows a choppy, range-bound structure with lower highs (670 -> 640 -> 590) but no flat or rising support line - lows actually decline from ~600 to ~525 before a sharp bounce. This looks more like a descending/falling channel or volatile consolidation than a converging triangle. There's no clear convergence - the range doesn't noticeably narrow toward an apex, and the last candles show a sharp drop to ~525 then a rebound, which breaks any support line that would have formed. I don't see enough clean touch points on a flat bottom to validate a descending triangle; it's more a downtrend with wide swings.",
+  "validated_at": "2026-10-02T14:44:00.176720+00:00"
+}

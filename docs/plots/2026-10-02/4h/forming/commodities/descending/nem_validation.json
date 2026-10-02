@@ -1,0 +1,13 @@
+{
+  "symbol": "NEM",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 78,
+  "pattern_quality": null,
+  "validation_notes": "Price shows a clear V-shaped recovery: a decline from ~110 down to ~90 (mid-June to mid-July), followed by a steady uptrend back to ~105 by early August, with higher lows and higher highs throughout the recovery leg. This is not a descending triangle - there's no flat support with lower highs compressing into an apex. Instead the right side shows a sustained rally with expanding/stair-stepping candles, not convergence. The algorithm likely picked up on the earlier downtrend portion but mischaracterized the overall structure, which is now trending up strongly with no visible compression near the right edge.",
+  "validated_at": "2026-10-02T14:47:37.061682+00:00"
+}

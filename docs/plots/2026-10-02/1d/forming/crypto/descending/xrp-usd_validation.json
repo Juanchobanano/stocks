@@ -1,0 +1,13 @@
+{
+  "symbol": "XRP-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "The right-side price action (Jun-Aug) shows a sharp decline from ~1.45 to ~1.05, followed by a period of low-volatility sideways consolidation roughly between 1.0 and 1.2. There isn't a clear converging structure with a flat support and descending resistance - rather price looks like it's ranging/flatlining after a downtrend, with roughly equal highs and lows (more like a flat consolidation box or minor channel than a converging triangle). Touch points on a descending upper trendline are weak - the recent highs (mid-Jun, early-Jul, late-Jul) are roughly flat around 1.15-1.2 rather than clearly descending, and lows are also flat around 1.0-1.05 rather than rising. This looks more like a rectangle/range than a descending triangle with clear convergence toward an apex. I don't see strong enough evidence of a converging apex forming near the right edge to confidently call this a triangle.",
+  "validated_at": "2026-10-02T14:42:54.565438+00:00"
+}

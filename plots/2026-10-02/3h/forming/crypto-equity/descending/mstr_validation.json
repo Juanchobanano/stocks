@@ -1,0 +1,13 @@
+{
+  "symbol": "MSTR",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 72,
+  "pattern_quality": null,
+  "validation_notes": "Since early July, price has been trading in a broad sideways range between roughly 90-92 support and 100-103 resistance, with no clear convergence. Highs and lows in the last few weeks (Jul 20-Aug 06) are roughly flat, not narrowing - there's no distinct rising lower trendline or falling upper trendline converging toward an apex. This looks more like a rectangle/range-bound consolidation than a descending triangle. The algorithm likely picked up on the relatively flat lower boundary (~93-95) but the upper boundary isn't showing consistent lower highs - recent candles (Jul 29-Aug06) show highs around 97-99 which is similar to or slightly higher than prior swing highs, not descending. I don't see a credible triangle compression at the right edge.",
+  "validated_at": "2026-10-02T14:46:12.155633+00:00"
+}

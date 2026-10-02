@@ -1,0 +1,13 @@
+{
+  "symbol": "VET-USD",
+  "algo_pattern": "Descending",
+  "algo_direction": "LONG",
+  "claude_found_triangle": false,
+  "claude_pattern": "?",
+  "claude_direction": "?",
+  "pattern_agree": false,
+  "presence_confidence": 75,
+  "pattern_quality": null,
+  "validation_notes": "The right side of the chart (late June through July) shows price trading in a tight, flat, range-bound consolidation around 0.0045-0.0050 with no clear converging trendlines. Highs and lows are roughly horizontal rather than converging - there's no descending upper trendline (lower highs) to pair with a flat support line. This looks more like a flat/rectangular consolidation after a sharp downtrend (Apr-Jun selloff) rather than a descending triangle. The algorithm's flag seems to be mistaking general sideways price compression for a true triangle, but I don't see distinct lower highs forming a descending resistance line - the recent candles are mostly oscillating in a narrow horizontal band with similar highs and lows, not a converging wedge.",
+  "validated_at": "2026-10-02T14:43:23.727713+00:00"
+}
